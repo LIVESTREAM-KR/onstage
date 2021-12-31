@@ -1,0 +1,43 @@
+[vibe_recent]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "div.section_intro div.video_info"
+titleSelector = "a.title"
+linkSelector = "div.main_text.custom_font.scrollmagic.animated a.title"
+contentSelector = "p.desc"
+waitForSelector = "div.section_intro"
+onFail = "stale"
+
+[vibe]
+title = "VIBE ─ 온스테이지"
+url = "https://vibe.naver.com/onstage/season/2"
+entrySelector = "ul.list li.item"
+titleSelector = "strong.item_title"
+linkSelector = "a.link_textarea"
+contentSelector = "a p.desc"
+waitForSelector = "li.item"
+onFail = "stale"
+
+[vlive]
+title = "ONSTAGE (온스테이지)"
+url = "https://www.vlive.tv/channel/E61323/board/4268?lang=ko"
+entrySelector = "li[class^='post_item']"
+titleSelector = "strong[class^='title_text']"
+linkSelector = "a[class^='post_area']"
+imageSelector = "span[class^='covered_image']"
+contentSelector = "em[class^='writer']"
+dateSelector = "span[class^='upload_time']"
+dateFormat = "M.d."
+waitUntil = "networkidle"
+onFail = "stale"
+
+[navertv]
+title = "ONSTAGE (온스테이지)"
+url = "https://tv.naver.com/onstage/clips"
+entrySelector = "div[class^='cds _MM_CARD']"
+titleSelector = "dt.title"
+linkSelector = "dt.title a"
+imageSelector = "div.cds_type a img"
+contentSelector = "span.tm_b"
+waitUntil = "networkidle"
+onFail = "stale"
