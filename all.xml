@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 14:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 15:08:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Mon, 03 Jan 2022 00:28:22 GMT</pubDate>
+            <title><![CDATA[심상치 않은 얼터너티브, 효도앤베이스 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12721</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12721</guid>
+            <pubDate>Mon, 03 Jan 2022 15:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[반복과 점층의 아름다움, 김재훈 with 다이브라인 앙상블 (VIBE ─ 온스테이지)]]></title>
