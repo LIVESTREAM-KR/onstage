@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 00:30:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 05 Jan 2022 11:07:23 GMT</pubDate>
+            <title><![CDATA[상상 속의 너, 살라만다(SALAMANDA) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12741</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12741</guid>
+            <pubDate>Thu, 06 Jan 2022 02:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[보일 듯한 소리를 그리는 앰비언트 듀오, 살라만다를 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[심상치 않은 얼터너티브, 효도앤베이스 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12721</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12721</guid>
+            <pubDate>Thu, 06 Jan 2022 02:06:08 GMT</pubDate>
+            <content:encoded><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[반복과 점층의 아름다움, 김재훈 with 다이브라인 앙상블 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +97,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/12501</guid>
             <pubDate>Fri, 31 Dec 2021 09:00:32 GMT</pubDate>
             <content:encoded><![CDATA[감각적인 알앤비 팝을 노래하는 듀오, 콧을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[목소리만으로 충만한 노래, 박지우 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12481</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12481</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:32 GMT</pubDate>
-            <content:encoded><![CDATA[수식 없이도 홀로 오롯이 전달될 음성, 싱어송라이터 박지우를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[효도앤베이스_City Song (with.김윤기) (ONSTAGE (온스테이지))]]></title>
@@ -239,6 +240,30 @@
             <guid>https://www.vlive.tv/post/0-26498697</guid>
             <pubDate>Thu, 18 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[살라만다(SALAMANDA)_My little fairy (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24438691</link>
+            <guid>https://tv.naver.com/v/24438691</guid>
+            <pubDate>Thu, 06 Jan 2022 02:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_241/HNBe7_1641347698413fCqEw_JPEG/e79de704-6dc6-11ec-84bc-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살라만다(SALAMANDA)_Knowledge (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24438251</link>
+            <guid>https://tv.naver.com/v/24438251</guid>
+            <pubDate>Thu, 06 Jan 2022 02:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[4:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_99/PH97l_16413461415529n6Wv_JPEG/4e5d55fa-6dc4-11ec-9190-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[살라만다(SALAMANDA)_Kali (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24437996</link>
+            <guid>https://tv.naver.com/v/24437996</guid>
+            <pubDate>Thu, 06 Jan 2022 02:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[6:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220105_94/ySdlJ_1641345029076vEsLf_JPEG/abca733d-6dc1-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효도앤베이스_강아지, 여자친구, 비데 (with.김윤기) (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +480,6 @@
             <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
             <content:encoded><![CDATA[3:36]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_28/16vt8_1635905307649gDEld_JPEG/8a5d4ef5-3c4a-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_좋다잘한다좋다(Dance of 5 Guardians) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23197693</link>
-            <guid>https://tv.naver.com/v/23197693</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_228/c5dcD_1635313427985tcdJG_JPEG/acde60aa-36e8-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_리츄얼댄스(Ritual Dance) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23197661</link>
-            <guid>https://tv.naver.com/v/23197661</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_200/PVEYB_1635313330910Sc9Dv_JPEG/6687ef82-36e8-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추다혜차지스(CHUDAHYE CHAGIS)_비나수+(Binasoo+) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23197604</link>
-            <guid>https://tv.naver.com/v/23197604</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[7:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211027_292/ujgSO_1635313205347j7vSM_JPEG/0df0f3d1-36e8-11ec-9a33-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
