@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jan 2022 18:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jan 2022 19:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/12741</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/12741</guid>
             <pubDate>Sat, 08 Jan 2022 18:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[보일 듯한 소리를 그리는 앰비언트 듀오, 살라만다를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[심상치 않은 얼터너티브, 효도앤베이스 (VIBE ─ 온스테이지)]]></title>
