@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 12:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 13:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[상상 속의 너, 살라만다(SALAMANDA) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12741</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12741</guid>
-            <pubDate>Wed, 12 Jan 2022 12:13:19 GMT</pubDate>
-            <content:encoded><![CDATA[보일 듯한 소리를 그리는 앰비언트 듀오, 살라만다를 소개합니다.]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Wed, 12 Jan 2022 13:18:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[심상치 않은 얼터너티브, 효도앤베이스 (VIBE ─ 온스테이지)]]></title>
@@ -240,6 +239,14 @@
             <guid>https://www.vlive.tv/post/1-26608799</guid>
             <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[온스테이지 특별 프로젝트] 신승은_왈츠를 배워볼게 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24558316</link>
+            <guid>https://tv.naver.com/v/24558316</guid>
+            <pubDate>Wed, 12 Jan 2022 13:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[3:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_19/7rsjG_1641956474639MdBxC_JPEG/a6d34a32-7352-11ec-b282-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[온스테이지 특별 프로젝트] 라포엠_만월 (ONSTAGE (온스테이지))]]></title>
@@ -472,14 +479,6 @@
             <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
             <content:encoded><![CDATA[3:34]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_15/zqKCJ_1635905480727CELqH_JPEG/2583efc8-3c4b-11ec-a3dc-246e963a464c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세영_Homework (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23311673</link>
-            <guid>https://tv.naver.com/v/23311673</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_294/AWvuq_1635905388448yn7uy_JPEG/f7e18078-3c4a-11ec-9ee0-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
