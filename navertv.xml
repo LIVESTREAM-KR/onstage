@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 10:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 11:07:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온스테이지 특별 프로젝트] 라포엠_만월]]></title>
+            <link>https://tv.naver.com/v/24558137</link>
+            <guid>https://tv.naver.com/v/24558137</guid>
+            <pubDate>Wed, 12 Jan 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[5:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_76/2PCmh_1641955920672q4Ble_JPEG/c6707772-7350-11ec-b11b-246e963a464c_10.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[살라만다(SALAMANDA)_My little fairy]]></title>
             <link>https://tv.naver.com/v/24438691</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
             <content:encoded><![CDATA[2:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211103_294/AWvuq_1635905388448yn7uy_JPEG/f7e18078-3c4a-11ec-9ee0-a0369ff94ed0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김세영_어떤 표정]]></title>
-            <link>https://tv.naver.com/v/23311643</link>
-            <guid>https://tv.naver.com/v/23311643</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211103_28/16vt8_1635905307649gDEld_JPEG/8a5d4ef5-3c4a-11ec-ba2c-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
