@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 12:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 13:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온스테이지 특별 프로젝트] 다린_갈래]]></title>
+            <link>https://tv.naver.com/v/24559772</link>
+            <guid>https://tv.naver.com/v/24559772</guid>
+            <pubDate>Thu, 13 Jan 2022 13:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[4:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_221/1EM0j_1641962081825KRFMC_JPEG/9b95818e-735a-11ec-99a2-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온스테이지 특별 프로젝트] Wave to Earth_Daisy]]></title>
             <link>https://tv.naver.com/v/24559072</link>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211117_9/D79Nz_1637137750177Y2l5b_JPEG/48ee5e91-4780-11ec-b2c0-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신승은_애매한 게]]></title>
-            <link>https://tv.naver.com/v/23580369</link>
-            <guid>https://tv.naver.com/v/23580369</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211117_154/olN5I_16371376753289Xfmv_JPEG/1895d02a-4780-11ec-9a6e-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
