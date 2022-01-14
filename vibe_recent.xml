@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-01-14T20:13:03.446Z</updated>
+    <updated>2022-01-14T21:08:01.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[감추지 않는 것의 미학, 안다영]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12761</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12761"/>
-        <updated>2022-01-14T19:08:09.329Z</updated>
-        <content type="html"><![CDATA[양가적 감정의 시작과 끝, 안다영을 소개합니다.]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2022-01-14T21:07:35.642Z</updated>
     </entry>
 </feed>
