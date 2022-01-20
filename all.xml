@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 03:07:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 04:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,14 @@
             <content:encoded><![CDATA['치유 무가(巫樂)'의 신개지, '추다혜차지스'를 소개합니다]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[주애_Call me back (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-27519998</link>
+            <guid>https://www.vlive.tv/post/1-27519998</guid>
+            <pubDate>Thu, 20 Jan 2022 04:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220120_101/16426517529895DNkq_JPEG/f18ab77f-79a4-11ec-bf5d-a0369ff952f4_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안다영_불행이 우리를 삼키려 할 때 내 사랑은 가장 영원해요 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-27412007</link>
             <guid>https://www.vlive.tv/post/1-27412007</guid>
@@ -119,7 +127,6 @@
             <guid>https://www.vlive.tv/post/1-27411954</guid>
             <pubDate>Thu, 13 Jan 2022 03:11:16 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220113_8/16420439942414VYKF_JPEG/61c08778-7417-11ec-b27b-48df379cca40_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[살라만다(SALAMANDA)_My little fairy (ONSTAGE (온스테이지))]]></title>
@@ -230,13 +237,6 @@
             <title><![CDATA[라포엠(LA POEM)_사랑의 노래 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-26712006</link>
             <guid>https://www.vlive.tv/post/0-26712006</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라포엠(LA POEM)_눈부신 밤 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26718565</link>
-            <guid>https://www.vlive.tv/post/1-26718565</guid>
             <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
