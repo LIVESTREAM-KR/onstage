@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-01-20T00:32:30.946Z</updated>
+    <updated>2022-01-20T02:07:04.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[감추지 않는 것의 미학, 안다영]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12761</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12761"/>
+        <updated>2022-01-20T02:06:48.474Z</updated>
+        <content type="html"><![CDATA[양가적 감정의 시작과 끝, 안다영을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[상상 속의 너, 살라만다(SALAMANDA)]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12741</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12541"/>
         <updated>2021-12-31T09:00:32.987Z</updated>
         <content type="html"><![CDATA['치유 무가(巫樂)'의 신개지, '추다혜차지스'를 소개합니다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재즈 오케스트라의 미래, Jihye Lee Orchestra]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12521</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12521"/>
-        <updated>2021-12-31T09:00:32.987Z</updated>
-        <content type="html"><![CDATA[과감한 행보로 새 역사를 써가는 재즈 뮤지션, 지혜리를 소개합니다.]]></content>
     </entry>
 </feed>
