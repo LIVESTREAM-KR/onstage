@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-01-25T17:12:52.651Z</updated>
+    <updated>2022-01-25T18:11:12.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-01-25T11:06:39.971Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/12781</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12781"/>
+        <updated>2022-01-25T18:10:48.446Z</updated>
     </entry>
 </feed>
