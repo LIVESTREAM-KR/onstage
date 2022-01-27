@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-01-27T01:52:30.735Z</updated>
+    <updated>2022-01-27T02:23:15.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장르가 아닌 무드, 주애]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12781</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12781"/>
+        <updated>2022-01-27T02:22:59.605Z</updated>
+        <content type="html"><![CDATA[나만의 무드를 만들고픈 싱어송라이터, 주애를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[감추지 않는 것의 미학, 안다영]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12761</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12561"/>
         <updated>2021-12-31T09:00:32.979Z</updated>
         <content type="html"><![CDATA[매번 새로운 음악을 고민하는 싱어송라이터, 김세영을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 시대 샤먼의 탄생, 추다혜차지스(CHUDAHYE CHAGIS)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12541</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12541"/>
-        <updated>2021-12-31T09:00:32.987Z</updated>
-        <content type="html"><![CDATA['치유 무가(巫樂)'의 신개지, '추다혜차지스'를 소개합니다]]></content>
     </entry>
 </feed>
