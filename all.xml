@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 00:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 01:52:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,30 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[사막꽃_intheafterglow (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24806471</link>
+            <guid>https://tv.naver.com/v/24806471</guid>
+            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[6:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_6/a49y5_1643180030103mjRWt_JPEG/56a2c788-7e73-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사막꽃_Plata O Plomo (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24806212</link>
+            <guid>https://tv.naver.com/v/24806212</guid>
+            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[7:20]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_103/MzN51_1643179428505o6hAY_JPEG/e394b2dc-7e71-11ec-8581-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사막꽃_걸음마 (first step) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24805905</link>
+            <guid>https://tv.naver.com/v/24805905</guid>
+            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[7:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_279/I6SNx_16431787895989RrA7_JPEG/c6adabb4-7e70-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[주애_무표정(Lucid Dream)(prod.Hookuo) (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/24685726</link>
             <guid>https://tv.naver.com/v/24685726</guid>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
             <content:encoded><![CDATA[4:46]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211201_63/8J1Cs_16383308988292yrMc_JPEG/4f840920-525a-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라포엠(LA POEM)_사랑의 노래 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23834639</link>
-            <guid>https://tv.naver.com/v/23834639</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_76/IfzhQ_1638330822285Re6eI_JPEG/0d3e3ee9-525a-11ec-9a33-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wave to earth_seasons (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23712910</link>
-            <guid>https://tv.naver.com/v/23712910</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_294/cuH5N_16377304631969OWTE_JPEG/3be572d2-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[wave to earth_Daisy. (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23712905</link>
-            <guid>https://tv.naver.com/v/23712905</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211124_189/PPOze_1637730434157RJBeQ_JPEG/22d34bcf-4ce4-11ec-9e9c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
