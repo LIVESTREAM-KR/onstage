@@ -4,9 +4,25 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 08:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 09:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사막꽃_intheafterglow]]></title>
+            <link>https://www.vlive.tv/post/1-27637458</link>
+            <guid>https://www.vlive.tv/post/1-27637458</guid>
+            <pubDate>Thu, 27 Jan 2022 09:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_57/1643273108132BVjLL_JPEG/27ca0bbf-7f4b-11ec-b3f1-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사막꽃_Plata O Plomo]]></title>
+            <link>https://www.vlive.tv/post/1-27637206</link>
+            <guid>https://www.vlive.tv/post/1-27637206</guid>
+            <pubDate>Thu, 27 Jan 2022 09:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220127_165/1643272117529EO81I_JPEG/9135e7d4-7f46-11ec-9f25-246e963a49a8_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사막꽃_걸음마 (first step)]]></title>
             <link>https://www.vlive.tv/post/0-27630532</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-27520442</guid>
             <pubDate>Thu, 20 Jan 2022 05:08:19 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_55/1642653719057ugnxi_JPEG/96c75db0-79a7-11ec-99fd-a0369ff94ed0_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주애_Salvia(Prod.위대한)]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-27513986</guid>
             <pubDate>Thu, 20 Jan 2022 05:08:19 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220120_69/1642652115466ouWMz_JPEG/be065285-79a6-11ec-8fb9-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주애_Call me back]]></title>
@@ -134,20 +148,6 @@
             <link>https://www.vlive.tv/post/1-26961480</link>
             <guid>https://www.vlive.tv/post/1-26961480</guid>
             <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[형선(HYNGSN)_Damdi]]></title>
-            <link>https://www.vlive.tv/post/0-26955569</link>
-            <guid>https://www.vlive.tv/post/0-26955569</guid>
-            <pubDate>Thu, 16 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[다린_가을]]></title>
-            <link>https://www.vlive.tv/post/0-26857846</link>
-            <guid>https://www.vlive.tv/post/0-26857846</guid>
-            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
