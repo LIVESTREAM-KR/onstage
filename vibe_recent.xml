@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-02-01T17:12:58.682Z</updated>
+    <updated>2022-02-01T18:10:06.621Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[불투명한 미래 속으로 담대하게, 사막꽃]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12801</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12801"/>
-        <updated>2022-02-01T17:12:35.293Z</updated>
-        <content type="html"><![CDATA[부유하는 청춘을 연주하는 밴드, 사막꽃을 소개합니다.]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2022-02-01T18:09:41.158Z</updated>
     </entry>
 </feed>
