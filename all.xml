@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 14:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 15:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 02 Feb 2022 03:07:49 GMT</pubDate>
+            <link>https://vibe.naver.com/onstage/season/2/article/12801</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12801</guid>
+            <pubDate>Wed, 02 Feb 2022 15:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[부유하는 청춘을 연주하는 밴드, 사막꽃을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[장르가 아닌 무드, 주애 (VIBE ─ 온스테이지)]]></title>
