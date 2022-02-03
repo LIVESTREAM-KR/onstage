@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,12 +98,35 @@
             <content:encoded><![CDATA[대담하고 담백한 자신감을 보여주는 3인조 밴드, 삐리뿌를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Seori_Really high (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-27743055</link>
+            <guid>https://www.vlive.tv/post/1-27743055</guid>
+            <pubDate>Thu, 03 Feb 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_157/1643867239029BK7RU_JPEG/5db50752-84b3-11ec-8581-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seori_Lovers in the night (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-27736399</link>
+            <guid>https://www.vlive.tv/post/0-27736399</guid>
+            <pubDate>Thu, 03 Feb 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_27/1643866625714EqhCU_JPEG/fd22b268-84b1-11ec-9ab6-a0369ff963bc_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seori_Dive with you (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-27736275</link>
+            <guid>https://www.vlive.tv/post/0-27736275</guid>
+            <pubDate>Thu, 03 Feb 2022 06:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220203_65/1643866041349dGy4b_JPEG/0799cb1f-84b1-11ec-89ca-505dac8c35ff_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사막꽃_intheafterglow (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-27637458</link>
             <guid>https://www.vlive.tv/post/1-27637458</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:10 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_57/1643273108132BVjLL_JPEG/27ca0bbf-7f4b-11ec-b3f1-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사막꽃_Plata O Plomo (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/1-27637206</guid>
             <pubDate>Thu, 27 Jan 2022 09:09:10 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_165/1643272117529EO81I_JPEG/9135e7d4-7f46-11ec-9f25-246e963a49a8_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사막꽃_걸음마 (first step) (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-27630532</guid>
             <pubDate>Thu, 27 Jan 2022 08:11:31 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220127_127/1643270148837NTLX6_JPEG/1068148d-7f45-11ec-9c62-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주애_무표정(Lucid Dream)(prod.Hookuo) (ONSTAGE (온스테이지))]]></title>
@@ -216,27 +237,6 @@
             <title><![CDATA[김재훈_WOOD SONG (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-27050444</link>
             <guid>https://www.vlive.tv/post/1-27050444</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김재훈_MINE (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-27044300</link>
-            <guid>https://www.vlive.tv/post/0-27044300</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[형선(HYNGSN)_Day Life (Feat.크루셜스타) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26961486</link>
-            <guid>https://www.vlive.tv/post/1-26961486</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[형선(HYNGSN)_B-A-B-Y (Feat.SFC.JGR) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-26961480</link>
-            <guid>https://www.vlive.tv/post/1-26961480</guid>
             <pubDate>Thu, 06 Jan 2022 15:08:41 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
