@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 00:28:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 01:47:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Seori_Dive with you]]></title>
+            <link>https://tv.naver.com/v/24903352</link>
+            <guid>https://tv.naver.com/v/24903352</guid>
+            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_139/gHjpc_1643846628098UiaXU_JPEG/80aa81b3-8484-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seori_Lovers in the night]]></title>
+            <link>https://tv.naver.com/v/24903337</link>
+            <guid>https://tv.naver.com/v/24903337</guid>
+            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:36]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_48/FyXyt_1643846501427GPCRV_JPEG/7e248eb1-8483-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seori_Really high]]></title>
+            <link>https://tv.naver.com/v/24903285</link>
+            <guid>https://tv.naver.com/v/24903285</guid>
+            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
+            <content:encoded><![CDATA[3:28]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_57/u5FM0_1643846067301X3zL1_JPEG/521e60cf-8482-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사막꽃_intheafterglow]]></title>
             <link>https://tv.naver.com/v/24806471</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
             <content:encoded><![CDATA[4:04]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211208_122/Zu9Ez_1638936377034pvmUP_JPEG/cbb6ecb2-57db-11ec-9970-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다린_가을]]></title>
-            <link>https://tv.naver.com/v/23970399</link>
-            <guid>https://tv.naver.com/v/23970399</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_113/maiGB_1638936194505Vq3zH_JPEG/6f9606e6-57db-11ec-9d5b-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라포엠(LA POEM)_샤이닝]]></title>
-            <link>https://tv.naver.com/v/23834689</link>
-            <guid>https://tv.naver.com/v/23834689</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[6:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_115/R68zH_1638331011962apYSQ_JPEG/89ef5361-525a-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[라포엠(LA POEM)_눈부신 밤]]></title>
-            <link>https://tv.naver.com/v/23834652</link>
-            <guid>https://tv.naver.com/v/23834652</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:46]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211201_63/8J1Cs_16383308988292yrMc_JPEG/4f840920-525a-11ec-9524-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
