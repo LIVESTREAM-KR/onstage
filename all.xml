@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 00:29:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 01:52:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,30 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[the 1234-dah! - 오프닝(멤버소개) + 어색해도 조금만 더 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25020993</link>
+            <guid>https://tv.naver.com/v/25020993</guid>
+            <pubDate>Thu, 10 Feb 2022 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_226/8mUmx_1644375861287kfotK_JPEG/7644a0e2-8954-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[the 1234-dah! - 다정한사람 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25020992</link>
+            <guid>https://tv.naver.com/v/25020992</guid>
+            <pubDate>Thu, 10 Feb 2022 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_218/WxLAd_1644375850694HNbMI_JPEG/60b2c79b-8954-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[the 1234-dah! - 크리피 러브 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25020917</link>
+            <guid>https://tv.naver.com/v/25020917</guid>
+            <pubDate>Thu, 10 Feb 2022 01:52:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_204/DZxuk_1644375584516EYf66_JPEG/5177fe36-8950-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[온스테이지X디뮤지엄] 유라 - 미미(MIMI) (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/24980289</link>
             <guid>https://tv.naver.com/v/24980289</guid>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
             <content:encoded><![CDATA[3:35]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211216_208/WN6Hy_1639618068152zLqlK_JPEG/51a55c31-5e0d-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형선(HYNGSN)_Damdi (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24103038</link>
-            <guid>https://tv.naver.com/v/24103038</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_118/ROslh_1639618056294mkrAB_JPEG/33a77166-5e0d-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형선(HYNGSN)_Day Life (Feat.크루셜스타) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24102957</link>
-            <guid>https://tv.naver.com/v/24102957</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_282/ljGnw_1639617657734beKqM_JPEG/f358bc1a-5e0c-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다린_갈래 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/23970547</link>
-            <guid>https://tv.naver.com/v/23970547</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211208_227/5JDD0_1638936549705VlKgL_JPEG/44fa52a9-57dc-11ec-a74c-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
