@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 10:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 11:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -265,6 +265,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_204/DZxuk_1644375584516EYf66_JPEG/5177fe36-8950-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[온스테이지X디뮤지엄] 죠지 - 오랜만에 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24980362</link>
+            <guid>https://tv.naver.com/v/24980362</guid>
+            <pubDate>Thu, 10 Feb 2022 11:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_172/oPaKD_1644210585249ufjnh_JPEG/d6c55b00-87d3-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[온스테이지X디뮤지엄] 유라 - 미미(MIMI) (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/24980289</link>
             <guid>https://tv.naver.com/v/24980289</guid>
@@ -471,14 +479,6 @@
             <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_94/MOY26_1640149139250n0kgN_JPEG/1de137c2-62e3-11ec-badc-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[형선(HYNGSN)_B-A-B-Y (Feat.SFC.JGR) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24103040</link>
-            <guid>https://tv.naver.com/v/24103040</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211216_208/WN6Hy_1639618068152zLqlK_JPEG/51a55c31-5e0d-11ec-a331-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
