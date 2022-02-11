@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:08:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12841</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12841</guid>
-            <pubDate>Fri, 11 Feb 2022 09:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[다듬어지지 않아 더욱 눈이 가는 3인조 개러지펑크 밴드, the 1234-dah!를 소개합니다.]]></content:encoded>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Fri, 11 Feb 2022 10:08:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[은하수를 가득 삼킨 밤의 입김, Seori (VIBE ─ 온스테이지)]]></title>
@@ -266,6 +265,14 @@
             <enclosure url="https://phinf.pstatic.net/tvcast/20220209_204/DZxuk_1644375584516EYf66_JPEG/5177fe36-8950-11ec-9ab6-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[온스테이지X디뮤지엄] 박소은 - 말리부오렌지 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/24980483</link>
+            <guid>https://tv.naver.com/v/24980483</guid>
+            <pubDate>Fri, 11 Feb 2022 10:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[2:43]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_276/FDQrS_16442108565817ckn1_JPEG/2e6685ae-87d4-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[온스테이지X디뮤지엄] 죠지 - 오랜만에 (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/24980362</link>
             <guid>https://tv.naver.com/v/24980362</guid>
@@ -472,14 +479,6 @@
             <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
             <content:encoded><![CDATA[4:17]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211222_237/w0iCQ_1640149299648xgiiB_JPEG/ed99a366-62e3-11ec-bcc9-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재훈_WOOD SONG (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24200221</link>
-            <guid>https://tv.naver.com/v/24200221</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_94/MOY26_1640149139250n0kgN_JPEG/1de137c2-62e3-11ec-badc-48df37ae3fca_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
