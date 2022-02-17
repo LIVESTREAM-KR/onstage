@@ -4,16 +4,39 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 02:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 03:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CAMO_Freak Like Me]]></title>
+            <link>https://www.vlive.tv/post/1-27955300</link>
+            <guid>https://www.vlive.tv/post/1-27955300</guid>
+            <pubDate>Thu, 17 Feb 2022 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_81/1645065124167cgbTd_JPEG/a53a1200-8f98-11ec-a12c-505dac8c3721_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAMO_Wifey]]></title>
+            <link>https://www.vlive.tv/post/0-27948421</link>
+            <guid>https://www.vlive.tv/post/0-27948421</guid>
+            <pubDate>Thu, 17 Feb 2022 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_288/1645065137827XQOgw_JPEG/41004373-8f98-11ec-8052-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAMO_Shawty(feat.쿠기(Coogie))]]></title>
+            <link>https://www.vlive.tv/post/0-27948396</link>
+            <guid>https://www.vlive.tv/post/0-27948396</guid>
+            <pubDate>Thu, 17 Feb 2022 03:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220217_249/1645065153542W9Vk0_JPEG/d7956ada-8f97-11ec-bef7-505dac8c38f5_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[the 1234-dah!_오프닝(멤버소개) + 어색해도 조금만 더]]></title>
             <link>https://www.vlive.tv/post/1-27857974</link>
             <guid>https://www.vlive.tv/post/1-27857974</guid>
             <pubDate>Thu, 10 Feb 2022 02:22:30 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220210_27/1644459543319ODlqn_JPEG/0853dd57-8a16-11ec-89ca-505dac8c35ff_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[the 1234-dah!_다정한사람]]></title>
@@ -21,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-27857928</guid>
             <pubDate>Thu, 10 Feb 2022 02:22:30 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220210_2/1644459245562XC7sq_JPEG/8b598a83-8a15-11ec-8e85-48df379ccacc_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[the 1234-dah!_크리피 러브]]></title>
@@ -29,7 +51,6 @@
             <guid>https://www.vlive.tv/post/1-27857898</guid>
             <pubDate>Thu, 10 Feb 2022 02:22:30 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220210_207/1644458931373bu1gW_JPEG/0cf8f031-8a15-11ec-8fb9-48df379cc9e4_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Seori_Really high]]></title>
@@ -127,27 +148,6 @@
             <link>https://www.vlive.tv/post/0-27299810</link>
             <guid>https://www.vlive.tv/post/0-27299810</guid>
             <pubDate>Thu, 06 Jan 2022 03:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[살라만다(SALAMANDA)_Kali]]></title>
-            <link>https://www.vlive.tv/post/1-27306437</link>
-            <guid>https://www.vlive.tv/post/1-27306437</guid>
-            <pubDate>Thu, 06 Jan 2022 03:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스_City Song (with.김윤기)]]></title>
-            <link>https://www.vlive.tv/post/0-27170112</link>
-            <guid>https://www.vlive.tv/post/0-27170112</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스_여러가지 (with.김윤기)]]></title>
-            <link>https://www.vlive.tv/post/0-27169698</link>
-            <guid>https://www.vlive.tv/post/0-27169698</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
