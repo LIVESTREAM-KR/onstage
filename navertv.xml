@@ -4,9 +4,17 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[네이버 온스테이지 후원 라이브 '아도이' 온라인 단독 공연]]></title>
+            <link>https://tv.naver.com/v/25172067</link>
+            <guid>https://tv.naver.com/v/25172067</guid>
+            <pubDate>Thu, 17 Feb 2022 06:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[0:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_171/NX7ly_16450142876082op6W_JPEG/6858e98a-8f22-11ec-bcec-505dac8c35ff_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CAMO_Freak Like Me]]></title>
             <link>https://tv.naver.com/v/25159462</link>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 06 Jan 2022 02:06:26 GMT</pubDate>
             <content:encoded><![CDATA[6:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220105_94/ySdlJ_1641345029076vEsLf_JPEG/abca733d-6dc1-11ec-a831-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스_강아지, 여자친구, 비데 (with.김윤기)]]></title>
-            <link>https://tv.naver.com/v/24347345</link>
-            <guid>https://tv.naver.com/v/24347345</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_245/RlaMs_1640825342275nL22n_JPEG/d082fc31-6909-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
