@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:46:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CAMO_Freak Like Me]]></title>
+            <link>https://tv.naver.com/v/25159462</link>
+            <guid>https://tv.naver.com/v/25159462</guid>
+            <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_87/OUheV_16449815821166YFwB_JPEG/cd315343-8ed6-11ec-8a3e-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAMO_Wifey]]></title>
+            <link>https://tv.naver.com/v/25159412</link>
+            <guid>https://tv.naver.com/v/25159412</guid>
+            <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[1:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_273/qDUSU_1644981427610KKK9a_JPEG/79c5bbf8-8ed6-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CAMO_Shawty(feat.쿠기(Coogie))]]></title>
+            <link>https://tv.naver.com/v/25159399</link>
+            <guid>https://tv.naver.com/v/25159399</guid>
+            <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_141/Gddln_16449813626066JrDx_JPEG/3d273de4-8ed6-11ec-a7bf-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[the 1234-dah! - 오프닝(멤버소개) + 어색해도 조금만 더]]></title>
             <link>https://tv.naver.com/v/25020993</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
             <content:encoded><![CDATA[3:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20211230_245/RlaMs_1640825342275nL22n_JPEG/d082fc31-6909-11ec-bf61-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스_여러가지 (with.김윤기)]]></title>
-            <link>https://tv.naver.com/v/24347310</link>
-            <guid>https://tv.naver.com/v/24347310</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[2:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_229/5kz8R_16408252158724gAmd_JPEG/972b6ba1-6909-11ec-9d44-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[효도앤베이스_City Song (with.김윤기)]]></title>
-            <link>https://tv.naver.com/v/24347279</link>
-            <guid>https://tv.naver.com/v/24347279</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211230_202/J1JQd_1640825027501fGxSS_JPEG/f1758c25-6908-11ec-b908-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김재훈_MINE]]></title>
-            <link>https://tv.naver.com/v/24200348</link>
-            <guid>https://tv.naver.com/v/24200348</guid>
-            <pubDate>Fri, 31 Dec 2021 09:00:49 GMT</pubDate>
-            <content:encoded><![CDATA[6:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20211222_152/hRq4q_1640149456991PXL4t_JPEG/4b100856-62e4-11ec-83c9-a0369ff963bc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
