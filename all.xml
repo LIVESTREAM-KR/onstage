@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 01:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 02:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 17 Feb 2022 00:27:28 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[실용음악 시대의 안티테제, the 1234-dah! (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12841</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12841</guid>
+            <pubDate>Thu, 17 Feb 2022 02:18:34 GMT</pubDate>
+            <content:encoded><![CDATA[다듬어지지 않아 더욱 눈이 가는 3인조 개러지펑크 밴드, the 1234-dah!를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[은하수를 가득 삼킨 밤의 입김, Seori (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/12621</guid>
             <pubDate>Thu, 06 Jan 2022 15:08:28 GMT</pubDate>
             <content:encoded><![CDATA[세련미 넘치는 사운드로 새로운 물결을 그리는 밴드, 웨이브투어스를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[특별 프로젝트] 솔직함의 해학, 신승은 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12601</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12601</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[삶에 구체성을 부여하는 생명력의 노래, 신승은을 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[the 1234-dah!_오프닝(멤버소개) + 어색해도 조금만 더 (ONSTAGE (온스테이지))]]></title>
