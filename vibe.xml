@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-02-24T00:33:02.786Z</updated>
+    <updated>2022-02-24T02:02:27.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[힙합의 경계가 아닌 본령, CAMO]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12861</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12861"/>
+        <updated>2022-02-24T02:02:10.713Z</updated>
+        <content type="html"><![CDATA[태도의 멋을 보여주는 카모를 소개합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실용음악 시대의 안티테제, the 1234-dah!]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12841</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12641"/>
         <updated>2021-12-31T09:00:32.974Z</updated>
         <content type="html"><![CDATA[새로운 크로스오버 바람의 주역, 라포엠을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특별 프로젝트] 파도가 뭍에 닿는 순간, wave to earth]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12621</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12621"/>
-        <updated>2021-12-31T09:00:32.974Z</updated>
-        <content type="html"><![CDATA[세련미 넘치는 사운드로 새로운 물결을 그리는 밴드, 웨이브투어스를 소개합니다.]]></content>
     </entry>
 </feed>
