@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-03-03T00:35:58.996Z</updated>
+    <updated>2022-03-03T02:14:31.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑의 힘을 믿는 간절함, 송예린]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12881</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12881"/>
+        <updated>2022-03-03T02:14:15.298Z</updated>
+        <content type="html"><![CDATA[감정의 보편적 결핍을 개성적 충만으로 채우는 송예린을 소개합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[힙합의 경계가 아닌 본령, CAMO]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12861</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12661"/>
         <updated>2021-12-31T09:00:32.974Z</updated>
         <content type="html"><![CDATA[깊은 울림으로 사랑의 슬픔과 기쁨을 전달하는 싱어송라이터 다린을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[특별 프로젝트] 크로스오버 4중창, 라포엠(LA POEM)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12641</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12641"/>
-        <updated>2021-12-31T09:00:32.974Z</updated>
-        <content type="html"><![CDATA[새로운 크로스오버 바람의 주역, 라포엠을 소개합니다.]]></content>
     </entry>
 </feed>
