@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,22 @@
             <content:encoded><![CDATA[깊은 울림으로 사랑의 슬픔과 기쁨을 전달하는 싱어송라이터 다린을 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TENGGER_Sairo (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28166690</link>
+            <guid>https://www.vlive.tv/post/0-28166690</guid>
+            <pubDate>Thu, 03 Mar 2022 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_187/1646277024344GkE3C_JPEG/8c6fe5ae-9a99-11ec-ab19-d4f5ef5906a4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TENGGER_Kyrie (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28166396</link>
+            <guid>https://www.vlive.tv/post/0-28166396</guid>
+            <pubDate>Thu, 03 Mar 2022 03:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_255/16462744695278Ycpz_JPEG/3df3eafb-9a96-11ec-9e68-a0369ff9545c_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[송예린_바다 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-28066929</link>
             <guid>https://www.vlive.tv/post/0-28066929</guid>
@@ -111,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-28066767</guid>
             <pubDate>Thu, 24 Feb 2022 03:08:35 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_19/1645670746651d8aGt_JPEG/222582ed-9518-11ec-8ff6-505dac8c385b_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송예린_엄마를 닮은 얼굴 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +134,6 @@
             <guid>https://www.vlive.tv/post/1-28073315</guid>
             <pubDate>Thu, 24 Feb 2022 03:08:35 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_108/1645670770734MXo7s_JPEG/9bbfb06a-9517-11ec-8caf-a0369ff94f34_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CAMO_Freak Like Me (ONSTAGE (온스테이지))]]></title>
@@ -224,20 +238,6 @@
             <link>https://www.vlive.tv/post/1-27519998</link>
             <guid>https://www.vlive.tv/post/1-27519998</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안다영_불행이 우리를 삼키려 할 때 내 사랑은 가장 영원해요 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27412007</link>
-            <guid>https://www.vlive.tv/post/1-27412007</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안다영_먹이 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27411962</link>
-            <guid>https://www.vlive.tv/post/1-27411962</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
