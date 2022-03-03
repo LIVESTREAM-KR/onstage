@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-03-03T20:14:05.927Z</updated>
+    <updated>2022-03-03T21:08:59.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12901</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12901"/>
-        <updated>2022-03-03T20:13:39.750Z</updated>
-        <content type="html"><![CDATA[여행하며 소리의 경계를 허무는 가족, 텐거를 소개합니다.]]></content>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2022-03-03T21:08:35.547Z</updated>
     </entry>
 </feed>
