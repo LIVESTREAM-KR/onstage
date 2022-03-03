@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 03:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 04:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,14 @@
             <content:encoded><![CDATA[깊은 울림으로 사랑의 슬픔과 기쁨을 전달하는 싱어송라이터 다린을 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TENGGER_Achime (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-28173844</link>
+            <guid>https://www.vlive.tv/post/1-28173844</guid>
+            <pubDate>Thu, 03 Mar 2022 04:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220303_14/1646280091487xq1Yn_JPEG/80006672-9a9f-11ec-92eb-48df379cca40_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[TENGGER_Sairo (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-28166690</link>
             <guid>https://www.vlive.tv/post/0-28166690</guid>
@@ -119,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-28066929</guid>
             <pubDate>Thu, 24 Feb 2022 03:08:35 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220224_141/1645670722986rPO1H_JPEG/8986f6d6-9518-11ec-bcec-505dac8c35ff_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송예린_어디 (ONSTAGE (온스테이지))]]></title>
@@ -230,13 +237,6 @@
             <title><![CDATA[주애_Salvia(Prod.위대한) (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-27513986</link>
             <guid>https://www.vlive.tv/post/0-27513986</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주애_Call me back (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27519998</link>
-            <guid>https://www.vlive.tv/post/1-27519998</guid>
             <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
