@@ -4,16 +4,32 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크리스탈 티_나쁜아이]]></title>
+            <link>https://www.vlive.tv/post/1-28294157</link>
+            <guid>https://www.vlive.tv/post/1-28294157</guid>
+            <pubDate>Thu, 10 Mar 2022 08:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_139/1646896568705LJxgq_JPEG/35440066-a041-11ec-a7bf-48df37ae3dc4_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈 티_사랑의 달인]]></title>
+            <link>https://www.vlive.tv/post/0-28287317</link>
+            <guid>https://www.vlive.tv/post/0-28287317</guid>
+            <pubDate>Thu, 10 Mar 2022 08:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_256/1646896608972tWnHi_JPEG/a259ae7e-a040-11ec-8ff6-505dac8c385b_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스탈 티_조퇴의 기분]]></title>
             <link>https://www.vlive.tv/post/0-28287261</link>
             <guid>https://www.vlive.tv/post/0-28287261</guid>
             <pubDate>Thu, 10 Mar 2022 07:09:10 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_87/1646895988000Hr1ya_JPEG/a4405a64-a03e-11ec-aea6-d4f5ef58ac88_05.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220310_292/1646896596266eAiaU_JPEG/a4405a64-a03e-11ec-aea6-d4f5ef58ac88_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TENGGER_Achime]]></title>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28173844</guid>
             <pubDate>Thu, 03 Mar 2022 04:11:20 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_14/1646280091487xq1Yn_JPEG/80006672-9a9f-11ec-92eb-48df379cca40_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TENGGER_Sairo]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-28166690</guid>
             <pubDate>Thu, 03 Mar 2022 03:11:45 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220303_187/1646277024344GkE3C_JPEG/8c6fe5ae-9a99-11ec-ab19-d4f5ef5906a4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TENGGER_Kyrie]]></title>
@@ -134,20 +148,6 @@
             <link>https://www.vlive.tv/post/1-27637206</link>
             <guid>https://www.vlive.tv/post/1-27637206</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_걸음마 (first step)]]></title>
-            <link>https://www.vlive.tv/post/0-27630532</link>
-            <guid>https://www.vlive.tv/post/0-27630532</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주애_무표정(Lucid Dream)(prod.Hookuo)]]></title>
-            <link>https://www.vlive.tv/post/1-27520442</link>
-            <guid>https://www.vlive.tv/post/1-27520442</guid>
-            <pubDate>Thu, 20 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
