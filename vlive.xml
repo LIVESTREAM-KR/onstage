@@ -4,9 +4,25 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 07:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 08:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백현진_빛]]></title>
+            <link>https://www.vlive.tv/post/1-28391198</link>
+            <guid>https://www.vlive.tv/post/1-28391198</guid>
+            <pubDate>Thu, 17 Mar 2022 08:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_253/1647504248118bS6lz_JPEG/e7015541-a5c4-11ec-8916-48df37ae3fca_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현진_횟집(Unreleased)]]></title>
+            <link>https://www.vlive.tv/post/1-28390863</link>
+            <guid>https://www.vlive.tv/post/1-28390863</guid>
+            <pubDate>Thu, 17 Mar 2022 08:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_178/1647502550104wYXYu_JPEG/b1b0e748-a59a-11ec-93d6-505dac8c38f5_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백현진_모과(Unreleased)]]></title>
             <link>https://www.vlive.tv/post/0-28382286</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-28294157</guid>
             <pubDate>Thu, 10 Mar 2022 08:11:02 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_139/1646896568705LJxgq_JPEG/35440066-a041-11ec-a7bf-48df37ae3dc4_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스탈 티_사랑의 달인]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-28287317</guid>
             <pubDate>Thu, 10 Mar 2022 08:11:02 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_256/1646896608972tWnHi_JPEG/a259ae7e-a040-11ec-8ff6-505dac8c385b_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스탈 티_조퇴의 기분]]></title>
@@ -134,20 +148,6 @@
             <link>https://www.vlive.tv/post/0-27736399</link>
             <guid>https://www.vlive.tv/post/0-27736399</guid>
             <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Seori_Dive with you]]></title>
-            <link>https://www.vlive.tv/post/0-27736275</link>
-            <guid>https://www.vlive.tv/post/0-27736275</guid>
-            <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_intheafterglow]]></title>
-            <link>https://www.vlive.tv/post/1-27637458</link>
-            <guid>https://www.vlive.tv/post/1-27637458</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
