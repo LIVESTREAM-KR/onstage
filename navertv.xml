@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 00:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[백현진_빛]]></title>
+            <link>https://tv.naver.com/v/25673814</link>
+            <guid>https://tv.naver.com/v/25673814</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_178/FV22l_1647407780228OllI3_JPEG/221a684d-a4e3-11ec-9e1a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현진_횟집(Unreleased)]]></title>
+            <link>https://tv.naver.com/v/25672927</link>
+            <guid>https://tv.naver.com/v/25672927</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_56/SfG3h_1647405579919vyR2d_JPEG/cb085b14-a4de-11ec-8916-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현진_모과(Unreleased)]]></title>
+            <link>https://tv.naver.com/v/25672924</link>
+            <guid>https://tv.naver.com/v/25672924</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_284/F85TH_1647405569244WXzjJ_JPEG/6f920c78-a4de-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크리스탈 티_나쁜아이]]></title>
             <link>https://tv.naver.com/v/25544145</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
             <content:encoded><![CDATA[4:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_123/8h6ns_1642571978009PNh3M_JPEG/a7453974-78dd-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애_Salvia(Prod.위대한)]]></title>
-            <link>https://tv.naver.com/v/24683501</link>
-            <guid>https://tv.naver.com/v/24683501</guid>
-            <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_88/gNaRC_1642565382736ApNFf_JPEG/77646cc0-78d5-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애_Call me back]]></title>
-            <link>https://tv.naver.com/v/24682736</link>
-            <guid>https://tv.naver.com/v/24682736</guid>
-            <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_10/854y9_1642561867410cAh0b_JPEG/af243bfc-78d4-11ec-bf5d-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 특별 프로젝트] 다린_갈래]]></title>
-            <link>https://tv.naver.com/v/24559772</link>
-            <guid>https://tv.naver.com/v/24559772</guid>
-            <pubDate>Thu, 13 Jan 2022 13:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_221/1EM0j_1641962081825KRFMC_JPEG/9b95818e-735a-11ec-99a2-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

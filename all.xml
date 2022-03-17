@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 00:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 02:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Tue, 15 Mar 2022 23:09:35 GMT</pubDate>
+            <link>https://vibe.naver.com/onstage/season/2/article/12941</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12941</guid>
+            <pubDate>Thu, 17 Mar 2022 02:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[매일의 일상을 보고 들을 수 있는 아우라로 변환시키는 아티스트, 백현진을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사랑하는 우리 모두가 예술가, 크리스탈 티 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12921</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12921</guid>
+            <pubDate>Thu, 17 Mar 2022 02:10:58 GMT</pubDate>
+            <content:encoded><![CDATA['이미지 이야기'의 달인, 크리스탈 티를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무한의 여행자, 텐거(TENGGER) (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +97,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/12701</guid>
             <pubDate>Thu, 06 Jan 2022 15:08:28 GMT</pubDate>
             <content:encoded><![CDATA[피아노 퀸텟으로 돌아온 미니멀 작곡가, 김재훈을 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[내 안의 소울, 형선(HYNGSN) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12681</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12681</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[근면한 모험으로 스스로에 다가가는 싱어송라이터, 형선을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[크리스탈 티_나쁜아이 (ONSTAGE (온스테이지))]]></title>
@@ -239,6 +240,30 @@
             <guid>https://www.vlive.tv/post/1-27637206</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백현진_빛 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25673814</link>
+            <guid>https://tv.naver.com/v/25673814</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[5:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_178/FV22l_1647407780228OllI3_JPEG/221a684d-a4e3-11ec-9e1a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현진_횟집(Unreleased) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25672927</link>
+            <guid>https://tv.naver.com/v/25672927</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[3:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_56/SfG3h_1647405579919vyR2d_JPEG/cb085b14-a4de-11ec-8916-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백현진_모과(Unreleased) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25672924</link>
+            <guid>https://tv.naver.com/v/25672924</guid>
+            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[4:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_284/F85TH_1647405569244WXzjJ_JPEG/6f920c78-a4de-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스탈 티_나쁜아이 (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +480,6 @@
             <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
             <content:encoded><![CDATA[4:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220119_123/8h6ns_1642571978009PNh3M_JPEG/a7453974-78dd-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애_Salvia(Prod.위대한) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24683501</link>
-            <guid>https://tv.naver.com/v/24683501</guid>
-            <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:25]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_88/gNaRC_1642565382736ApNFf_JPEG/77646cc0-78d5-11ec-9f25-246e963a49a8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애_Call me back (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24682736</link>
-            <guid>https://tv.naver.com/v/24682736</guid>
-            <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_10/854y9_1642561867410cAh0b_JPEG/af243bfc-78d4-11ec-bf5d-a0369ff952f4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 특별 프로젝트] 다린_갈래 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24559772</link>
-            <guid>https://tv.naver.com/v/24559772</guid>
-            <pubDate>Thu, 13 Jan 2022 13:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[4:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220112_221/1EM0j_1641962081825KRFMC_JPEG/9b95818e-735a-11ec-99a2-a0369ff9545c_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
