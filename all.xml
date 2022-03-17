@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 03:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <title><![CDATA[일용하는 예술가, 백현진 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/12941</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/12941</guid>
             <pubDate>Thu, 17 Mar 2022 02:10:51 GMT</pubDate>
@@ -99,6 +99,14 @@
             <content:encoded><![CDATA[피아노 퀸텟으로 돌아온 미니멀 작곡가, 김재훈을 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[백현진_모과(Unreleased) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28382286</link>
+            <guid>https://www.vlive.tv/post/0-28382286</guid>
+            <pubDate>Thu, 17 Mar 2022 03:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220317_101/1647484417932zpzMx_JPEG/2017e947-a599-11ec-b269-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크리스탈 티_나쁜아이 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-28294157</link>
             <guid>https://www.vlive.tv/post/1-28294157</guid>
@@ -120,7 +128,6 @@
             <guid>https://www.vlive.tv/post/0-28287261</guid>
             <pubDate>Thu, 10 Mar 2022 07:09:10 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220310_292/1646896596266eAiaU_JPEG/a4405a64-a03e-11ec-aea6-d4f5ef58ac88_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TENGGER_Achime (ONSTAGE (온스테이지))]]></title>
@@ -231,13 +238,6 @@
             <title><![CDATA[사막꽃_intheafterglow (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-27637458</link>
             <guid>https://www.vlive.tv/post/1-27637458</guid>
-            <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_Plata O Plomo (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27637206</link>
-            <guid>https://www.vlive.tv/post/1-27637206</guid>
             <pubDate>Thu, 27 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>

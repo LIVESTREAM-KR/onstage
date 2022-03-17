@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-03-17T02:11:14.332Z</updated>
+    <updated>2022-03-17T03:11:11.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
+        <title type="html"><![CDATA[일용하는 예술가, 백현진]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12941</id>
         <link href="https://vibe.naver.com/onstage/season/2/article/12941"/>
         <updated>2022-03-17T02:10:51.667Z</updated>
