@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 00:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_SKIN]]></title>
+            <link>https://tv.naver.com/v/25812392</link>
+            <guid>https://tv.naver.com/v/25812392</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_225/eAklG_16480288757982nQWb_JPEG/3ff317c7-aa89-11ec-89d7-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_Soul MAK!(Feat.Jinbo)]]></title>
+            <link>https://tv.naver.com/v/25811612</link>
+            <guid>https://tv.naver.com/v/25811612</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_130/OstwT_1648026688983fi4vq_JPEG/7c48262e-aa88-11ec-88d2-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda)]]></title>
+            <link>https://tv.naver.com/v/25811461</link>
+            <guid>https://tv.naver.com/v/25811461</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_152/lZgMK_1648026353005t6C2D_JPEG/66c29e0e-aa87-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백현진_빛]]></title>
             <link>https://tv.naver.com/v/25673814</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
             <content:encoded><![CDATA[6:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_6/a49y5_1643180030103mjRWt_JPEG/56a2c788-7e73-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_Plata O Plomo]]></title>
-            <link>https://tv.naver.com/v/24806212</link>
-            <guid>https://tv.naver.com/v/24806212</guid>
-            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[7:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_103/MzN51_1643179428505o6hAY_JPEG/e394b2dc-7e71-11ec-8581-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_걸음마 (first step)]]></title>
-            <link>https://tv.naver.com/v/24805905</link>
-            <guid>https://tv.naver.com/v/24805905</guid>
-            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[7:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_279/I6SNx_16431787895989RrA7_JPEG/c6adabb4-7e70-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애_무표정(Lucid Dream)(prod.Hookuo)]]></title>
-            <link>https://tv.naver.com/v/24685726</link>
-            <guid>https://tv.naver.com/v/24685726</guid>
-            <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_123/8h6ns_1642571978009PNh3M_JPEG/a7453974-78dd-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

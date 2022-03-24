@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 00:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 02:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 23 Mar 2022 21:07:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[일용하는 예술가, 백현진 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12941</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12941</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[매일의 일상을 보고 들을 수 있는 아우라로 변환시키는 아티스트, 백현진을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사랑하는 우리 모두가 예술가, 크리스탈 티 (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,12 @@
             <content:encoded><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[반복과 점층의 아름다움, 김재훈 with 다이브라인 앙상블 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12701</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12701</guid>
-            <pubDate>Thu, 06 Jan 2022 15:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[피아노 퀸텟으로 돌아온 미니멀 작곡가, 김재훈을 소개합니다.]]></content:encoded>
+            <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28485738</link>
+            <guid>https://www.vlive.tv/post/0-28485738</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220324_72/1648088349994wnY3w_JPEG/ea1f2645-ab17-11ec-bc9a-505dac8c381b_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백현진_빛 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-28382286</guid>
             <pubDate>Thu, 17 Mar 2022 03:11:01 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220317_101/1647484417932zpzMx_JPEG/2017e947-a599-11ec-b269-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[크리스탈 티_나쁜아이 (ONSTAGE (온스테이지))]]></title>
@@ -234,11 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Seori_Lovers in the night (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-27736399</link>
-            <guid>https://www.vlive.tv/post/0-27736399</guid>
-            <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[신드럼(SHINDRUM)_SKIN (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25812392</link>
+            <guid>https://tv.naver.com/v/25812392</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_225/eAklG_16480288757982nQWb_JPEG/3ff317c7-aa89-11ec-89d7-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_Soul MAK!(Feat.Jinbo) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25811612</link>
+            <guid>https://tv.naver.com/v/25811612</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_130/OstwT_1648026688983fi4vq_JPEG/7c48262e-aa88-11ec-88d2-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25811461</link>
+            <guid>https://tv.naver.com/v/25811461</guid>
+            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_152/lZgMK_1648026353005t6C2D_JPEG/66c29e0e-aa87-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백현진_빛 (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
             <content:encoded><![CDATA[6:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220126_6/a49y5_1643180030103mjRWt_JPEG/56a2c788-7e73-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_Plata O Plomo (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24806212</link>
-            <guid>https://tv.naver.com/v/24806212</guid>
-            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[7:20]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_103/MzN51_1643179428505o6hAY_JPEG/e394b2dc-7e71-11ec-8581-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_걸음마 (first step) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24805905</link>
-            <guid>https://tv.naver.com/v/24805905</guid>
-            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[7:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_279/I6SNx_16431787895989RrA7_JPEG/c6adabb4-7e70-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주애_무표정(Lucid Dream)(prod.Hookuo) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24685726</link>
-            <guid>https://tv.naver.com/v/24685726</guid>
-            <pubDate>Thu, 20 Jan 2022 02:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220119_123/8h6ns_1642571978009PNh3M_JPEG/a7453974-78dd-11ec-b9f9-a0369ff94ec8_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-03-24T00:38:12.531Z</updated>
+    <updated>2022-03-24T02:19:59.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일용하는 예술가, 백현진]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12941</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12941"/>
+        <updated>2022-03-24T02:19:41.095Z</updated>
+        <content type="html"><![CDATA[매일의 일상을 보고 들을 수 있는 아우라로 변환시키는 아티스트, 백현진을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑하는 우리 모두가 예술가, 크리스탈 티]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12921</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12721"/>
         <updated>2022-01-06T02:06:08.011Z</updated>
         <content type="html"><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반복과 점층의 아름다움, 김재훈 with 다이브라인 앙상블]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12701</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12701"/>
-        <updated>2021-12-31T09:00:32.974Z</updated>
-        <content type="html"><![CDATA[피아노 퀸텟으로 돌아온 미니멀 작곡가, 김재훈을 소개합니다.]]></content>
     </entry>
 </feed>
