@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-03-26T14:08:05.393Z</updated>
+    <updated>2022-03-26T15:09:34.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-03-26T04:10:49.410Z</updated>
+        <title type="html"><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12961</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12961"/>
+        <updated>2022-03-26T15:09:12.940Z</updated>
+        <content type="html"><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content>
     </entry>
 </feed>
