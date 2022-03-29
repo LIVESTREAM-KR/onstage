@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 14:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 15:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Mon, 28 Mar 2022 08:13:39 GMT</pubDate>
+            <title><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12961</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12961</guid>
+            <pubDate>Tue, 29 Mar 2022 15:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일용하는 예술가, 백현진 (VIBE ─ 온스테이지)]]></title>
