@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 00:41:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:23:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12961</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12961</guid>
-            <pubDate>Thu, 31 Mar 2022 00:40:38 GMT</pubDate>
-            <content:encoded><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Thu, 31 Mar 2022 02:23:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[일용하는 예술가, 백현진 (VIBE ─ 온스테이지)]]></title>
@@ -99,6 +98,14 @@
             <content:encoded><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[저드(jerd)_쉬러 가 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28583214</link>
+            <guid>https://www.vlive.tv/post/0-28583214</guid>
+            <pubDate>Thu, 31 Mar 2022 02:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_225/1648693115360nMVzV_JPEG/7294b06d-b097-11ec-a7e2-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신드럼(SHINDRUM)_SKIN (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-28492001</link>
             <guid>https://www.vlive.tv/post/1-28492001</guid>
@@ -120,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-28485738</guid>
             <pubDate>Thu, 24 Mar 2022 23:09:25 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220324_54/1648089225249JryNX_JPEG/ea1f2645-ab17-11ec-bc9a-505dac8c381b_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[백현진_빛 (ONSTAGE (온스테이지))]]></title>
@@ -235,11 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[the 1234-dah!_다정한사람 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27857928</link>
-            <guid>https://www.vlive.tv/post/1-27857928</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[저드(jerd)_dirty face (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25936847</link>
+            <guid>https://tv.naver.com/v/25936847</guid>
+            <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[4:16]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_278/LIc5f_1648622127986NafVm_JPEG/ef0fecdf-aff1-11ec-88d2-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저드(jerd)_Phone Phobia (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25936572</link>
+            <guid>https://tv.naver.com/v/25936572</guid>
+            <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_206/05N2r_1648621401402oOmXe_JPEG/136a8652-aff1-11ec-bc9a-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저드(jerd)_쉬러 가 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/25936445</link>
+            <guid>https://tv.naver.com/v/25936445</guid>
+            <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[3:01]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_141/6RX0Z_1648621036713eDYqQ_JPEG/ceaef3a1-afeb-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신드럼(SHINDRUM)_SKIN (ONSTAGE (온스테이지))]]></title>
@@ -456,30 +479,6 @@
             <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
             <content:encoded><![CDATA[3:44]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220203_139/gHjpc_1643846628098UiaXU_JPEG/80aa81b3-8484-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seori_Lovers in the night (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24903337</link>
-            <guid>https://tv.naver.com/v/24903337</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:36]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_48/FyXyt_1643846501427GPCRV_JPEG/7e248eb1-8483-11ec-8e85-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seori_Really high (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24903285</link>
-            <guid>https://tv.naver.com/v/24903285</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_57/u5FM0_1643846067301X3zL1_JPEG/521e60cf-8482-11ec-b27b-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사막꽃_intheafterglow (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24806471</link>
-            <guid>https://tv.naver.com/v/24806471</guid>
-            <pubDate>Thu, 27 Jan 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[6:28]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220126_6/a49y5_1643180030103mjRWt_JPEG/56a2c788-7e73-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
