@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 10:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 11:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/12981</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/12981</guid>
             <pubDate>Thu, 31 Mar 2022 09:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM (VIBE ─ 온스테이지)]]></title>

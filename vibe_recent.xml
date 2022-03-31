@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-03-31T10:12:15.997Z</updated>
+    <updated>2022-03-31T11:08:32.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -10,5 +10,6 @@
         <id>https://vibe.naver.com/onstage/season/2/article/12981</id>
         <link href="https://vibe.naver.com/onstage/season/2/article/12981"/>
         <updated>2022-03-31T09:10:31.357Z</updated>
+        <content type="html"><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content>
     </entry>
 </feed>
