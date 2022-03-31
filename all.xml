@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Thu, 31 Mar 2022 02:23:31 GMT</pubDate>
+            <title><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12961</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12961</guid>
+            <pubDate>Thu, 31 Mar 2022 05:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[일용하는 예술가, 백현진 (VIBE ─ 온스테이지)]]></title>
@@ -98,6 +99,14 @@
             <content:encoded><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[저드(jerd)_Phone Phobia (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28584056</link>
+            <guid>https://www.vlive.tv/post/0-28584056</guid>
+            <pubDate>Thu, 31 Mar 2022 05:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_290/1648701738139aunpj_JPEG/c0676864-b099-11ec-9b7b-505dac8c35ff_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저드(jerd)_dirty face (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-28583236</link>
             <guid>https://www.vlive.tv/post/0-28583236</guid>
@@ -119,7 +128,6 @@
             <guid>https://www.vlive.tv/post/1-28492001</guid>
             <pubDate>Thu, 24 Mar 2022 23:09:25 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220324_144/1648089196478nHVMn_JPEG/bac271ee-ab19-11ec-931f-505dac8c3721_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신드럼(SHINDRUM)_Soul MAK!(Feat.Jinbo) (ONSTAGE (온스테이지))]]></title>
@@ -230,13 +238,6 @@
             <title><![CDATA[CAMO_Wifey (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-27948421</link>
             <guid>https://www.vlive.tv/post/0-27948421</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[CAMO_Shawty(feat.쿠기(Coogie)) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-27948396</link>
-            <guid>https://www.vlive.tv/post/0-27948396</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
