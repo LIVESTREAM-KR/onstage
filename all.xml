@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 02:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 03:23:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,6 +98,14 @@
             <content:encoded><![CDATA[어디로 갈지 몰라 어디든 갈 수 있는 밴드, 효도앤베이스를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[저드(jerd)_dirty face (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28583236</link>
+            <guid>https://www.vlive.tv/post/0-28583236</guid>
+            <pubDate>Thu, 31 Mar 2022 03:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_197/16486934785618lQjb_JPEG/e88dfdf4-b098-11ec-8c89-505dacfba98a_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[저드(jerd)_쉬러 가 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-28583214</link>
             <guid>https://www.vlive.tv/post/0-28583214</guid>
@@ -119,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-28485775</guid>
             <pubDate>Thu, 24 Mar 2022 23:09:25 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220324_37/1648089242767tyugY_JPEG/e8d12c70-ab18-11ec-a0dc-d4f5ef5a9532_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda) (ONSTAGE (온스테이지))]]></title>
@@ -231,13 +238,6 @@
             <link>https://www.vlive.tv/post/0-27948396</link>
             <guid>https://www.vlive.tv/post/0-27948396</guid>
             <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[the 1234-dah!_오프닝(멤버소개) + 어색해도 조금만 더 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27857974</link>
-            <guid>https://www.vlive.tv/post/1-27857974</guid>
-            <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
