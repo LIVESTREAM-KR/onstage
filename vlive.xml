@@ -1,8 +1,154 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.vlive.tv/channel/E61323/board/4268?lang=ko</id>
-    <title>ONSTAGE (온스테이지)</title>
-    <updated>2022-04-04T04:11:28.272Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://vlive-static.pstatic.net/spa/static/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ONSTAGE (온스테이지)</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 04 Apr 2022 05:09:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[저드(jerd)_Phone Phobia]]></title>
+            <link>https://www.vlive.tv/post/0-28584056</link>
+            <guid>https://www.vlive.tv/post/0-28584056</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_290/1648701738139aunpj_JPEG/c0676864-b099-11ec-9b7b-505dac8c35ff_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저드(jerd)_dirty face]]></title>
+            <link>https://www.vlive.tv/post/0-28583236</link>
+            <guid>https://www.vlive.tv/post/0-28583236</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_197/16486934785618lQjb_JPEG/e88dfdf4-b098-11ec-8c89-505dacfba98a_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[저드(jerd)_쉬러 가]]></title>
+            <link>https://www.vlive.tv/post/0-28583214</link>
+            <guid>https://www.vlive.tv/post/0-28583214</guid>
+            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220331_225/1648693115360nMVzV_JPEG/7294b06d-b097-11ec-a7e2-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_SKIN]]></title>
+            <link>https://www.vlive.tv/post/1-28492001</link>
+            <guid>https://www.vlive.tv/post/1-28492001</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_Soul MAK!(Feat.Jinbo)]]></title>
+            <link>https://www.vlive.tv/post/0-28485775</link>
+            <guid>https://www.vlive.tv/post/0-28485775</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda)]]></title>
+            <link>https://www.vlive.tv/post/0-28485738</link>
+            <guid>https://www.vlive.tv/post/0-28485738</guid>
+            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백현진_빛]]></title>
+            <link>https://www.vlive.tv/post/1-28391198</link>
+            <guid>https://www.vlive.tv/post/1-28391198</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백현진_횟집(Unreleased)]]></title>
+            <link>https://www.vlive.tv/post/1-28390863</link>
+            <guid>https://www.vlive.tv/post/1-28390863</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[백현진_모과(Unreleased)]]></title>
+            <link>https://www.vlive.tv/post/0-28382286</link>
+            <guid>https://www.vlive.tv/post/0-28382286</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈 티_나쁜아이]]></title>
+            <link>https://www.vlive.tv/post/1-28294157</link>
+            <guid>https://www.vlive.tv/post/1-28294157</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈 티_사랑의 달인]]></title>
+            <link>https://www.vlive.tv/post/0-28287317</link>
+            <guid>https://www.vlive.tv/post/0-28287317</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[크리스탈 티_조퇴의 기분]]></title>
+            <link>https://www.vlive.tv/post/0-28287261</link>
+            <guid>https://www.vlive.tv/post/0-28287261</guid>
+            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TENGGER_Achime]]></title>
+            <link>https://www.vlive.tv/post/1-28173844</link>
+            <guid>https://www.vlive.tv/post/1-28173844</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TENGGER_Sairo]]></title>
+            <link>https://www.vlive.tv/post/0-28166690</link>
+            <guid>https://www.vlive.tv/post/0-28166690</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TENGGER_Kyrie]]></title>
+            <link>https://www.vlive.tv/post/0-28166396</link>
+            <guid>https://www.vlive.tv/post/0-28166396</guid>
+            <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송예린_바다]]></title>
+            <link>https://www.vlive.tv/post/0-28066929</link>
+            <guid>https://www.vlive.tv/post/0-28066929</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송예린_어디]]></title>
+            <link>https://www.vlive.tv/post/0-28066767</link>
+            <guid>https://www.vlive.tv/post/0-28066767</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[송예린_엄마를 닮은 얼굴]]></title>
+            <link>https://www.vlive.tv/post/1-28073315</link>
+            <guid>https://www.vlive.tv/post/1-28073315</guid>
+            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CAMO_Freak Like Me]]></title>
+            <link>https://www.vlive.tv/post/1-27955300</link>
+            <guid>https://www.vlive.tv/post/1-27955300</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[CAMO_Wifey]]></title>
+            <link>https://www.vlive.tv/post/0-27948421</link>
+            <guid>https://www.vlive.tv/post/0-27948421</guid>
+            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+        </item>
+    </channel>
+</rss>
