@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-04-05T23:10:53.843Z</updated>
+    <updated>2022-04-06T00:41:21.658Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-04-05T07:09:26.013Z</updated>
+        <title type="html"><![CDATA['나'를 말하는 법 - 저드(jerd)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12981</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12981"/>
+        <updated>2022-04-06T00:40:55.420Z</updated>
+        <content type="html"><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content>
     </entry>
 </feed>
