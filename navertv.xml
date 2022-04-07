@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 00:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SINCE_봄비 (feat. Rakon)]]></title>
+            <link>https://tv.naver.com/v/26062366</link>
+            <guid>https://tv.naver.com/v/26062366</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_80/fQjO3_1649209195564bHjrj_JPEG/ced9e8eb-b549-11ec-ad5e-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SINCE_휘파람]]></title>
+            <link>https://tv.naver.com/v/26062249</link>
+            <guid>https://tv.naver.com/v/26062249</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_210/erjE8_1649208901408lWDT9_JPEG/4c51ec3f-b549-11ec-8c0a-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SINCE_홀로 (Hol' up)]]></title>
+            <link>https://tv.naver.com/v/26062138</link>
+            <guid>https://tv.naver.com/v/26062138</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_251/puChI_1649298011403hiwtc_JPEG/c22ec3c2-b548-11ec-ad5e-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[저드(jerd)_dirty face]]></title>
             <link>https://tv.naver.com/v/25936847</link>
@@ -222,30 +246,6 @@
             <pubDate>Fri, 11 Feb 2022 10:08:41 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220207_276/FDQrS_16442108565817ckn1_JPEG/2e6685ae-87d4-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지X디뮤지엄] 죠지 - 오랜만에]]></title>
-            <link>https://tv.naver.com/v/24980362</link>
-            <guid>https://tv.naver.com/v/24980362</guid>
-            <pubDate>Thu, 10 Feb 2022 11:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_172/oPaKD_1644210585249ufjnh_JPEG/d6c55b00-87d3-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지X디뮤지엄] 유라 - 미미(MIMI)]]></title>
-            <link>https://tv.naver.com/v/24980289</link>
-            <guid>https://tv.naver.com/v/24980289</guid>
-            <pubDate>Wed, 09 Feb 2022 11:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_42/C39Q1_1644210426761uy7BQ_JPEG/368d9411-87d3-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seori_Dive with you]]></title>
-            <link>https://tv.naver.com/v/24903352</link>
-            <guid>https://tv.naver.com/v/24903352</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_139/gHjpc_1643846628098UiaXU_JPEG/80aa81b3-8484-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

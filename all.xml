@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 00:40:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 06 Apr 2022 15:09:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA['나'를 말하는 법, 저드(jerd) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/12981</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/12981</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[양가적 감정의 시작과 끝, 안다영을 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[상상 속의 너, 살라만다(SALAMANDA) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12741</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12741</guid>
-            <pubDate>Thu, 13 Jan 2022 00:31:12 GMT</pubDate>
-            <content:encoded><![CDATA[보일 듯한 소리를 그리는 앰비언트 듀오, 살라만다를 소개합니다.]]></content:encoded>
+            <title><![CDATA[SINCE_봄비 (feat. Rakon) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28679679</link>
+            <guid>https://www.vlive.tv/post/0-28679679</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_235/1649297515367tR5NX_JPEG/60d72c86-b617-11ec-aa4b-d4f5ef5906a4_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SINCE_휘파람 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-28684965</link>
+            <guid>https://www.vlive.tv/post/1-28684965</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_163/1649297193581VIHuL_JPEG/d50eaddb-b615-11ec-ad5e-48df37ae3fca_05.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SINCE_홀로 (Hol' up) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-28684899</link>
+            <guid>https://www.vlive.tv/post/1-28684899</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:22 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220407_108/1649296528753CUiLU_JPEG/ac9fd6a4-b614-11ec-9b7b-505dac8c35ff_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저드(jerd)_Phone Phobia (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-28584056</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220331_290/1648701738139aunpj_JPEG/c0676864-b099-11ec-9b7b-505dac8c35ff_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저드(jerd)_dirty face (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-28583236</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220331_197/16486934785618lQjb_JPEG/e88dfdf4-b098-11ec-8c89-505dacfba98a_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저드(jerd)_쉬러 가 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-28583214</guid>
             <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220331_225/1648693115360nMVzV_JPEG/7294b06d-b097-11ec-a7e2-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신드럼(SHINDRUM)_SKIN (ONSTAGE (온스테이지))]]></title>
@@ -220,25 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[송예린_엄마를 닮은 얼굴 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28073315</link>
-            <guid>https://www.vlive.tv/post/1-28073315</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[SINCE_봄비 (feat. Rakon) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26062366</link>
+            <guid>https://tv.naver.com/v/26062366</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:06]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_80/fQjO3_1649209195564bHjrj_JPEG/ced9e8eb-b549-11ec-ad5e-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CAMO_Freak Like Me (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-27955300</link>
-            <guid>https://www.vlive.tv/post/1-27955300</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[SINCE_휘파람 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26062249</link>
+            <guid>https://tv.naver.com/v/26062249</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_210/erjE8_1649208901408lWDT9_JPEG/4c51ec3f-b549-11ec-8c0a-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CAMO_Wifey (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-27948421</link>
-            <guid>https://www.vlive.tv/post/0-27948421</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[SINCE_홀로 (Hol' up) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26062138</link>
+            <guid>https://tv.naver.com/v/26062138</guid>
+            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_251/puChI_1649298011403hiwtc_JPEG/c22ec3c2-b548-11ec-ad5e-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[저드(jerd)_dirty face (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Fri, 11 Feb 2022 10:08:41 GMT</pubDate>
             <content:encoded><![CDATA[2:43]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220207_276/FDQrS_16442108565817ckn1_JPEG/2e6685ae-87d4-11ec-abae-a0369ff94f34_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지X디뮤지엄] 죠지 - 오랜만에 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24980362</link>
-            <guid>https://tv.naver.com/v/24980362</guid>
-            <pubDate>Thu, 10 Feb 2022 11:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_172/oPaKD_1644210585249ufjnh_JPEG/d6c55b00-87d3-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지X디뮤지엄] 유라 - 미미(MIMI) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24980289</link>
-            <guid>https://tv.naver.com/v/24980289</guid>
-            <pubDate>Wed, 09 Feb 2022 11:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220207_42/C39Q1_1644210426761uy7BQ_JPEG/368d9411-87d3-11ec-9c62-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Seori_Dive with you (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/24903352</link>
-            <guid>https://tv.naver.com/v/24903352</guid>
-            <pubDate>Thu, 03 Feb 2022 01:47:57 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220203_139/gHjpc_1643846628098UiaXU_JPEG/80aa81b3-8484-11ec-bba8-a0369ff968b0_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

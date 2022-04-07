@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-04-07T00:40:25.190Z</updated>
+    <updated>2022-04-07T02:22:30.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA['나'를 말하는 법, 저드(jerd)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/12981</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/12981"/>
+        <updated>2022-04-07T02:22:13.359Z</updated>
+        <content type="html"><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/12961</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12761"/>
         <updated>2022-01-20T02:06:48.474Z</updated>
         <content type="html"><![CDATA[양가적 감정의 시작과 끝, 안다영을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[상상 속의 너, 살라만다(SALAMANDA)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12741</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12741"/>
-        <updated>2022-01-13T02:02:11.920Z</updated>
-        <content type="html"><![CDATA[보일 듯한 소리를 그리는 앰비언트 듀오, 살라만다를 소개합니다.]]></content>
     </entry>
 </feed>
