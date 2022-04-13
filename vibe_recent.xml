@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-04-13T04:12:23.587Z</updated>
+    <updated>2022-04-13T05:09:22.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-04-12T21:08:15.331Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13001</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13001"/>
+        <updated>2022-04-13T05:08:58.851Z</updated>
+        <content type="html"><![CDATA[확신으로 돌파하는 정공법의 래퍼, 신스를 소개합니다.]]></content>
     </entry>
 </feed>
