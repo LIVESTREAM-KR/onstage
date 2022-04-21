@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 02:57:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 03:57:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13021</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13021</guid>
             <pubDate>Thu, 21 Apr 2022 00:44:19 GMT</pubDate>
+            <content:encoded><![CDATA[윌리엄이라는 이름에서 상상할 수 있는 서브컬처를 오마주하는 밴드, 더 윌리엄즈를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모두의 하나뿐인 이야기, 신스(SINCE) (VIBE ─ 온스테이지)]]></title>
