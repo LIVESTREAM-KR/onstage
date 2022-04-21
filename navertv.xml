@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 08:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 09:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[다정_untitled 2]]></title>
+            <link>https://tv.naver.com/v/26366139</link>
+            <guid>https://tv.naver.com/v/26366139</guid>
+            <pubDate>Thu, 21 Apr 2022 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_260/AG4Eq_1650531290212c7Hhm_JPEG/79233efe-c150-11ec-a0e5-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다정_do what you want]]></title>
+            <link>https://tv.naver.com/v/26366126</link>
+            <guid>https://tv.naver.com/v/26366126</guid>
+            <pubDate>Thu, 21 Apr 2022 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[2:04]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_61/Z2Ayi_1650531264107d2b9h_JPEG/7473e7bb-c150-11ec-a0e5-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다정_Last Nail]]></title>
+            <link>https://tv.naver.com/v/26366122</link>
+            <guid>https://tv.naver.com/v/26366122</guid>
+            <pubDate>Thu, 21 Apr 2022 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_243/CZryS_1650531255401jcft0_JPEG/5836e5fe-c150-11ec-8726-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 윌리엄즈_Lilith]]></title>
             <link>https://tv.naver.com/v/26185412</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
             <content:encoded><![CDATA[1:14]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220216_273/qDUSU_1644981427610KKK9a_JPEG/79c5bbf8-8ed6-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CAMO_Shawty(feat.쿠기(Coogie))]]></title>
-            <link>https://tv.naver.com/v/25159399</link>
-            <guid>https://tv.naver.com/v/25159399</guid>
-            <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:56]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_141/Gddln_16449813626066JrDx_JPEG/3d273de4-8ed6-11ec-a7bf-48df37ae3dc4_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[the 1234-dah! - 오프닝(멤버소개) + 어색해도 조금만 더]]></title>
-            <link>https://tv.naver.com/v/25020993</link>
-            <guid>https://tv.naver.com/v/25020993</guid>
-            <pubDate>Thu, 10 Feb 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_226/8mUmx_1644375861287kfotK_JPEG/7644a0e2-8954-11ec-89ca-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[the 1234-dah! - 다정한사람]]></title>
-            <link>https://tv.naver.com/v/25020992</link>
-            <guid>https://tv.naver.com/v/25020992</guid>
-            <pubDate>Thu, 10 Feb 2022 01:52:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:09]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220209_218/WxLAd_1644375850694HNbMI_JPEG/60b2c79b-8954-11ec-9cfd-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
