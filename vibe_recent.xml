@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-04-21T15:10:53.144Z</updated>
+    <updated>2022-04-21T16:12:41.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-04-21T12:16:41.435Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13041</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13041"/>
+        <updated>2022-04-21T16:12:16.052Z</updated>
+        <content type="html"><![CDATA[팝의 핵심을 동물적으로 캐치하는 싱어송라이터, 다정을 소개합니다.]]></content>
     </entry>
 </feed>
