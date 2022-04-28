@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 00:57:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 03:36:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최엘비_구름구름]]></title>
+            <link>https://tv.naver.com/v/26489585</link>
+            <guid>https://tv.naver.com/v/26489585</guid>
+            <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[2:58]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_1/WO0VL_165111319076095WrG_JPEG/30fd74f1-c69b-11ec-a3bf-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최엘비_독립음악]]></title>
+            <link>https://tv.naver.com/v/26489584</link>
+            <guid>https://tv.naver.com/v/26489584</guid>
+            <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:13]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_168/2mfUl_1651113187955XUlD3_JPEG/236e1495-c69b-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최엘비_신입생환영회! (with 최엘비 합창단)]]></title>
+            <link>https://tv.naver.com/v/26489586</link>
+            <guid>https://tv.naver.com/v/26489586</guid>
+            <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_220/2U8ti_1651113193327tutj8_JPEG/34940937-c69b-11ec-a3bf-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다정_untitled 2]]></title>
             <link>https://tv.naver.com/v/26366139</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 24 Feb 2022 02:02:26 GMT</pubDate>
             <content:encoded><![CDATA[3:47]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220223_39/WyPzv_1645581157862RkIK5_JPEG/fdcd659f-944a-11ec-bcec-505dac8c35ff_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네이버 온스테이지 후원 라이브 '아도이' 온라인 단독 공연]]></title>
-            <link>https://tv.naver.com/v/25172067</link>
-            <guid>https://tv.naver.com/v/25172067</guid>
-            <pubDate>Thu, 17 Feb 2022 06:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[0:40]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_171/NX7ly_16450142876082op6W_JPEG/6858e98a-8f22-11ec-bcec-505dac8c35ff_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CAMO_Freak Like Me]]></title>
-            <link>https://tv.naver.com/v/25159462</link>
-            <guid>https://tv.naver.com/v/25159462</guid>
-            <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[2:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_87/OUheV_16449815821166YFwB_JPEG/cd315343-8ed6-11ec-8a3e-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CAMO_Wifey]]></title>
-            <link>https://tv.naver.com/v/25159412</link>
-            <guid>https://tv.naver.com/v/25159412</guid>
-            <pubDate>Thu, 17 Feb 2022 01:46:37 GMT</pubDate>
-            <content:encoded><![CDATA[1:14]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220216_273/qDUSU_1644981427610KKK9a_JPEG/79c5bbf8-8ed6-11ec-8ff6-505dac8c385b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
