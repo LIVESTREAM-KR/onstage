@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:14:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 07:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13061</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13061</guid>
-            <pubDate>Thu, 28 Apr 2022 06:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[- 친숙하고 강단 있게 자신의 이야기를 건네는 래퍼, 최엘비를 소개합니다.]]></content:encoded>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Thu, 28 Apr 2022 07:08:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[어쩌다 마주친 인디 팝의 보편, 다정(Dajung) (VIBE ─ 온스테이지)]]></title>
@@ -99,12 +98,35 @@
             <content:encoded><![CDATA[우주에서 유영하는 듯한 보컬, 서리를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[최엘비(CHOILB)_신입생환영회!(with 최엘비 합창단) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-28958597</link>
+            <guid>https://www.vlive.tv/post/1-28958597</guid>
+            <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_157/16511291946799xCcl_JPEG/65fb0c18-c6be-11ec-a9d0-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최엘비(CHOILB)_구름구름 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28952462</link>
+            <guid>https://www.vlive.tv/post/0-28952462</guid>
+            <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_164/1651128148080Nm31Y_JPEG/3a7a2fb9-c6bc-11ec-a12d-505dac8c381b_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최엘비(CHOILB)_독립음악 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-28952347</link>
+            <guid>https://www.vlive.tv/post/0-28952347</guid>
+            <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220428_19/1651127217380n12JF_JPEG/e39d0de1-c6ba-11ec-a87a-505dac8c35ff_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다정_do what you want (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/1-28868570</link>
             <guid>https://www.vlive.tv/post/1-28868570</guid>
             <pubDate>Thu, 21 Apr 2022 02:57:34 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_110/1650508428611TSaYn_JPEG/da245578-c119-11ec-a12d-505dac8c381b_05.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다정_untitled 2 (ONSTAGE (온스테이지))]]></title>
@@ -112,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-28862025</guid>
             <pubDate>Thu, 21 Apr 2022 02:57:34 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_204/1650508445285eyVtu_JPEG/0f455db3-c119-11ec-a0e5-505dac8c3607_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다정_Last Nail (ONSTAGE (온스테이지))]]></title>
@@ -120,7 +141,6 @@
             <guid>https://www.vlive.tv/post/1-28868474</guid>
             <pubDate>Thu, 21 Apr 2022 02:57:34 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220421_299/1650508461967YgCC4_JPEG/112d5498-c115-11ec-bdfe-48df37ae3dc4_08.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 윌리엄즈_Lilith (ONSTAGE (온스테이지))]]></title>
@@ -218,27 +238,6 @@
             <link>https://www.vlive.tv/post/1-28390863</link>
             <guid>https://www.vlive.tv/post/1-28390863</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백현진_모과(Unreleased) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28382286</link>
-            <guid>https://www.vlive.tv/post/0-28382286</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈 티_나쁜아이 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28294157</link>
-            <guid>https://www.vlive.tv/post/1-28294157</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈 티_사랑의 달인 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28287317</link>
-            <guid>https://www.vlive.tv/post/0-28287317</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
