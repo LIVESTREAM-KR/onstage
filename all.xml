@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 00:45:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 02:49:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 11 May 2022 21:09:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[나답게 기록하는 목소리, 욘코(Yonko) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13081</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13081</guid>
+            <pubDate>Thu, 12 May 2022 02:49:14 GMT</pubDate>
+            <content:encoded><![CDATA[각별한 기운의 R&amp;B 싱어송라이터, 욘코를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[네 이야기를 들려줘, 최엘비(CHOILB) (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[태도의 멋을 보여주는 카모를 소개합니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[실용음악 시대의 안티테제, the 1234-dah! (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12841</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12841</guid>
-            <pubDate>Thu, 17 Feb 2022 02:18:34 GMT</pubDate>
-            <content:encoded><![CDATA[다듬어지지 않아 더욱 눈이 가는 3인조 개러지펑크 밴드, the 1234-dah!를 소개합니다.]]></content:encoded>
+            <title><![CDATA[베리코이버니(verycoybunny)_Diary (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29127862</link>
+            <guid>https://www.vlive.tv/post/1-29127862</guid>
+            <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_187/16523223938339aTng_JPEG/bbe3a628-d19a-11ec-a2ba-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베리코이버니(verycoybunny)_모자라 (Lack of love) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29121947</link>
+            <guid>https://www.vlive.tv/post/0-29121947</guid>
+            <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_185/1652322404281y4YOh_JPEG/7cbcf5e1-d19a-11ec-b8ef-d4f5ef5906a4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베리코이버니(verycoybunny)_More (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29127845</link>
+            <guid>https://www.vlive.tv/post/1-29127845</guid>
+            <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220512_40/1652322414403w3o3t_JPEG/36951057-d19a-11ec-b5d5-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최엘비(CHOILB)_신입생환영회!(with 최엘비 합창단) (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +127,6 @@
             <guid>https://www.vlive.tv/post/1-28958597</guid>
             <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_157/16511291946799xCcl_JPEG/65fb0c18-c6be-11ec-a9d0-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최엘비(CHOILB)_구름구름 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-28952462</guid>
             <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_164/1651128148080Nm31Y_JPEG/3a7a2fb9-c6bc-11ec-a12d-505dac8c381b_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최엘비(CHOILB)_독립음악 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-28952347</guid>
             <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220428_19/1651127217380n12JF_JPEG/e39d0de1-c6ba-11ec-a87a-505dac8c35ff_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다정_do what you want (ONSTAGE (온스테이지))]]></title>
@@ -217,27 +238,6 @@
             <link>https://www.vlive.tv/post/0-28485775</link>
             <guid>https://www.vlive.tv/post/0-28485775</guid>
             <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28485738</link>
-            <guid>https://www.vlive.tv/post/0-28485738</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백현진_빛 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28391198</link>
-            <guid>https://www.vlive.tv/post/1-28391198</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[백현진_횟집(Unreleased) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28390863</link>
-            <guid>https://www.vlive.tv/post/1-28390863</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
