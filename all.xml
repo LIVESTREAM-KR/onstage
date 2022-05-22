@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 16:04:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 12 May 2022 23:10:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[록은 이렇게 계속된다, 베리코이버니(verycoybunny) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13101</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13101</guid>
+            <pubDate>Sun, 22 May 2022 16:04:28 GMT</pubDate>
+            <content:encoded><![CDATA[걸리쉬한 하이틴 감성 로커, 베리코이버니를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[나답게 기록하는 목소리, 욘코(Yonko) (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[감정의 보편적 결핍을 개성적 충만으로 채우는 송예린을 소개합니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[힙합의 경계가 아닌 본령, CAMO (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12861</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12861</guid>
-            <pubDate>Thu, 24 Feb 2022 02:02:10 GMT</pubDate>
-            <content:encoded><![CDATA[태도의 멋을 보여주는 카모를 소개합니다]]></content:encoded>
+            <title><![CDATA[BrokenTeeth_수취인오류 + 불꽃놀이 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29218911</link>
+            <guid>https://www.vlive.tv/post/1-29218911</guid>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_107/1653008670417aIOLo_JPEG/ef5c2813-d7d6-11ec-92e5-505dacfba98a_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth_Spring (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29212378</link>
+            <guid>https://www.vlive.tv/post/0-29212378</guid>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_21/1653009601417krBUs_JPEG/bde6d49d-d7d5-11ec-bdfb-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29212354</link>
+            <guid>https://www.vlive.tv/post/0-29212354</guid>
+            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220520_72/1653007343700aGLXM_JPEG/43a0cbd9-d7d5-11ec-818f-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베리코이버니(verycoybunny)_Diary (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +127,6 @@
             <guid>https://www.vlive.tv/post/1-29127862</guid>
             <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220512_187/16523223938339aTng_JPEG/bbe3a628-d19a-11ec-a2ba-48df379cc9e4_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베리코이버니(verycoybunny)_모자라 (Lack of love) (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-29121947</guid>
             <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220512_185/1652322404281y4YOh_JPEG/7cbcf5e1-d19a-11ec-b8ef-d4f5ef5906a4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베리코이버니(verycoybunny)_More (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/1-29127845</guid>
             <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220512_40/1652322414403w3o3t_JPEG/36951057-d19a-11ec-b5d5-d4f5ef590144_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최엘비(CHOILB)_신입생환영회!(with 최엘비 합창단) (ONSTAGE (온스테이지))]]></title>
@@ -220,25 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저드(jerd)_쉬러 가 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28583214</link>
-            <guid>https://www.vlive.tv/post/0-28583214</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26843141</link>
+            <guid>https://tv.naver.com/v/26843141</guid>
+            <pubDate>Sun, 22 May 2022 16:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_130/NM2Yd_1652843763946HpsRR_JPEG/7c18f8c2-d658-11ec-af45-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신드럼(SHINDRUM)_SKIN (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28492001</link>
-            <guid>https://www.vlive.tv/post/1-28492001</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[BrokenTeeth_Spring (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26843071</link>
+            <guid>https://tv.naver.com/v/26843071</guid>
+            <pubDate>Sun, 22 May 2022 16:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[7:35]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_216/7Ipbc_1652843581748NEK7f_JPEG/efc5f7ec-d657-11ec-87ba-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신드럼(SHINDRUM)_Soul MAK!(Feat.Jinbo) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28485775</link>
-            <guid>https://www.vlive.tv/post/0-28485775</guid>
-            <pubDate>Thu, 24 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[BrokenTeeth_수취인오류 + 불꽃놀이 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26843002</link>
+            <guid>https://tv.naver.com/v/26843002</guid>
+            <pubDate>Sun, 22 May 2022 16:04:43 GMT</pubDate>
+            <content:encoded><![CDATA[7:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_57/YQCn5_16528433550462K5Fo_JPEG/73f46d34-d657-11ec-95d6-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베리코이버니(verycoybunny)_모자라 (Lack of love) (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
             <content:encoded><![CDATA[4:52]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220316_284/F85TH_1647405569244WXzjJ_JPEG/6f920c78-a4de-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈 티_나쁜아이 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25544145</link>
-            <guid>https://tv.naver.com/v/25544145</guid>
-            <pubDate>Thu, 10 Mar 2022 02:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[3:51]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_242/6zRPp_1646738097926CV0hd_JPEG/58f04497-9ed0-11ec-ba4e-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈 티_사랑의 달인 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25544066</link>
-            <guid>https://tv.naver.com/v/25544066</guid>
-            <pubDate>Thu, 10 Mar 2022 02:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:22]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_113/6y8mN_16467378286172rNYP_JPEG/820ac1e0-9ecd-11ec-9e68-a0369ff9545c_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스탈 티_조퇴의 기분 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25544059</link>
-            <guid>https://tv.naver.com/v/25544059</guid>
-            <pubDate>Thu, 10 Mar 2022 02:13:41 GMT</pubDate>
-            <content:encoded><![CDATA[4:47]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220308_44/WWa56_1646737812269xA3Sw_JPEG/2a85f8d0-9ecd-11ec-9e68-a0369ff9545c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
