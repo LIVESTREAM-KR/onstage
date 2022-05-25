@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-05-25T19:08:52.128Z</updated>
+    <updated>2022-05-25T20:10:55.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[소음 속에 풍덩, BrokenTeeth]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13121</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13121"/>
-        <updated>2022-05-25T19:08:26.180Z</updated>
-        <content type="html"><![CDATA[한국 슈게이징의 새바람, 브로큰티스를 소개합니다]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2022-05-25T20:10:28.499Z</updated>
     </entry>
 </feed>
