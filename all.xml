@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 05:15:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 06:13:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13121</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13121</guid>
             <pubDate>Wed, 25 May 2022 05:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국 슈게이징의 새바람, 브로큰티스를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[록은 이렇게 계속된다, 베리코이버니(verycoybunny) (VIBE ─ 온스테이지)]]></title>
