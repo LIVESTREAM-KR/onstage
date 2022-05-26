@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 00:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 02:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 25 May 2022 22:09:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[소음 속에 풍덩, BrokenTeeth (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13121</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13121</guid>
+            <pubDate>Thu, 26 May 2022 02:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[한국 슈게이징의 새바람, 브로큰티스를 소개합니다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[록은 이렇게 계속된다, 베리코이버니(verycoybunny) (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,20 @@
             <content:encoded><![CDATA[여행하며 소리의 경계를 허무는 가족, 텐거를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사랑의 힘을 믿는 간절함, 송예린 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12881</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12881</guid>
-            <pubDate>Thu, 03 Mar 2022 02:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[감정의 보편적 결핍을 개성적 충만으로 채우는 송예린을 소개합니다]]></content:encoded>
+            <title><![CDATA[이주영_나도 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29277014</link>
+            <guid>https://www.vlive.tv/post/0-29277014</guid>
+            <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_284/1653532010343inNre_JPEG/529b02bf-dc99-11ec-8055-505dac8c385b_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영_오후에 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29283317</link>
+            <guid>https://www.vlive.tv/post/1-29283317</guid>
+            <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220526_159/1653531150224R7BHp_JPEG/fd715cf9-dc97-11ec-8e34-505dac8c3721_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BrokenTeeth_수취인오류 + 불꽃놀이 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-29212378</guid>
             <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220520_21/1653009601417krBUs_JPEG/bde6d49d-d7d5-11ec-bdfb-505dac8c381b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-29212354</guid>
             <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220520_72/1653007343700aGLXM_JPEG/43a0cbd9-d7d5-11ec-818f-505dac8c385b_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베리코이버니(verycoybunny)_Diary (ONSTAGE (온스테이지))]]></title>
@@ -227,18 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[저드(jerd)_Phone Phobia (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28584056</link>
-            <guid>https://www.vlive.tv/post/0-28584056</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[이주영_오후에 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26968198</link>
+            <guid>https://tv.naver.com/v/26968198</guid>
+            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[7:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_257/9WOB3_1653443973931UpG5W_JPEG/9a4e16ac-dbcd-11ec-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[저드(jerd)_dirty face (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28583236</link>
-            <guid>https://www.vlive.tv/post/0-28583236</guid>
-            <pubDate>Thu, 31 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[이주영_눈이 내린다 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26968152</link>
+            <guid>https://tv.naver.com/v/26968152</guid>
+            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[5:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_155/1WXlM_1653443859024DhLbc_JPEG/b7dbb317-dbcd-11ec-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영_나도 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/26968072</link>
+            <guid>https://tv.naver.com/v/26968072</guid>
+            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[5:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_214/V2Hhc_1653443651032s6mTp_JPEG/f0b026ca-dbcc-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼 (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_152/lZgMK_1648026353005t6C2D_JPEG/66c29e0e-aa87-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진_빛 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25673814</link>
-            <guid>https://tv.naver.com/v/25673814</guid>
-            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[5:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_178/FV22l_1647407780228OllI3_JPEG/221a684d-a4e3-11ec-9e1a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진_횟집(Unreleased) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25672927</link>
-            <guid>https://tv.naver.com/v/25672927</guid>
-            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_56/SfG3h_1647405579919vyR2d_JPEG/cb085b14-a4de-11ec-8916-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진_모과(Unreleased) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25672924</link>
-            <guid>https://tv.naver.com/v/25672924</guid>
-            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_284/F85TH_1647405569244WXzjJ_JPEG/6f920c78-a4de-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

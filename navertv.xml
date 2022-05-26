@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 00:46:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 02:58:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이주영_오후에]]></title>
+            <link>https://tv.naver.com/v/26968198</link>
+            <guid>https://tv.naver.com/v/26968198</guid>
+            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[7:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_257/9WOB3_1653443973931UpG5W_JPEG/9a4e16ac-dbcd-11ec-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영_눈이 내린다]]></title>
+            <link>https://tv.naver.com/v/26968152</link>
+            <guid>https://tv.naver.com/v/26968152</guid>
+            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[5:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_155/1WXlM_1653443859024DhLbc_JPEG/b7dbb317-dbcd-11ec-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이주영_나도]]></title>
+            <link>https://tv.naver.com/v/26968072</link>
+            <guid>https://tv.naver.com/v/26968072</guid>
+            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
+            <content:encoded><![CDATA[5:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_214/V2Hhc_1653443651032s6mTp_JPEG/f0b026ca-dbcc-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼]]></title>
             <link>https://tv.naver.com/v/26843141</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220323_152/lZgMK_1648026353005t6C2D_JPEG/66c29e0e-aa87-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진_빛]]></title>
-            <link>https://tv.naver.com/v/25673814</link>
-            <guid>https://tv.naver.com/v/25673814</guid>
-            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[5:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_178/FV22l_1647407780228OllI3_JPEG/221a684d-a4e3-11ec-9e1a-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진_횟집(Unreleased)]]></title>
-            <link>https://tv.naver.com/v/25672927</link>
-            <guid>https://tv.naver.com/v/25672927</guid>
-            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[3:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_56/SfG3h_1647405579919vyR2d_JPEG/cb085b14-a4de-11ec-8916-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백현진_모과(Unreleased)]]></title>
-            <link>https://tv.naver.com/v/25672924</link>
-            <guid>https://tv.naver.com/v/25672924</guid>
-            <pubDate>Thu, 17 Mar 2022 02:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[4:52]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220316_284/F85TH_1647405569244WXzjJ_JPEG/6f920c78-a4de-11ec-8d48-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
