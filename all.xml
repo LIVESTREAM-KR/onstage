@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 04:40:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,12 +98,35 @@
             <content:encoded><![CDATA[여행하며 소리의 경계를 허무는 가족, 텐거를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[더 보울스(The Bowls)_Mr.love (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29355740</link>
+            <guid>https://www.vlive.tv/post/0-29355740</guid>
+            <pubDate>Thu, 02 Jun 2022 04:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_6/1654144554751QXdON_JPEG/c2a78757-e22c-11ec-8e34-505dac8c3721_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 보울스(The Bowls)_Round&Round (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29355712</link>
+            <guid>https://www.vlive.tv/post/0-29355712</guid>
+            <pubDate>Thu, 02 Jun 2022 04:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_4/1654144568536RFsUv_JPEG/5d50622a-e22c-11ec-8bba-505dac8c381b_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 보울스(The Bowls)_COSMOS (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29362077</link>
+            <guid>https://www.vlive.tv/post/1-29362077</guid>
+            <pubDate>Thu, 02 Jun 2022 04:40:02 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220602_258/16541446208623qWLT_JPEG/bc1004ba-e22b-11ec-aef4-48df37ae3fca_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주영_눈이 내린다 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-29277424</link>
             <guid>https://www.vlive.tv/post/0-29277424</guid>
             <pubDate>Thu, 26 May 2022 03:49:06 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_5/1653540972891iHqFK_JPEG/543abdbd-dc9b-11ec-b77c-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주영_나도 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-29277014</guid>
             <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_223/1653540983631zDu2R_JPEG/529b02bf-dc99-11ec-8055-505dac8c385b_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이주영_오후에 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/1-29283317</guid>
             <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220526_173/1653540993532EJU7N_JPEG/fd715cf9-dc97-11ec-8e34-505dac8c3721_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BrokenTeeth_수취인오류 + 불꽃놀이 (ONSTAGE (온스테이지))]]></title>
@@ -217,27 +238,6 @@
             <link>https://www.vlive.tv/post/1-28773261</link>
             <guid>https://www.vlive.tv/post/1-28773261</guid>
             <pubDate>Thu, 14 Apr 2022 03:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 윌리엄즈_변신 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28767608</link>
-            <guid>https://www.vlive.tv/post/0-28767608</guid>
-            <pubDate>Thu, 14 Apr 2022 03:33:38 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SINCE_봄비 (feat. Rakon) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28679679</link>
-            <guid>https://www.vlive.tv/post/0-28679679</guid>
-            <pubDate>Thu, 07 Apr 2022 02:22:22 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SINCE_휘파람 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28684965</link>
-            <guid>https://www.vlive.tv/post/1-28684965</guid>
-            <pubDate>Thu, 07 Apr 2022 02:22:22 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
