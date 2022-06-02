@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 05:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 06:13:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 01 Jun 2022 19:08:21 GMT</pubDate>
+            <title><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13161</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13161</guid>
+            <pubDate>Thu, 02 Jun 2022 06:12:57 GMT</pubDate>
+            <content:encoded><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[발라드의 빤함을 반추함으로써 빤짝이게, 이주영 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13141</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13141</guid>
+            <pubDate>Thu, 02 Jun 2022 06:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[한국 발라드의 사려 깊은 연인, 이주영을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소음 속에 풍덩, BrokenTeeth (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +97,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/12921</guid>
             <pubDate>Thu, 17 Mar 2022 02:10:58 GMT</pubDate>
             <content:encoded><![CDATA['이미지 이야기'의 달인, 크리스탈 티를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[무한의 여행자, 텐거(TENGGER) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12901</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12901</guid>
-            <pubDate>Thu, 10 Mar 2022 06:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[여행하며 소리의 경계를 허무는 가족, 텐거를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[더 보울스(The Bowls)_Mr.love (ONSTAGE (온스테이지))]]></title>
