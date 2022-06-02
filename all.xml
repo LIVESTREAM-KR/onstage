@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 00:52:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,6 +241,30 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[더 보울스(The Bowls)_COSMOS (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27106322</link>
+            <guid>https://tv.naver.com/v/27106322</guid>
+            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[6:05]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_183/aoF3C_1654131452091asguI_JPEG/71387e8e-e20e-11ec-b769-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 보울스(The Bowls)_Round&Round (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27106270</link>
+            <guid>https://tv.naver.com/v/27106270</guid>
+            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:48]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_273/prZOH_1654131201602gId7N_JPEG/0264c309-e20e-11ec-8bba-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 보울스(The Bowls)_Mr.love (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27106243</link>
+            <guid>https://tv.naver.com/v/27106243</guid>
+            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[4:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_224/4LvoX_1654130988367qMEY1_JPEG/82a16501-e20d-11ec-9fa8-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이주영_오후에 (ONSTAGE (온스테이지))]]></title>
             <link>https://tv.naver.com/v/26968198</link>
             <guid>https://tv.naver.com/v/26968198</guid>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
             <content:encoded><![CDATA[3:01]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220330_141/6RX0Z_1648621036713eDYqQ_JPEG/ceaef3a1-afeb-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신드럼(SHINDRUM)_SKIN (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25812392</link>
-            <guid>https://tv.naver.com/v/25812392</guid>
-            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_225/eAklG_16480288757982nQWb_JPEG/3ff317c7-aa89-11ec-89d7-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신드럼(SHINDRUM)_Soul MAK!(Feat.Jinbo) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25811612</link>
-            <guid>https://tv.naver.com/v/25811612</guid>
-            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:17]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_130/OstwT_1648026688983fi4vq_JPEG/7c48262e-aa88-11ec-88d2-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신드럼(SHINDRUM)_Vaemin riders + Everywhere but nowhere(Feat.Khundi Panda) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/25811461</link>
-            <guid>https://tv.naver.com/v/25811461</guid>
-            <pubDate>Thu, 24 Mar 2022 02:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220323_152/lZgMK_1648026353005t6C2D_JPEG/66c29e0e-aa87-11ec-a7e2-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
