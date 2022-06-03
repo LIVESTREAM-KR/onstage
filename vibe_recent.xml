@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-06-03T19:08:18.079Z</updated>
+    <updated>2022-06-03T20:10:31.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-06-03T19:07:47.948Z</updated>
+        <title type="html"><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13161</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13161"/>
+        <updated>2022-06-03T20:10:03.151Z</updated>
+        <content type="html"><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content>
     </entry>
 </feed>
