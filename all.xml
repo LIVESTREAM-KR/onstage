@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 21:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 22:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Sun, 05 Jun 2022 21:08:42 GMT</pubDate>
+            <title><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13161</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13161</guid>
+            <pubDate>Sun, 05 Jun 2022 22:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[발라드의 빤함을 반추함으로써 빤짝이게, 이주영 (VIBE ─ 온스테이지)]]></title>
