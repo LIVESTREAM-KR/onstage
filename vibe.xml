@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-06-09T00:45:43.462Z</updated>
+    <updated>2022-06-09T02:55:12.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13161</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13161"/>
+        <updated>2022-06-09T02:54:54.788Z</updated>
+        <content type="html"><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발라드의 빤함을 반추함으로써 빤짝이게, 이주영]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13141</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12941"/>
         <updated>2022-03-24T02:19:41.095Z</updated>
         <content type="html"><![CDATA[매일의 일상을 보고 들을 수 있는 아우라로 변환시키는 아티스트, 백현진을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑하는 우리 모두가 예술가, 크리스탈 티]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12921</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12921"/>
-        <updated>2022-03-17T02:10:58.670Z</updated>
-        <content type="html"><![CDATA['이미지 이야기'의 달인, 크리스탈 티를 소개합니다.]]></content>
     </entry>
 </feed>

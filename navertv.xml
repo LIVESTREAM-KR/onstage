@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 00:45:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 02:55:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[machìna_your garden (feat.DR of IDIOTAPE)]]></title>
+            <link>https://tv.naver.com/v/27230153</link>
+            <guid>https://tv.naver.com/v/27230153</guid>
+            <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_279/FH2HP_16546702122426K0Rf_JPEG/3084d413-e6f5-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[machìna_Puddle (feat.DR of IDIOTAPE)]]></title>
+            <link>https://tv.naver.com/v/27230109</link>
+            <guid>https://tv.naver.com/v/27230109</guid>
+            <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[4:55]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_293/G9O8U_1654670108399sPmy3_JPEG/ee9c1ddc-e6f4-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[machìna_ Namu Amitabul]]></title>
+            <link>https://tv.naver.com/v/27230059</link>
+            <guid>https://tv.naver.com/v/27230059</guid>
+            <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_251/a6K1n_1654669993458vlGvF_JPEG/80d1bb4e-e6f4-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 보울스(The Bowls)_COSMOS]]></title>
             <link>https://tv.naver.com/v/27106322</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
             <content:encoded><![CDATA[2:19]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220407_251/puChI_1649298011403hiwtc_JPEG/c22ec3c2-b548-11ec-ad5e-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저드(jerd)_dirty face]]></title>
-            <link>https://tv.naver.com/v/25936847</link>
-            <guid>https://tv.naver.com/v/25936847</guid>
-            <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[4:16]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_278/LIc5f_1648622127986NafVm_JPEG/ef0fecdf-aff1-11ec-88d2-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저드(jerd)_Phone Phobia]]></title>
-            <link>https://tv.naver.com/v/25936572</link>
-            <guid>https://tv.naver.com/v/25936572</guid>
-            <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_206/05N2r_1648621401402oOmXe_JPEG/136a8652-aff1-11ec-bc9a-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저드(jerd)_쉬러 가]]></title>
-            <link>https://tv.naver.com/v/25936445</link>
-            <guid>https://tv.naver.com/v/25936445</guid>
-            <pubDate>Thu, 31 Mar 2022 02:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[3:01]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220330_141/6RX0Z_1648621036713eDYqQ_JPEG/ceaef3a1-afeb-11ec-b9b3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
