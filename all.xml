@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 00:45:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 02:55:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 15 Jun 2022 19:08:12 GMT</pubDate>
+            <title><![CDATA[뽕을 찾아서, 250 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13201</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13201</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:25 GMT</pubDate>
+            <content:encoded><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[모듈러 신스의 매력, 마키나 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13181</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13181</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:32 GMT</pubDate>
+            <content:encoded><![CDATA[모듈러 라이브의 가능성을 확장하는 아티스트, 마키나를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls) (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +99,28 @@
             <content:encoded><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[일용하는 예술가, 백현진 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12941</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12941</guid>
-            <pubDate>Thu, 24 Mar 2022 02:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[매일의 일상을 보고 들을 수 있는 아우라로 변환시키는 아티스트, 백현진을 소개합니다.]]></content:encoded>
+            <title><![CDATA[250_바라보고 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29526469</link>
+            <guid>https://www.vlive.tv/post/1-29526469</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_87/1655276584848mFBcs_JPEG/12493c65-ec79-11ec-8e34-505dac8c3721_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[250_춤을 추어요 (feat. 나운도) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29526452</link>
+            <guid>https://www.vlive.tv/post/1-29526452</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_159/1655276452264MkckA_JPEG/9d7b0b37-ec78-11ec-a120-505dacfbaa5c_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[250_로얄 블루 (feat. 이정식) (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29520444</link>
+            <guid>https://www.vlive.tv/post/0-29520444</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220615_31/1655276743881tf2BJ_JPEG/3df09f0e-ec79-11ec-ba01-505dac8c3607_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[machìna_your garden (feat.DR of IDIOTAPE) (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +128,6 @@
             <guid>https://www.vlive.tv/post/1-29442363</guid>
             <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_85/1654745277503aEs7y_JPEG/0e67c5d1-e7a3-11ec-9d93-d4f5ef590144_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[machìna_Puddle (feat.DR of IDIOTAPE) (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +135,6 @@
             <guid>https://www.vlive.tv/post/1-29442313</guid>
             <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_265/1654744793660XOamw_JPEG/a780ffa8-e7a2-11ec-aef4-48df37ae3fca_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[machìna_Namu Amitabul (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +142,6 @@
             <guid>https://www.vlive.tv/post/1-29442254</guid>
             <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220609_221/16547441606096BYGy_JPEG/cce117f4-e7a0-11ec-b77c-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 보울스(The Bowls)_Mr.love (ONSTAGE (온스테이지))]]></title>
@@ -220,25 +242,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[최엘비(CHOILB)_독립음악 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28952347</link>
-            <guid>https://www.vlive.tv/post/0-28952347</guid>
-            <pubDate>Thu, 28 Apr 2022 07:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[250_로얄 블루 (feat. 이정식) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27359002</link>
+            <guid>https://tv.naver.com/v/27359002</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[4:45]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_54/FDHhj_1655262902216t1aGc_JPEG/ec573cac-ec58-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다정_do what you want (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-28868570</link>
-            <guid>https://www.vlive.tv/post/1-28868570</guid>
-            <pubDate>Thu, 21 Apr 2022 02:57:34 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[250_바라보고 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27358949</link>
+            <guid>https://tv.naver.com/v/27358949</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[2:54]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_182/DxeqB_1655262707420RWfB8_JPEG/b31cd0ef-ec58-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다정_untitled 2 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-28862025</link>
-            <guid>https://www.vlive.tv/post/0-28862025</guid>
-            <pubDate>Thu, 21 Apr 2022 02:57:34 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[250_춤을 추어요 (feat. 나운도) (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27358924</link>
+            <guid>https://tv.naver.com/v/27358924</guid>
+            <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
+            <content:encoded><![CDATA[5:03]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_64/bl10C_1655262614377vR78m_JPEG/0ba1257f-ec58-11ec-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[machìna_your garden (feat.DR of IDIOTAPE) (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +480,6 @@
             <pubDate>Thu, 14 Apr 2022 02:40:15 GMT</pubDate>
             <content:encoded><![CDATA[3:32]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220412_123/vXSXx_1649750063139Mhs0p_JPEG/9c038ef5-ba33-11ec-a2ba-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SINCE_봄비 (feat. Rakon) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/26062366</link>
-            <guid>https://tv.naver.com/v/26062366</guid>
-            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[3:06]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_80/fQjO3_1649209195564bHjrj_JPEG/ced9e8eb-b549-11ec-ad5e-48df37ae3fca_08.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SINCE_휘파람 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/26062249</link>
-            <guid>https://tv.naver.com/v/26062249</guid>
-            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220406_210/erjE8_1649208901408lWDT9_JPEG/4c51ec3f-b549-11ec-8c0a-48df379ccacc_05.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SINCE_홀로 (Hol' up) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/26062138</link>
-            <guid>https://tv.naver.com/v/26062138</guid>
-            <pubDate>Thu, 07 Apr 2022 02:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[2:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220407_251/puChI_1649298011403hiwtc_JPEG/c22ec3c2-b548-11ec-ad5e-48df37ae3fca_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
