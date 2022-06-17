@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-06-17T02:58:43.661Z</updated>
+    <updated>2022-06-17T03:51:23.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-06-16T23:09:41.113Z</updated>
+        <title type="html"><![CDATA[뽕을 찾아서, 250]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13201</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13201"/>
+        <updated>2022-06-17T03:50:47.921Z</updated>
+        <content type="html"><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content>
     </entry>
 </feed>
