@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 16:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 17:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[뽕을 찾아서, 250 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13201</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13201</guid>
-            <pubDate>Sun, 19 Jun 2022 16:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Sun, 19 Jun 2022 17:08:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[모듈러 신스의 매력, 마키나 (VIBE ─ 온스테이지)]]></title>
