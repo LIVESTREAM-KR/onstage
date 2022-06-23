@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-06-23T05:15:42.708Z</updated>
+    <updated>2022-06-23T06:21:06.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[뽕을 찾아서, 250]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13201</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13201"/>
+        <updated>2022-06-23T06:20:50.428Z</updated>
+        <content type="html"><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모듈러 신스의 매력, 마키나]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13181</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/12981"/>
         <updated>2022-04-07T02:22:13.359Z</updated>
         <content type="html"><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12961</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12961"/>
-        <updated>2022-03-31T06:11:53.252Z</updated>
-        <content type="html"><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content>
     </entry>
 </feed>

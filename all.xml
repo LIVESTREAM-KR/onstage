@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 05:15:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 06:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 23 Jun 2022 03:03:07 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[뽕을 찾아서, 250 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13201</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13201</guid>
+            <pubDate>Thu, 23 Jun 2022 06:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[모듈러 신스의 매력, 마키나 (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/12981</guid>
             <pubDate>Thu, 07 Apr 2022 02:22:13 GMT</pubDate>
             <content:encoded><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모두가 기댈 수밖에 없는 비트, SHINDRUM (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/12961</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/12961</guid>
-            <pubDate>Thu, 31 Mar 2022 05:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[장르를 불문하고 많은 뮤지션의 러브콜을 받는 드러머, SHINDRUM을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Y2K92_ChampagneCasanova (DEMO) (ONSTAGE (온스테이지))]]></title>
