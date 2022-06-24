@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 11:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 12:17:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Fri, 24 Jun 2022 11:08:15 GMT</pubDate>
+            <title><![CDATA[반박불가. 그리고 대체불가. Y2K92 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13221</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13221</guid>
+            <pubDate>Fri, 24 Jun 2022 12:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[지금 한국에서 가장 주목해야 하는 언더그라운드 듀오, Y2K92를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[뽕을 찾아서, 250 (VIBE ─ 온스테이지)]]></title>
