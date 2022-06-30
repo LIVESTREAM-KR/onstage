@@ -4,9 +4,25 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 10:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 11:08:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rad Museum_U]]></title>
+            <link>https://www.vlive.tv/post/1-29699461</link>
+            <guid>https://www.vlive.tv/post/1-29699461</guid>
+            <pubDate>Thu, 30 Jun 2022 11:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220630_18/1656586092904uAQlX_JPEG/6d6be8ce-f860-11ec-9fa8-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rad Museum_Forever]]></title>
+            <link>https://www.vlive.tv/post/0-29692956</link>
+            <guid>https://www.vlive.tv/post/0-29692956</guid>
+            <pubDate>Thu, 30 Jun 2022 11:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220630_289/1656585347669IdkBb_JPEG/c6984b66-f859-11ec-b77c-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rad Museum_Off-Line]]></title>
             <link>https://www.vlive.tv/post/0-29692327</link>
@@ -21,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-29609342</guid>
             <pubDate>Thu, 23 Jun 2022 03:03:24 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_146/1655873590209As8eR_JPEG/ff714ca5-f1e6-11ec-b6ab-505dac8c38f5_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Y2K92_Bi-elijah]]></title>
@@ -29,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-29609324</guid>
             <pubDate>Thu, 23 Jun 2022 03:03:24 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220622_141/1655873440412JJV7u_JPEG/75414233-f1dd-11ec-9fa8-505dacfba98a_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Y2K92_Queen TanTan + Uainrealli Remix]]></title>
@@ -134,20 +148,6 @@
             <link>https://www.vlive.tv/post/0-29212378</link>
             <guid>https://www.vlive.tv/post/0-29212378</guid>
             <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼]]></title>
-            <link>https://www.vlive.tv/post/0-29212354</link>
-            <guid>https://www.vlive.tv/post/0-29212354</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[베리코이버니(verycoybunny)_Diary]]></title>
-            <link>https://www.vlive.tv/post/1-29127862</link>
-            <guid>https://www.vlive.tv/post/1-29127862</guid>
-            <pubDate>Thu, 12 May 2022 02:49:23 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
