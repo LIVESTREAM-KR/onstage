@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-06-30T00:43:51.245Z</updated>
+    <updated>2022-06-30T03:07:54.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[반박불가. 그리고 대체불가. Y2K92]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13221</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13221"/>
+        <updated>2022-06-30T03:07:35.851Z</updated>
+        <content type="html"><![CDATA[지금 한국에서 가장 주목해야 하는 언더그라운드 듀오, Y2K92를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[뽕을 찾아서, 250]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13201</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13001"/>
         <updated>2022-04-14T06:12:18.813Z</updated>
         <content type="html"><![CDATA[확신으로 돌파하는 정공법의 래퍼, 신스를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나'를 말하는 법, 저드(jerd)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/12981</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/12981"/>
-        <updated>2022-04-07T02:22:13.359Z</updated>
-        <content type="html"><![CDATA[평범한 이야기를 비범하게 전하는 스타일리스트, 저드를 소개합니다.]]></content>
     </entry>
 </feed>

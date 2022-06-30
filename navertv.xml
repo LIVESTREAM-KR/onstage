@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 00:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 03:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rad Museum_Forever]]></title>
+            <link>https://tv.naver.com/v/27641810</link>
+            <guid>https://tv.naver.com/v/27641810</guid>
+            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[7:39]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_238/JF0LX_1656475699595JEGDh_JPEG/adaa3700-f75f-11ec-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rad Museum_U]]></title>
+            <link>https://tv.naver.com/v/27641517</link>
+            <guid>https://tv.naver.com/v/27641517</guid>
+            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_173/GVruL_165647506757542bNr_JPEG/d915e56f-f75e-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rad Museum_Off-Line]]></title>
+            <link>https://tv.naver.com/v/27641387</link>
+            <guid>https://tv.naver.com/v/27641387</guid>
+            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_295/AIUZg_165647470886230rjD_JPEG/9d2fd74a-f75d-11ec-b77c-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Y2K92_Bi-elijah]]></title>
             <link>https://tv.naver.com/v/27497026</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
             <content:encoded><![CDATA[3:37]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220428_220/2U8ti_1651113193327tutj8_JPEG/34940937-c69b-11ec-a3bf-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정_untitled 2]]></title>
-            <link>https://tv.naver.com/v/26366139</link>
-            <guid>https://tv.naver.com/v/26366139</guid>
-            <pubDate>Thu, 21 Apr 2022 09:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_260/AG4Eq_1650531290212c7Hhm_JPEG/79233efe-c150-11ec-a0e5-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정_do what you want]]></title>
-            <link>https://tv.naver.com/v/26366126</link>
-            <guid>https://tv.naver.com/v/26366126</guid>
-            <pubDate>Thu, 21 Apr 2022 09:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[2:04]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_61/Z2Ayi_1650531264107d2b9h_JPEG/7473e7bb-c150-11ec-a0e5-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정_Last Nail]]></title>
-            <link>https://tv.naver.com/v/26366122</link>
-            <guid>https://tv.naver.com/v/26366122</guid>
-            <pubDate>Thu, 21 Apr 2022 09:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220421_243/CZryS_1650531255401jcft0_JPEG/5836e5fe-c150-11ec-8726-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
