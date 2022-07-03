@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-07-02T23:09:37.577Z</updated>
+    <updated>2022-07-03T00:48:33.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-07-02T21:07:50.365Z</updated>
+        <title type="html"><![CDATA[놀러 오세요, 라드 뮤지엄에, RAD MUSEUM(라드 뮤지엄)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13241</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13241"/>
+        <updated>2022-07-03T00:48:05.048Z</updated>
+        <content type="html"><![CDATA[R&amp;B를 기반으로 대중 음악의 다양한 대안을 찾아 나서는 프로듀서, 라드 뮤지엄을 소개합니다.]]></content>
     </entry>
 </feed>
