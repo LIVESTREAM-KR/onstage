@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 18:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 19:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Mon, 04 Jul 2022 14:08:13 GMT</pubDate>
+            <link>https://vibe.naver.com/onstage/season/2/article/13241</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13241</guid>
+            <pubDate>Mon, 04 Jul 2022 19:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[R&amp;B를 기반으로 대중 음악의 다양한 대안을 찾아 나서는 프로듀서, 라드 뮤지엄을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[반박불가. 그리고 대체불가. Y2K92 (VIBE ─ 온스테이지)]]></title>
