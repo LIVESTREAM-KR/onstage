@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-07-07T00:52:40.633Z</updated>
+    <updated>2022-07-07T03:15:44.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[놀러 오세요, 라드 뮤지엄에, RAD MUSEUM(라드 뮤지엄)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13241</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13241"/>
+        <updated>2022-07-07T03:15:26.682Z</updated>
+        <content type="html"><![CDATA[R&amp;B를 기반으로 대중 음악의 다양한 대안을 찾아 나서는 프로듀서, 라드 뮤지엄을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반박불가. 그리고 대체불가. Y2K92]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13221</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13021"/>
         <updated>2022-04-21T10:11:07.474Z</updated>
         <content type="html"><![CDATA[윌리엄이라는 이름에서 상상할 수 있는 서브컬처를 오마주하는 밴드, 더 윌리엄즈를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두의 하나뿐인 이야기, 신스(SINCE)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13001</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13001"/>
-        <updated>2022-04-14T06:12:18.813Z</updated>
-        <content type="html"><![CDATA[확신으로 돌파하는 정공법의 래퍼, 신스를 소개합니다.]]></content>
     </entry>
 </feed>

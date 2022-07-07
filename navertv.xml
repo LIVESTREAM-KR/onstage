@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 00:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pierre Blanche_Lasting Night (feat. Julie)]]></title>
+            <link>https://tv.naver.com/v/27800054</link>
+            <guid>https://tv.naver.com/v/27800054</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:53]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_121/RTszS_1657159794294z1vHC_JPEG/b0f0b08f-fd99-11ec-946a-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pierre Blanche_Emptiness (feat. Khan, 오혜영)]]></title>
+            <link>https://tv.naver.com/v/27800042</link>
+            <guid>https://tv.naver.com/v/27800042</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_194/JFw0m_1657159759999UdzDr_JPEG/928eac0f-fd99-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pierre Blanche_Commencement]]></title>
+            <link>https://tv.naver.com/v/27799983</link>
+            <guid>https://tv.naver.com/v/27799983</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[4:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_112/DtFDu_165715964428830yhs_JPEG/5e2b1caa-fd99-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rad Museum_Forever]]></title>
             <link>https://tv.naver.com/v/27641810</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 05 May 2022 02:47:02 GMT</pubDate>
             <content:encoded><![CDATA[4:07]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220504_96/KX5vT_1651635453400GE6nS_JPEG/092d02e6-cb5b-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최엘비_구름구름]]></title>
-            <link>https://tv.naver.com/v/26489585</link>
-            <guid>https://tv.naver.com/v/26489585</guid>
-            <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[2:58]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_1/WO0VL_165111319076095WrG_JPEG/30fd74f1-c69b-11ec-a3bf-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최엘비_독립음악]]></title>
-            <link>https://tv.naver.com/v/26489584</link>
-            <guid>https://tv.naver.com/v/26489584</guid>
-            <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_168/2mfUl_1651113187955XUlD3_JPEG/236e1495-c69b-11ec-b765-d4f5ef5a9532_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최엘비_신입생환영회! (with 최엘비 합창단)]]></title>
-            <link>https://tv.naver.com/v/26489586</link>
-            <guid>https://tv.naver.com/v/26489586</guid>
-            <pubDate>Thu, 28 Apr 2022 03:36:46 GMT</pubDate>
-            <content:encoded><![CDATA[3:37]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220428_220/2U8ti_1651113193327tutj8_JPEG/34940937-c69b-11ec-a3bf-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

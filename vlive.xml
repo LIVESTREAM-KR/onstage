@@ -4,16 +4,39 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 00:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pierre Blanche_Emptiness (feat. Khan, 오혜영)]]></title>
+            <link>https://www.vlive.tv/post/1-29758369</link>
+            <guid>https://www.vlive.tv/post/1-29758369</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220706_299/1657071502211w42cI_JPEG/975b5b87-fccb-11ec-aef4-48df37ae3fca_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pierre Blanche_Commencement]]></title>
+            <link>https://www.vlive.tv/post/1-29758339</link>
+            <guid>https://www.vlive.tv/post/1-29758339</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220706_179/1657071165321LygKf_JPEG/dbef9e7c-fcca-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pierre Blanche_Lasting Night (feat. Julie)]]></title>
+            <link>https://www.vlive.tv/post/0-29752412</link>
+            <guid>https://www.vlive.tv/post/0-29752412</guid>
+            <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220706_244/1657071819755RjCQY_JPEG/5f941267-fccc-11ec-9d93-d4f5ef590144_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rad Museum_U]]></title>
             <link>https://www.vlive.tv/post/1-29699461</link>
             <guid>https://www.vlive.tv/post/1-29699461</guid>
             <pubDate>Thu, 30 Jun 2022 11:08:36 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_18/1656586092904uAQlX_JPEG/6d6be8ce-f860-11ec-9fa8-505dacfba98a_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rad Museum_Forever]]></title>
@@ -21,7 +44,6 @@
             <guid>https://www.vlive.tv/post/0-29692956</guid>
             <pubDate>Thu, 30 Jun 2022 11:08:36 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_289/1656585347669IdkBb_JPEG/c6984b66-f859-11ec-b77c-48df379cca40_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rad Museum_Off-Line]]></title>
@@ -29,7 +51,6 @@
             <guid>https://www.vlive.tv/post/0-29692327</guid>
             <pubDate>Thu, 30 Jun 2022 10:13:52 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220630_293/1656582490777L8NmY_JPEG/644edb44-f859-11ec-aef4-48df37ae3fca_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Y2K92_ChampagneCasanova (DEMO)]]></title>
@@ -127,27 +148,6 @@
             <link>https://www.vlive.tv/post/0-29277014</link>
             <guid>https://www.vlive.tv/post/0-29277014</guid>
             <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이주영_오후에]]></title>
-            <link>https://www.vlive.tv/post/1-29283317</link>
-            <guid>https://www.vlive.tv/post/1-29283317</guid>
-            <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth_수취인오류 + 불꽃놀이]]></title>
-            <link>https://www.vlive.tv/post/1-29218911</link>
-            <guid>https://www.vlive.tv/post/1-29218911</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth_Spring]]></title>
-            <link>https://www.vlive.tv/post/0-29212378</link>
-            <guid>https://www.vlive.tv/post/0-29212378</guid>
-            <pubDate>Fri, 20 May 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
