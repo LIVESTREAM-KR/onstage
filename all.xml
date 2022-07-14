@@ -4,14 +4,22 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 00:53:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 03:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Wed, 13 Jul 2022 11:08:43 GMT</pubDate>
+            <link>https://vibe.naver.com/onstage/season/2/article/13281</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13281</guid>
+            <pubDate>Thu, 14 Jul 2022 03:16:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국 사이키델릭 록, 포크의 정수를 추적하는 밴드, 콩코드를 소개합니다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한국 테크노의 눈부신 성장, Pierre Blanche (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13262</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13262</guid>
+            <pubDate>Thu, 14 Jul 2022 03:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[‘Ares’로 세계 무대에서도 통한 테크노 듀오, 피에르 블랑쉐를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[놀러 오세요, 라드 뮤지엄에, RAD MUSEUM(라드 뮤지엄) (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +99,28 @@
             <content:encoded><![CDATA[팝의 핵심을 동물적으로 캐치하는 싱어송라이터, 다정을 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[무질서의 구조적 파괴, 더 윌리엄즈 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13021</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13021</guid>
-            <pubDate>Thu, 21 Apr 2022 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[윌리엄이라는 이름에서 상상할 수 있는 서브컬처를 오마주하는 밴드, 더 윌리엄즈를 소개합니다.]]></content:encoded>
+            <title><![CDATA[콩코드_이슬방울 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29822645</link>
+            <guid>https://www.vlive.tv/post/0-29822645</guid>
+            <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_124/1657611267523js6Mz_JPEG/6a66659a-01b4-11ed-a120-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩코드_미워요 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29822632</link>
+            <guid>https://www.vlive.tv/post/0-29822632</guid>
+            <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_243/1657611259420p6YiF_JPEG/159e1a8b-01b3-11ed-928a-48df37ae3dc4_04.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[콩코드_무지개꽃 피어있네 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29822575</link>
+            <guid>https://www.vlive.tv/post/0-29822575</guid>
+            <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220712_226/1657611187360spK1G_JPEG/bd979e62-01b2-11ed-8863-48df379cc9e4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pierre Blanche_Emptiness (feat. Khan, 오혜영) (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +128,6 @@
             <guid>https://www.vlive.tv/post/1-29758369</guid>
             <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_48/1657611173207vMoPE_JPEG/975b5b87-fccb-11ec-aef4-48df37ae3fca_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pierre Blanche_Commencement (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +135,6 @@
             <guid>https://www.vlive.tv/post/1-29758339</guid>
             <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220706_179/1657071165321LygKf_JPEG/dbef9e7c-fcca-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pierre Blanche_Lasting Night (feat. Julie) (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +142,6 @@
             <guid>https://www.vlive.tv/post/0-29752412</guid>
             <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_202/1657611162438LT2oc_JPEG/5f941267-fccc-11ec-9d93-d4f5ef590144_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Rad Museum_U (ONSTAGE (온스테이지))]]></title>
@@ -220,25 +242,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더 보울스(The Bowls)_COSMOS (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29362077</link>
-            <guid>https://www.vlive.tv/post/1-29362077</guid>
-            <pubDate>Thu, 02 Jun 2022 04:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[콩코드_무지개꽃 피어있네 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27912361</link>
+            <guid>https://tv.naver.com/v/27912361</guid>
+            <pubDate>Thu, 14 Jul 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[6:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_211/HoDHR_1657683877372i1joH_JPEG/60333a17-025c-11ed-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이주영_눈이 내린다 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29277424</link>
-            <guid>https://www.vlive.tv/post/0-29277424</guid>
-            <pubDate>Thu, 26 May 2022 03:49:06 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[콩코드_이슬방울 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27912141</link>
+            <guid>https://tv.naver.com/v/27912141</guid>
+            <pubDate>Thu, 14 Jul 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:19]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_232/9MEKK_1657683118554Kf4h4_JPEG/26fbd07b-025b-11ed-bb12-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이주영_나도 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29277014</link>
-            <guid>https://www.vlive.tv/post/0-29277014</guid>
-            <pubDate>Thu, 26 May 2022 02:58:23 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[콩코드_미워요 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/27911990</link>
+            <guid>https://tv.naver.com/v/27911990</guid>
+            <pubDate>Thu, 14 Jul 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[5:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_211/xwkzM_1657682595049uTmnm_JPEG/53b19d69-0258-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pierre Blanche_Lasting Night (feat. Julie) (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +480,6 @@
             <pubDate>Wed, 11 May 2022 02:53:38 GMT</pubDate>
             <content:encoded><![CDATA[4:41]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220511_175/h0mp1_16522348009719hcCl_JPEG/b6306cd8-d0ce-11ec-8726-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yonko(욘코)_Kiss Me On The Cheek (feat. Sokodomo) (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/26597337</link>
-            <guid>https://tv.naver.com/v/26597337</guid>
-            <pubDate>Thu, 05 May 2022 02:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[2:32]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_130/6dCxQ_1651635863424cBqib_JPEG/62d48fac-cb5c-11ec-8726-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yonko(욘코)_Grey (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/26597321</link>
-            <guid>https://tv.naver.com/v/26597321</guid>
-            <pubDate>Thu, 05 May 2022 02:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[3:41]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_266/YmTPy_1651635791390BTjP5_JPEG/91955cad-cb5b-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yonko(욘코)_내 맘이 그래 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/26597261</link>
-            <guid>https://tv.naver.com/v/26597261</guid>
-            <pubDate>Thu, 05 May 2022 02:47:02 GMT</pubDate>
-            <content:encoded><![CDATA[4:07]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220504_96/KX5vT_1651635453400GE6nS_JPEG/092d02e6-cb5b-11ec-b8ef-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
