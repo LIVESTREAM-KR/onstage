@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 13:34:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 14:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -98,12 +98,35 @@
             <content:encoded><![CDATA[- 친숙하고 강단 있게 자신의 이야기를 건네는 래퍼, 최엘비를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[TAAL_술비 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29927632</link>
+            <guid>https://www.vlive.tv/post/1-29927632</guid>
+            <pubDate>Thu, 21 Jul 2022 14:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_132/1658395504655N2iVO_JPEG/44934934-08d6-11ed-b769-505dac8c35ff_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAAL_한강밀 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-29927574</link>
+            <guid>https://www.vlive.tv/post/1-29927574</guid>
+            <pubDate>Thu, 21 Jul 2022 14:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_4/16583955198967OFzf_JPEG/a6fe6755-08d5-11ed-8055-505dac8c385b_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TAAL_양산도 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-29921200</link>
+            <guid>https://www.vlive.tv/post/0-29921200</guid>
+            <pubDate>Thu, 21 Jul 2022 14:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220721_287/1658395537859c7k86_JPEG/24d45ef5-08d4-11ed-ba01-505dac8c3607_07.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[콩코드_이슬방울 (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-29822645</link>
             <guid>https://www.vlive.tv/post/0-29822645</guid>
             <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_124/1657611267523js6Mz_JPEG/6a66659a-01b4-11ed-a120-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콩코드_미워요 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-29822632</guid>
             <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_243/1657611259420p6YiF_JPEG/159e1a8b-01b3-11ed-928a-48df37ae3dc4_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콩코드_무지개꽃 피어있네 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-29822575</guid>
             <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220712_226/1657611187360spK1G_JPEG/bd979e62-01b2-11ed-8863-48df379cc9e4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pierre Blanche_Emptiness (feat. Khan, 오혜영) (ONSTAGE (온스테이지))]]></title>
@@ -217,27 +238,6 @@
             <link>https://www.vlive.tv/post/1-29442313</link>
             <guid>https://www.vlive.tv/post/1-29442313</guid>
             <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[machìna_Namu Amitabul (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29442254</link>
-            <guid>https://www.vlive.tv/post/1-29442254</guid>
-            <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_Mr.love (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29355740</link>
-            <guid>https://www.vlive.tv/post/0-29355740</guid>
-            <pubDate>Thu, 02 Jun 2022 04:40:02 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_Round&Round (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29355712</link>
-            <guid>https://www.vlive.tv/post/0-29355712</guid>
-            <pubDate>Thu, 02 Jun 2022 04:40:02 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
