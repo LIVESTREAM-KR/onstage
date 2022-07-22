@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 00:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 03:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Simply]]></title>
+            <link>https://tv.naver.com/v/28094347</link>
+            <guid>https://tv.naver.com/v/28094347</guid>
+            <pubDate>Fri, 22 Jul 2022 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:42]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_198/frkia_1658452633604y6O6P_JPEG/925919e1-095b-11ed-9fa8-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Swim]]></title>
+            <link>https://tv.naver.com/v/28056285</link>
+            <guid>https://tv.naver.com/v/28056285</guid>
+            <pubDate>Fri, 22 Jul 2022 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:29]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_200/DxBMb_1658299084662GJnr7_JPEG/3b700711-07f6-11ed-bb44-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Lemon]]></title>
+            <link>https://tv.naver.com/v/28056245</link>
+            <guid>https://tv.naver.com/v/28056245</guid>
+            <pubDate>Fri, 22 Jul 2022 03:14:11 GMT</pubDate>
+            <content:encoded><![CDATA[3:44]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_40/b0BXV_1658299135638GO7Ex_JPEG/f8a2bd1e-07f5-11ed-89b9-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAAL_양산도]]></title>
             <link>https://tv.naver.com/v/28052946</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
             <content:encoded><![CDATA[5:39]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220525_214/V2Hhc_1653443651032s6mTp_JPEG/f0b026ca-dbcc-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth_벚꽃이 화사했던 계절처럼]]></title>
-            <link>https://tv.naver.com/v/26843141</link>
-            <guid>https://tv.naver.com/v/26843141</guid>
-            <pubDate>Sun, 22 May 2022 16:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[4:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_130/NM2Yd_1652843763946HpsRR_JPEG/7c18f8c2-d658-11ec-af45-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth_Spring]]></title>
-            <link>https://tv.naver.com/v/26843071</link>
-            <guid>https://tv.naver.com/v/26843071</guid>
-            <pubDate>Sun, 22 May 2022 16:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[7:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_216/7Ipbc_1652843581748NEK7f_JPEG/efc5f7ec-d657-11ec-87ba-505dac8c38f5_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[BrokenTeeth_수취인오류 + 불꽃놀이]]></title>
-            <link>https://tv.naver.com/v/26843002</link>
-            <guid>https://tv.naver.com/v/26843002</guid>
-            <pubDate>Sun, 22 May 2022 16:04:43 GMT</pubDate>
-            <content:encoded><![CDATA[7:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220518_57/YQCn5_16528433550462K5Fo_JPEG/73f46d34-d657-11ec-95d6-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
