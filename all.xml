@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 12:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 13:22:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,7 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13302</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13302</guid>
             <pubDate>Sat, 23 Jul 2022 12:15:44 GMT</pubDate>
+            <content:encoded><![CDATA[영상 3편 공개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[무소유와 무경계의 음악, TAAL (VIBE ─ 온스테이지)]]></title>
