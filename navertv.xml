@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 00:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 03:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예빛_집에 가자]]></title>
+            <link>https://tv.naver.com/v/28186762</link>
+            <guid>https://tv.naver.com/v/28186762</guid>
+            <pubDate>Thu, 28 Jul 2022 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:33]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_135/lOFtC_1658885202033h8qAO_JPEG/09a415fd-0d4b-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예빛_여정]]></title>
+            <link>https://tv.naver.com/v/28186741</link>
+            <guid>https://tv.naver.com/v/28186741</guid>
+            <pubDate>Thu, 28 Jul 2022 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_161/kted0_1658885128738BpoKv_JPEG/d45674a8-0d4a-11ed-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예빛_사랑할거야]]></title>
+            <link>https://tv.naver.com/v/28186709</link>
+            <guid>https://tv.naver.com/v/28186709</guid>
+            <pubDate>Thu, 28 Jul 2022 03:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[3:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_20/JbMbF_16588850425640mb8U_JPEG/a85f1ce8-0d4a-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Simply]]></title>
             <link>https://tv.naver.com/v/28094347</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
             <content:encoded><![CDATA[4:11]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220602_224/4LvoX_1654130988367qMEY1_JPEG/82a16501-e20d-11ec-9fa8-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영_오후에]]></title>
-            <link>https://tv.naver.com/v/26968198</link>
-            <guid>https://tv.naver.com/v/26968198</guid>
-            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[7:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_257/9WOB3_1653443973931UpG5W_JPEG/9a4e16ac-dbcd-11ec-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영_눈이 내린다]]></title>
-            <link>https://tv.naver.com/v/26968152</link>
-            <guid>https://tv.naver.com/v/26968152</guid>
-            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:49]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_155/1WXlM_1653443859024DhLbc_JPEG/b7dbb317-dbcd-11ec-928a-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이주영_나도]]></title>
-            <link>https://tv.naver.com/v/26968072</link>
-            <guid>https://tv.naver.com/v/26968072</guid>
-            <pubDate>Thu, 26 May 2022 02:58:31 GMT</pubDate>
-            <content:encoded><![CDATA[5:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220525_214/V2Hhc_1653443651032s6mTp_JPEG/f0b026ca-dbcc-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,39 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 00:50:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 03:04:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[예빛_집에 가자]]></title>
+            <link>https://www.vlive.tv/post/1-29986768</link>
+            <guid>https://www.vlive.tv/post/1-29986768</guid>
+            <pubDate>Thu, 28 Jul 2022 03:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220727_41/1658889141819eHHeC_JPEG/66295f52-0d52-11ed-a120-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예빛_여정]]></title>
+            <link>https://www.vlive.tv/post/1-29986691</link>
+            <guid>https://www.vlive.tv/post/1-29986691</guid>
+            <pubDate>Thu, 28 Jul 2022 03:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220727_148/16588891645214xyAz_JPEG/b0f8a2dc-0d51-11ed-bb12-d4f5ef5a9532_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[예빛_사랑할거야]]></title>
+            <link>https://www.vlive.tv/post/0-29980077</link>
+            <guid>https://www.vlive.tv/post/0-29980077</guid>
+            <pubDate>Thu, 28 Jul 2022 03:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220727_276/1658889191290Q0EmY_JPEG/775737fe-0d51-11ed-8863-48df379cc9e4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[TAAL_술비]]></title>
             <link>https://www.vlive.tv/post/1-29927632</link>
             <guid>https://www.vlive.tv/post/1-29927632</guid>
             <pubDate>Thu, 21 Jul 2022 14:11:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220721_132/1658395504655N2iVO_JPEG/44934934-08d6-11ed-b769-505dac8c35ff_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAAL_한강밀]]></title>
@@ -21,7 +44,6 @@
             <guid>https://www.vlive.tv/post/1-29927574</guid>
             <pubDate>Thu, 21 Jul 2022 14:11:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220721_4/16583955198967OFzf_JPEG/a6fe6755-08d5-11ed-8055-505dac8c385b_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAAL_양산도]]></title>
@@ -29,7 +51,6 @@
             <guid>https://www.vlive.tv/post/0-29921200</guid>
             <pubDate>Thu, 21 Jul 2022 14:11:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220721_287/1658395537859c7k86_JPEG/24d45ef5-08d4-11ed-ba01-505dac8c3607_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[콩코드_이슬방울]]></title>
@@ -127,27 +148,6 @@
             <link>https://www.vlive.tv/post/1-29526452</link>
             <guid>https://www.vlive.tv/post/1-29526452</guid>
             <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[250_로얄 블루 (feat. 이정식)]]></title>
-            <link>https://www.vlive.tv/post/0-29520444</link>
-            <guid>https://www.vlive.tv/post/0-29520444</guid>
-            <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[machìna_your garden (feat.DR of IDIOTAPE)]]></title>
-            <link>https://www.vlive.tv/post/1-29442363</link>
-            <guid>https://www.vlive.tv/post/1-29442363</guid>
-            <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[machìna_Puddle (feat.DR of IDIOTAPE)]]></title>
-            <link>https://www.vlive.tv/post/1-29442313</link>
-            <guid>https://www.vlive.tv/post/1-29442313</guid>
-            <pubDate>Thu, 09 Jun 2022 03:48:22 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
     </channel>
