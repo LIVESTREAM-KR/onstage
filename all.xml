@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 12:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 13:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[노래의 본령은 위로, 예빛 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13321</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13321</guid>
-            <pubDate>Mon, 01 Aug 2022 12:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[무해함으로 음악을 지어내는 예빛을 소개합니다.]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Mon, 01 Aug 2022 13:36:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ADOY이기에 가능했던 온라인 공연! (VIBE ─ 온스테이지)]]></title>
