@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 00:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[강승원_처음]]></title>
+            <link>https://tv.naver.com/v/28336802</link>
+            <guid>https://tv.naver.com/v/28336802</guid>
+            <pubDate>Thu, 04 Aug 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_71/eR4SK_1659495058201RXuhh_JPEG/de2fd04b-12d6-11ed-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강승원_말하지 않아도 알아요]]></title>
+            <link>https://tv.naver.com/v/28336767</link>
+            <guid>https://tv.naver.com/v/28336767</guid>
+            <pubDate>Thu, 04 Aug 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_190/o5BRq_1659494945429GeNi2_JPEG/928c1ad9-12d6-11ed-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강승원_나는 지금]]></title>
+            <link>https://tv.naver.com/v/28336729</link>
+            <guid>https://tv.naver.com/v/28336729</guid>
+            <pubDate>Thu, 04 Aug 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_205/2bAUN_1659494818396f1wJv_JPEG/3b629131-12d6-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[예빛_집에 가자]]></title>
             <link>https://tv.naver.com/v/28186762</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
             <content:encoded><![CDATA[5:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_251/a6K1n_1654669993458vlGvF_JPEG/80d1bb4e-e6f4-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_COSMOS]]></title>
-            <link>https://tv.naver.com/v/27106322</link>
-            <guid>https://tv.naver.com/v/27106322</guid>
-            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[6:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_183/aoF3C_1654131452091asguI_JPEG/71387e8e-e20e-11ec-b769-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_Round&Round]]></title>
-            <link>https://tv.naver.com/v/27106270</link>
-            <guid>https://tv.naver.com/v/27106270</guid>
-            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_273/prZOH_1654131201602gId7N_JPEG/0264c309-e20e-11ec-8bba-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_Mr.love]]></title>
-            <link>https://tv.naver.com/v/27106243</link>
-            <guid>https://tv.naver.com/v/27106243</guid>
-            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_224/4LvoX_1654130988367qMEY1_JPEG/82a16501-e20d-11ec-9fa8-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

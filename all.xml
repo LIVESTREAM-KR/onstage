@@ -4,14 +4,21 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 00:54:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 02:59:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13341</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13341</guid>
+            <pubDate>Thu, 04 Aug 2022 02:58:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[노래의 본령은 위로, 예빛 (VIBE ─ 온스테이지)]]></title>
             <link>https://vibe.naver.com/onstage/season/2/article/13321</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13321</guid>
             <pubDate>Thu, 04 Aug 2022 00:53:38 GMT</pubDate>
+            <content:encoded><![CDATA[무해함으로 음악을 지어내는 예빛을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ADOY이기에 가능했던 온라인 공연! (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[한국 슈게이징의 새바람, 브로큰티스를 소개합니다]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[록은 이렇게 계속된다, 베리코이버니(verycoybunny) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13101</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13101</guid>
-            <pubDate>Sun, 22 May 2022 16:04:28 GMT</pubDate>
-            <content:encoded><![CDATA[걸리쉬한 하이틴 감성 로커, 베리코이버니를 소개합니다.]]></content:encoded>
+            <title><![CDATA[강승원_나는 지금 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30059478</link>
+            <guid>https://www.vlive.tv/post/1-30059478</guid>
+            <pubDate>Thu, 04 Aug 2022 02:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220803_105/1659510989309t2bUm_JPEG/c9a999bc-12fb-11ed-81b1-505dac8c3639_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강승원_말하지 않아도 알아요 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30059460</link>
+            <guid>https://www.vlive.tv/post/1-30059460</guid>
+            <pubDate>Thu, 04 Aug 2022 02:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220803_196/1659510795295uagYg_JPEG/73346c93-12fb-11ed-ba01-505dac8c3607_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강승원_처음 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-30053097</link>
+            <guid>https://www.vlive.tv/post/0-30053097</guid>
+            <pubDate>Thu, 04 Aug 2022 02:58:55 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220803_144/1659511821631NnB3X_JPEG/3c1e71c2-12fc-11ed-bb12-d4f5ef5a9532_07.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예빛_집에 가자 (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +127,6 @@
             <guid>https://www.vlive.tv/post/1-29986768</guid>
             <pubDate>Thu, 28 Jul 2022 03:04:29 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_41/1658889141819eHHeC_JPEG/66295f52-0d52-11ed-a120-505dacfbaa5c_03.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예빛_여정 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/1-29986691</guid>
             <pubDate>Thu, 28 Jul 2022 03:04:29 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_148/16588891645214xyAz_JPEG/b0f8a2dc-0d51-11ed-bb12-d4f5ef5a9532_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예빛_사랑할거야 (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-29980077</guid>
             <pubDate>Thu, 28 Jul 2022 03:04:29 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220727_276/1658889191290Q0EmY_JPEG/775737fe-0d51-11ed-8863-48df379cc9e4_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[TAAL_술비 (ONSTAGE (온스테이지))]]></title>
@@ -220,25 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Y2K92_Queen TanTan + Uainrealli Remix (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29603211</link>
-            <guid>https://www.vlive.tv/post/0-29603211</guid>
-            <pubDate>Thu, 23 Jun 2022 03:03:24 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[강승원_처음 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28336802</link>
+            <guid>https://tv.naver.com/v/28336802</guid>
+            <pubDate>Thu, 04 Aug 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[3:23]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_71/eR4SK_1659495058201RXuhh_JPEG/de2fd04b-12d6-11ed-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[250_바라보고 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29526469</link>
-            <guid>https://www.vlive.tv/post/1-29526469</guid>
-            <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[강승원_말하지 않아도 알아요 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28336767</link>
+            <guid>https://tv.naver.com/v/28336767</guid>
+            <pubDate>Thu, 04 Aug 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_190/o5BRq_1659494945429GeNi2_JPEG/928c1ad9-12d6-11ed-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[250_춤을 추어요 (feat. 나운도) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29526452</link>
-            <guid>https://www.vlive.tv/post/1-29526452</guid>
-            <pubDate>Thu, 16 Jun 2022 02:55:41 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[강승원_나는 지금 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28336729</link>
+            <guid>https://tv.naver.com/v/28336729</guid>
+            <pubDate>Thu, 04 Aug 2022 02:59:02 GMT</pubDate>
+            <content:encoded><![CDATA[4:09]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220803_205/2bAUN_1659494818396f1wJv_JPEG/3b629131-12d6-11ed-b77c-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예빛_집에 가자 (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
             <content:encoded><![CDATA[5:15]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220608_251/a6K1n_1654669993458vlGvF_JPEG/80d1bb4e-e6f4-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_COSMOS (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27106322</link>
-            <guid>https://tv.naver.com/v/27106322</guid>
-            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[6:05]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_183/aoF3C_1654131452091asguI_JPEG/71387e8e-e20e-11ec-b769-505dac8c35ff_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_Round&Round (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27106270</link>
-            <guid>https://tv.naver.com/v/27106270</guid>
-            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:48]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_273/prZOH_1654131201602gId7N_JPEG/0264c309-e20e-11ec-8bba-505dac8c381b_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 보울스(The Bowls)_Mr.love (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27106243</link>
-            <guid>https://tv.naver.com/v/27106243</guid>
-            <pubDate>Thu, 02 Jun 2022 03:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[4:11]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220602_224/4LvoX_1654130988367qMEY1_JPEG/82a16501-e20d-11ec-9fa8-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
