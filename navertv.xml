@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 00:50:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 02:54:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JISOKURY_Take On]]></title>
+            <link>https://tv.naver.com/v/28462301</link>
+            <guid>https://tv.naver.com/v/28462301</guid>
+            <pubDate>Thu, 11 Aug 2022 02:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[3:24]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_27/OiSvx_1660036740890QKc7n_JPEG/2526ec64-17c4-11ed-a836-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JISOKURY_Light Chaser]]></title>
+            <link>https://tv.naver.com/v/28462272</link>
+            <guid>https://tv.naver.com/v/28462272</guid>
+            <pubDate>Thu, 11 Aug 2022 02:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:07]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_23/H99tk_1660036666125tNjsi_JPEG/dc637325-17c3-11ed-b4d4-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JISOKURY_a Plumber]]></title>
+            <link>https://tv.naver.com/v/28462200</link>
+            <guid>https://tv.naver.com/v/28462200</guid>
+            <pubDate>Thu, 11 Aug 2022 02:54:00 GMT</pubDate>
+            <content:encoded><![CDATA[4:50]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220809_85/KOniV_1660036486768VN0iy_JPEG/843af02e-17c3-11ed-b1f2-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강승원_처음]]></title>
             <link>https://tv.naver.com/v/28336802</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
             <content:encoded><![CDATA[5:03]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220615_64/bl10C_1655262614377vR78m_JPEG/0ba1257f-ec58-11ec-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[machìna_your garden (feat.DR of IDIOTAPE)]]></title>
-            <link>https://tv.naver.com/v/27230153</link>
-            <guid>https://tv.naver.com/v/27230153</guid>
-            <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:21]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_279/FH2HP_16546702122426K0Rf_JPEG/3084d413-e6f5-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[machìna_Puddle (feat.DR of IDIOTAPE)]]></title>
-            <link>https://tv.naver.com/v/27230109</link>
-            <guid>https://tv.naver.com/v/27230109</guid>
-            <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[4:55]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_293/G9O8U_1654670108399sPmy3_JPEG/ee9c1ddc-e6f4-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[machìna_ Namu Amitabul]]></title>
-            <link>https://tv.naver.com/v/27230059</link>
-            <guid>https://tv.naver.com/v/27230059</guid>
-            <pubDate>Thu, 09 Jun 2022 02:55:12 GMT</pubDate>
-            <content:encoded><![CDATA[5:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220608_251/a6K1n_1654669993458vlGvF_JPEG/80d1bb4e-e6f4-11ec-8bba-505dac8c381b_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
