@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 00:53:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 03:25:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Moon Kyoo_Ten Birds]]></title>
+            <link>https://tv.naver.com/v/28590528</link>
+            <guid>https://tv.naver.com/v/28590528</guid>
+            <pubDate>Thu, 18 Aug 2022 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:12]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_57/Xej34_1660628338380hlvAR_JPEG/789947a2-1d25-11ed-b1f2-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moon Kyoo_TAEYEON - INVU (Moon Kyoo Remix)]]></title>
+            <link>https://tv.naver.com/v/28590472</link>
+            <guid>https://tv.naver.com/v/28590472</guid>
+            <pubDate>Thu, 18 Aug 2022 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[4:22]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_201/fxWtC_1660628218862gtB4R_JPEG/ea850ed4-1d24-11ed-aa4b-48df37ae3dc4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Moon Kyoo_Dawn (Feat. hoo dee)]]></title>
+            <link>https://tv.naver.com/v/28590369</link>
+            <guid>https://tv.naver.com/v/28590369</guid>
+            <pubDate>Thu, 18 Aug 2022 03:25:58 GMT</pubDate>
+            <content:encoded><![CDATA[5:30]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220816_144/C4Qrs_1660627981239wl2P4_JPEG/a2c87dfa-1d24-11ed-997e-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JISOKURY_Take On]]></title>
             <link>https://tv.naver.com/v/28462301</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 23 Jun 2022 03:03:33 GMT</pubDate>
             <content:encoded><![CDATA[4:28]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220622_256/ed8Uz_16558852986551BvAD_JPEG/4b47dd23-f202-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[250_로얄 블루 (feat. 이정식)]]></title>
-            <link>https://tv.naver.com/v/27359002</link>
-            <guid>https://tv.naver.com/v/27359002</guid>
-            <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[4:45]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_54/FDHhj_1655262902216t1aGc_JPEG/ec573cac-ec58-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[250_바라보고]]></title>
-            <link>https://tv.naver.com/v/27358949</link>
-            <guid>https://tv.naver.com/v/27358949</guid>
-            <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[2:54]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_182/DxeqB_1655262707420RWfB8_JPEG/b31cd0ef-ec58-11ec-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[250_춤을 추어요 (feat. 나운도)]]></title>
-            <link>https://tv.naver.com/v/27358924</link>
-            <guid>https://tv.naver.com/v/27358924</guid>
-            <pubDate>Thu, 16 Jun 2022 02:55:48 GMT</pubDate>
-            <content:encoded><![CDATA[5:03]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220615_64/bl10C_1655262614377vR78m_JPEG/0ba1257f-ec58-11ec-89b9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

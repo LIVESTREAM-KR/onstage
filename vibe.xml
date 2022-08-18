@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-08-18T00:53:40.203Z</updated>
+    <updated>2022-08-18T03:25:59.280Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[둥글게 둥글게, 자꾸 걸어 나가면, 지소쿠리(JISOKURY)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13361</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13361"/>
+        <updated>2022-08-18T03:25:42.974Z</updated>
+        <content type="html"><![CDATA[작은 일상의 순간을 소중히 담아내는 싱어송라이터 지소쿠리를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[말하지 않아도 언제나 청춘, 강승원]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13341</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13161"/>
         <updated>2022-06-09T02:54:54.788Z</updated>
         <content type="html"><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[발라드의 빤함을 반추함으로써 빤짝이게, 이주영]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13141</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13141"/>
-        <updated>2022-06-02T06:13:04.832Z</updated>
-        <content type="html"><![CDATA[한국 발라드의 사려 깊은 연인, 이주영을 소개합니다.]]></content>
     </entry>
 </feed>
