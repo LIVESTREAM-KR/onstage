@@ -4,15 +4,14 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 00:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 03:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[안주나딥에 입성한 한국의 신인, Moon Kyoo (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13381</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13381</guid>
-            <pubDate>Thu, 25 Aug 2022 00:58:35 GMT</pubDate>
-            <content:encoded><![CDATA[세계적인 레이블 안주나딥에서 데뷔한 하우스 신인, 문규를 소개합니다.]]></content:encoded>
+            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[둥글게 둥글게, 자꾸 걸어 나가면, 지소쿠리(JISOKURY) (VIBE ─ 온스테이지)]]></title>
@@ -99,12 +98,35 @@
             <content:encoded><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[Richiman & Groove Nice_Richiman Blues (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30301186</link>
+            <guid>https://www.vlive.tv/post/1-30301186</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_1/16613947376924IXyl_JPEG/d8cd7b3a-241d-11ed-999c-505dac8c3639_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richiman & Groove Nice_Hard Time Is Gone (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/0-30292833</link>
+            <guid>https://www.vlive.tv/post/0-30292833</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_220/1661394746505mWWYk_JPEG/9c56d079-241d-11ed-bbda-505dac8c37f3_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richiman & Groove Nice_Groove Nice (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30301174</link>
+            <guid>https://www.vlive.tv/post/1-30301174</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220825_6/1661394756722ExRa1_JPEG/586ca533-241d-11ed-8613-505dacfba98a_05.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Moon Kyoo_Ten Birds (ONSTAGE (온스테이지))]]></title>
             <link>https://www.vlive.tv/post/0-30213381</link>
             <guid>https://www.vlive.tv/post/0-30213381</guid>
             <pubDate>Thu, 18 Aug 2022 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_159/1660718973572krJEq_JPEG/3c1351b0-1df7-11ed-aa59-d4f5ef58ac88_04.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Moon Kyoo_Dawn (Feat. hoo dee) (ONSTAGE (온스테이지))]]></title>
@@ -112,7 +134,6 @@
             <guid>https://www.vlive.tv/post/0-30213332</guid>
             <pubDate>Thu, 18 Aug 2022 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_222/1660718302723pIxCi_JPEG/f15a4a2c-1df6-11ed-bf94-d4f5ef590144_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Moon Kyoo_TAEYEON - INVU (Moon Kyoo Remix) (ONSTAGE (온스테이지))]]></title>
@@ -120,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-30213327</guid>
             <pubDate>Thu, 18 Aug 2022 03:25:51 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220817_168/1660718176532xKej8_JPEG/47353085-1df3-11ed-bbda-505dac8c37f3_01.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JISOKURY_Take On (ONSTAGE (온스테이지))]]></title>
@@ -221,25 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[콩코드_무지개꽃 피어있네 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29822575</link>
-            <guid>https://www.vlive.tv/post/0-29822575</guid>
-            <pubDate>Thu, 14 Jul 2022 03:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[Richiman & Groove Nice_Richiman Blues (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28770572</link>
+            <guid>https://tv.naver.com/v/28770572</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_117/EsVAC_1661332360103QmLaw_JPEG/2715b18c-238c-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pierre Blanche_Emptiness (feat. Khan, 오혜영) (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29758369</link>
-            <guid>https://www.vlive.tv/post/1-29758369</guid>
-            <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[Richiman & Groove Nice_Groove Nice (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28770452</link>
+            <guid>https://tv.naver.com/v/28770452</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_11/odNEu_1661332066855PmhVi_JPEG/53fa444a-238b-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pierre Blanche_Commencement (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29758339</link>
-            <guid>https://www.vlive.tv/post/1-29758339</guid>
-            <pubDate>Thu, 07 Jul 2022 03:15:35 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[Richiman & Groove Nice_Hard Time Is Gone (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/28770246</link>
+            <guid>https://tv.naver.com/v/28770246</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_126/MP7tO_1661331658813bDWO3_JPEG/86749673-238a-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드] 더 튜나스(The Tunas) - Luna, Dance Floor (ONSTAGE (온스테이지))]]></title>
@@ -456,30 +479,6 @@
             <pubDate>Thu, 07 Jul 2022 03:15:43 GMT</pubDate>
             <content:encoded><![CDATA[4:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_112/DtFDu_165715964428830yhs_JPEG/5e2b1caa-fd99-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_Forever (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27641810</link>
-            <guid>https://tv.naver.com/v/27641810</guid>
-            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[7:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_238/JF0LX_1656475699595JEGDh_JPEG/adaa3700-f75f-11ec-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_U (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27641517</link>
-            <guid>https://tv.naver.com/v/27641517</guid>
-            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_173/GVruL_165647506757542bNr_JPEG/d915e56f-f75e-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_Off-Line (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27641387</link>
-            <guid>https://tv.naver.com/v/27641387</guid>
-            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_295/AIUZg_165647470886230rjD_JPEG/9d2fd74a-f75d-11ec-b77c-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

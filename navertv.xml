@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 00:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 03:34:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Richiman & Groove Nice_Richiman Blues]]></title>
+            <link>https://tv.naver.com/v/28770572</link>
+            <guid>https://tv.naver.com/v/28770572</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[5:11]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_117/EsVAC_1661332360103QmLaw_JPEG/2715b18c-238c-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richiman & Groove Nice_Groove Nice]]></title>
+            <link>https://tv.naver.com/v/28770452</link>
+            <guid>https://tv.naver.com/v/28770452</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:57]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_11/odNEu_1661332066855PmhVi_JPEG/53fa444a-238b-11ed-83d6-48df379cca40_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richiman & Groove Nice_Hard Time Is Gone]]></title>
+            <link>https://tv.naver.com/v/28770246</link>
+            <guid>https://tv.naver.com/v/28770246</guid>
+            <pubDate>Thu, 25 Aug 2022 03:34:37 GMT</pubDate>
+            <content:encoded><![CDATA[3:27]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220824_126/MP7tO_1661331658813bDWO3_JPEG/86749673-238a-11ed-a7c3-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[온스테이지 로컬 라이브 보드] 더 튜나스(The Tunas) - Luna, Dance Floor]]></title>
             <link>https://tv.naver.com/v/28708747</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 07 Jul 2022 03:15:43 GMT</pubDate>
             <content:encoded><![CDATA[4:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220707_112/DtFDu_165715964428830yhs_JPEG/5e2b1caa-fd99-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_Forever]]></title>
-            <link>https://tv.naver.com/v/27641810</link>
-            <guid>https://tv.naver.com/v/27641810</guid>
-            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[7:39]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_238/JF0LX_1656475699595JEGDh_JPEG/adaa3700-f75f-11ec-b769-505dac8c35ff_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_U]]></title>
-            <link>https://tv.naver.com/v/27641517</link>
-            <guid>https://tv.naver.com/v/27641517</guid>
-            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:50]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_173/GVruL_165647506757542bNr_JPEG/d915e56f-f75e-11ec-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rad Museum_Off-Line]]></title>
-            <link>https://tv.naver.com/v/27641387</link>
-            <guid>https://tv.naver.com/v/27641387</guid>
-            <pubDate>Thu, 30 Jun 2022 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[3:27]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220629_295/AIUZg_165647470886230rjD_JPEG/9d2fd74a-f75d-11ec-b77c-48df379cca40_04.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
