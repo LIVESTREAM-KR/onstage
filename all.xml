@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 06:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 07:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Thu, 25 Aug 2022 03:34:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[안주나딥에 입성한 한국의 신인, Moon Kyoo (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13381</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13381</guid>
+            <pubDate>Thu, 25 Aug 2022 07:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[세계적인 레이블 안주나딥에서 데뷔한 하우스 신인, 문규를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[둥글게 둥글게, 자꾸 걸어 나가면, 지소쿠리(JISOKURY) (VIBE ─ 온스테이지)]]></title>
@@ -89,13 +96,6 @@
             <guid>https://vibe.naver.com/onstage/season/2/article/13181</guid>
             <pubDate>Thu, 16 Jun 2022 02:55:32 GMT</pubDate>
             <content:encoded><![CDATA[모듈러 라이브의 가능성을 확장하는 아티스트, 마키나를 소개합니다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls) (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13161</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13161</guid>
-            <pubDate>Thu, 09 Jun 2022 02:54:54 GMT</pubDate>
-            <content:encoded><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Richiman & Groove Nice_Richiman Blues (ONSTAGE (온스테이지))]]></title>

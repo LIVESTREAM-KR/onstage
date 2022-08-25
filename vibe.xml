@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-08-25T06:24:55.259Z</updated>
+    <updated>2022-08-25T07:15:39.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안주나딥에 입성한 한국의 신인, Moon Kyoo]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13381</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13381"/>
+        <updated>2022-08-25T07:15:21.721Z</updated>
+        <content type="html"><![CDATA[세계적인 레이블 안주나딥에서 데뷔한 하우스 신인, 문규를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[둥글게 둥글게, 자꾸 걸어 나가면, 지소쿠리(JISOKURY)]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13361</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13181"/>
         <updated>2022-06-16T02:55:32.968Z</updated>
         <content type="html"><![CDATA[모듈러 라이브의 가능성을 확장하는 아티스트, 마키나를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손님, 이건 그냥 좋은 음악이에요, 더 보울스(The Bowls)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13161</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13161"/>
-        <updated>2022-06-09T02:54:54.788Z</updated>
-        <content type="html"><![CDATA[대중음악이 남긴 위대한 유산에서 자신의 것을 캐내는 밴드, 더 보울스를 소개합니다.]]></content>
     </entry>
 </feed>
