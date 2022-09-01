@@ -4,16 +4,24 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 03:29:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 05:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[unofficialboyy_새끼 (Feat. gamma)]]></title>
+            <link>https://www.vlive.tv/post/0-30384789</link>
+            <guid>https://www.vlive.tv/post/0-30384789</guid>
+            <pubDate>Thu, 01 Sep 2022 05:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_100/1662006265636B9AOQ_JPEG/c07acf82-29a5-11ed-814e-505dac8c381b_06.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[unofficialboyy_그물,덫,발사대기,포획]]></title>
             <link>https://www.vlive.tv/post/1-30391788</link>
             <guid>https://www.vlive.tv/post/1-30391788</guid>
             <pubDate>Thu, 01 Sep 2022 03:29:15 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_108/1662002729231RYdwz_JPEG/8f4882c2-29a5-11ed-814e-505dac8c381b_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_241/1662006280611JnRHS_JPEG/8f4882c2-29a5-11ed-814e-505dac8c381b_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[unofficialboyy(with. gamma)_bluecheck]]></title>
@@ -21,7 +29,7 @@
             <guid>https://www.vlive.tv/post/0-30383726</guid>
             <pubDate>Thu, 01 Sep 2022 03:29:15 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_135/1662002646040HqzSE_JPEG/51b14d6e-29a5-11ed-bbda-505dac8c37f3_02.jpg?type=f359x202" length="0" type="image/jpg"/>
+            <enclosure url="https://v-phinf.pstatic.net/20220901_259/1662006295858WBr2G_JPEG/51b14d6e-29a5-11ed-bbda-505dac8c37f3_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Richiman & Groove Nice_Richiman Blues]]></title>
@@ -29,7 +37,6 @@
             <guid>https://www.vlive.tv/post/1-30301186</guid>
             <pubDate>Thu, 25 Aug 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220825_1/16613947376924IXyl_JPEG/d8cd7b3a-241d-11ed-999c-505dac8c3639_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Richiman & Groove Nice_Hard Time Is Gone]]></title>
@@ -140,13 +147,6 @@
             <title><![CDATA[TAAL_한강밀]]></title>
             <link>https://www.vlive.tv/post/1-29927574</link>
             <guid>https://www.vlive.tv/post/1-29927574</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[TAAL_양산도]]></title>
-            <link>https://www.vlive.tv/post/0-29921200</link>
-            <guid>https://www.vlive.tv/post/0-29921200</guid>
             <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
