@@ -4,9 +4,33 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 00:47:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 03:29:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[unofficialboyy_그물,덫,발사대기,포획]]></title>
+            <link>https://tv.naver.com/v/28901868</link>
+            <guid>https://tv.naver.com/v/28901868</guid>
+            <pubDate>Thu, 01 Sep 2022 03:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:40]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_215/OCecI_1661849335312QThRc_JPEG/6cea0f24-2840-11ed-8d11-48df379ccacc_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[unofficialboyy_새끼(Feat.gamma)]]></title>
+            <link>https://tv.naver.com/v/28901834</link>
+            <guid>https://tv.naver.com/v/28901834</guid>
+            <pubDate>Thu, 01 Sep 2022 03:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[5:15]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_113/9ZSe3_166184926006577I92_JPEG/e37bdeae-283f-11ed-b07a-48df37ae3fca_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[unofficialboyy(with. gamma)_bluecheck]]></title>
+            <link>https://tv.naver.com/v/28901735</link>
+            <guid>https://tv.naver.com/v/28901735</guid>
+            <pubDate>Thu, 01 Sep 2022 03:29:23 GMT</pubDate>
+            <content:encoded><![CDATA[3:52]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220830_79/Qp2jV_1661849025042rNqh6_JPEG/9b56efce-283f-11ed-b41c-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Richiman & Groove Nice_Richiman Blues]]></title>
             <link>https://tv.naver.com/v/28770572</link>
@@ -222,30 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
             <content:encoded><![CDATA[5:24]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220713_211/xwkzM_1657682595049uTmnm_JPEG/53b19d69-0258-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pierre Blanche_Lasting Night (feat. Julie)]]></title>
-            <link>https://tv.naver.com/v/27800054</link>
-            <guid>https://tv.naver.com/v/27800054</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:53]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_121/RTszS_1657159794294z1vHC_JPEG/b0f0b08f-fd99-11ec-946a-d4f5ef58ac88_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pierre Blanche_Emptiness (feat. Khan, 오혜영)]]></title>
-            <link>https://tv.naver.com/v/27800042</link>
-            <guid>https://tv.naver.com/v/27800042</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:23]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_194/JFw0m_1657159759999UdzDr_JPEG/928eac0f-fd99-11ec-b44a-d4f5ef58ad5e_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pierre Blanche_Commencement]]></title>
-            <link>https://tv.naver.com/v/27799983</link>
-            <guid>https://tv.naver.com/v/27799983</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[4:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220707_112/DtFDu_165715964428830yhs_JPEG/5e2b1caa-fd99-11ec-9d93-d4f5ef590144_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
