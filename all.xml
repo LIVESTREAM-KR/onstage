@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 11:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 12:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,6 @@
             <link>https://vibe.naver.com/onstage/season/2/article/13421</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/13421</guid>
             <pubDate>Mon, 05 Sep 2022 11:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[할 수 있는 건 다 해내는 래퍼, 언오피셜보이를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바다를 건넌 블루스의 도전, Richiman & Groove Nice (VIBE ─ 온스테이지)]]></title>
