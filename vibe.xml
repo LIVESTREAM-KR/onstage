@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-09-08T00:54:24.221Z</updated>
+    <updated>2022-09-08T03:33:40.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비공식적 무모함으로, 언오피셜보이(unofficialboyy)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13421</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13421"/>
+        <updated>2022-09-08T03:33:21.923Z</updated>
+        <content type="html"><![CDATA[할 수 있는 건 다 해내는 래퍼, 언오피셜보이를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다를 건넌 블루스의 도전, Richiman & Groove Nice]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13401</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13221"/>
         <updated>2022-06-30T03:07:35.851Z</updated>
         <content type="html"><![CDATA[지금 한국에서 가장 주목해야 하는 언더그라운드 듀오, Y2K92를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뽕을 찾아서, 250]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13201</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13201"/>
-        <updated>2022-06-23T06:20:50.428Z</updated>
-        <content type="html"><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content>
     </entry>
 </feed>

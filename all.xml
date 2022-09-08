@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 00:54:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 03:33:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,6 +12,13 @@
             <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
             <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
             <pubDate>Wed, 07 Sep 2022 22:10:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[비공식적 무모함으로, 언오피셜보이(unofficialboyy) (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13421</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13421</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:21 GMT</pubDate>
+            <content:encoded><![CDATA[할 수 있는 건 다 해내는 래퍼, 언오피셜보이를 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[바다를 건넌 블루스의 도전, Richiman & Groove Nice (VIBE ─ 온스테이지)]]></title>
@@ -91,11 +98,28 @@
             <content:encoded><![CDATA[지금 한국에서 가장 주목해야 하는 언더그라운드 듀오, Y2K92를 소개합니다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[뽕을 찾아서, 250 (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/13201</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/13201</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[뽕을 찾아 나선 일렉트로닉 프로듀서, 250을 소개합니다.]]></content:encoded>
+            <title><![CDATA[김새녘_FLOOR FLOWER (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30462460</link>
+            <guid>https://www.vlive.tv/post/1-30462460</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_37/1662528864848DjHsU_JPEG/9bf54a67-2e6d-11ed-8892-505dac8c35ff_03.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김새녘_싫증 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30462452</link>
+            <guid>https://www.vlive.tv/post/1-30462452</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_31/1662528854729jxrKl_JPEG/98825fa1-2e6c-11ed-aa59-d4f5ef58ac88_01.jpg?type=f359x202" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김새녘_알람 (ONSTAGE (온스테이지))]]></title>
+            <link>https://www.vlive.tv/post/1-30462415</link>
+            <guid>https://www.vlive.tv/post/1-30462415</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:31 GMT</pubDate>
+            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <enclosure url="https://v-phinf.pstatic.net/20220907_297/1662528844292sgNpA_JPEG/4afc557f-2e6c-11ed-9f1e-d4f5ef5a9532_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[unofficialboyy_새끼 (Feat. gamma) (ONSTAGE (온스테이지))]]></title>
@@ -103,7 +127,6 @@
             <guid>https://www.vlive.tv/post/0-30384789</guid>
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_100/1662006265636B9AOQ_JPEG/c07acf82-29a5-11ed-814e-505dac8c381b_06.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[unofficialboyy_그물,덫,발사대기,포획 (ONSTAGE (온스테이지))]]></title>
@@ -111,7 +134,6 @@
             <guid>https://www.vlive.tv/post/1-30391788</guid>
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_241/1662006280611JnRHS_JPEG/8f4882c2-29a5-11ed-814e-505dac8c381b_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[unofficialboyy(with. gamma)_bluecheck (ONSTAGE (온스테이지))]]></title>
@@ -119,7 +141,6 @@
             <guid>https://www.vlive.tv/post/0-30383726</guid>
             <pubDate>Thu, 01 Sep 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
-            <enclosure url="https://v-phinf.pstatic.net/20220901_259/1662006295858WBr2G_JPEG/51b14d6e-29a5-11ed-bbda-505dac8c37f3_02.jpg?type=f359x202" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Richiman & Groove Nice_Richiman Blues (ONSTAGE (온스테이지))]]></title>
@@ -220,25 +241,28 @@
             <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[예빛_사랑할거야 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/0-29980077</link>
-            <guid>https://www.vlive.tv/post/0-29980077</guid>
-            <pubDate>Thu, 28 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[김새녘_싫증 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/29067483</link>
+            <guid>https://tv.naver.com/v/29067483</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:31]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_81/AGsYf_1662521254021XyTXe_JPEG/c68961e7-2e5a-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TAAL_술비 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29927632</link>
-            <guid>https://www.vlive.tv/post/1-29927632</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[김새녘_FLOOR FLOWER (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/29067184</link>
+            <guid>https://tv.naver.com/v/29067184</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[4:38]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_169/Zhs0P_1662520278348mVntY_JPEG/2cafd0d2-2e59-11ed-b25c-505dacfbaa5c_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TAAL_한강밀 (ONSTAGE (온스테이지))]]></title>
-            <link>https://www.vlive.tv/post/1-29927574</link>
-            <guid>https://www.vlive.tv/post/1-29927574</guid>
-            <pubDate>Thu, 21 Jul 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[ONSTAGE (온스테이지)]]></content:encoded>
+            <title><![CDATA[김새녘_알람 (ONSTAGE (온스테이지))]]></title>
+            <link>https://tv.naver.com/v/29066881</link>
+            <guid>https://tv.naver.com/v/29066881</guid>
+            <pubDate>Thu, 08 Sep 2022 03:33:39 GMT</pubDate>
+            <content:encoded><![CDATA[6:21]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220907_4/YQCy1_16625195872605aLX5_JPEG/b106c7e9-2e56-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[unofficialboyy_그물,덫,발사대기,포획 (ONSTAGE (온스테이지))]]></title>
@@ -455,30 +479,6 @@
             <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
             <content:encoded><![CDATA[9:33]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220720_169/xT1J8_1658289521644Cq8Uq_JPEG/0f7695de-07dd-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩코드_무지개꽃 피어있네 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27912361</link>
-            <guid>https://tv.naver.com/v/27912361</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[6:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_211/HoDHR_1657683877372i1joH_JPEG/60333a17-025c-11ed-90b2-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩코드_이슬방울 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27912141</link>
-            <guid>https://tv.naver.com/v/27912141</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[5:19]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_232/9MEKK_1657683118554Kf4h4_JPEG/26fbd07b-025b-11ed-bb12-d4f5ef5a9532_01.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩코드_미워요 (ONSTAGE (온스테이지))]]></title>
-            <link>https://tv.naver.com/v/27911990</link>
-            <guid>https://tv.naver.com/v/27911990</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[5:24]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220713_211/xwkzM_1657682595049uTmnm_JPEG/53b19d69-0258-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
