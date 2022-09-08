@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-09-08T19:10:23.831Z</updated>
+    <updated>2022-09-08T20:12:22.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-09-08T16:13:36.349Z</updated>
+        <title type="html"><![CDATA[은은하게 빛나는 진중한 목소리, 김새녘]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13441</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13441"/>
+        <updated>2022-09-08T20:11:56.549Z</updated>
+        <content type="html"><![CDATA[‘싫증’으로 주목받는 신인으로 떠오른 싱어송라이터, 김새녘을 소개합니다.]]></content>
     </entry>
 </feed>
