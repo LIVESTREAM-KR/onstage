@@ -4,14 +4,15 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 22:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 23:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-            <link>https://vibe.naver.com/onstage/season/2/article/undefined</link>
-            <guid>https://vibe.naver.com/onstage/season/2/article/undefined</guid>
-            <pubDate>Sat, 10 Sep 2022 21:08:49 GMT</pubDate>
+            <title><![CDATA[은은하게 빛나는 진중한 목소리, 김새녘 (VIBE ─ 온스테이지)]]></title>
+            <link>https://vibe.naver.com/onstage/season/2/article/13441</link>
+            <guid>https://vibe.naver.com/onstage/season/2/article/13441</guid>
+            <pubDate>Sat, 10 Sep 2022 23:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[‘싫증’으로 주목받는 신인으로 떠오른 싱어송라이터, 김새녘을 소개합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[비공식적 무모함으로, 언오피셜보이(unofficialboyy) (VIBE ─ 온스테이지)]]></title>
