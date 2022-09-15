@@ -4,9 +4,65 @@
         <title>ONSTAGE (온스테이지)</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 00:59:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 03:47:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로스(Los)_Intro + LA 2 Korea]]></title>
+            <link>https://tv.naver.com/v/29192273</link>
+            <guid>https://tv.naver.com/v/29192273</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:56]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_286/o7Zma_1663141455911vw1F5_JPEG/f43626a3-33ff-11ed-8bc9-d4f5ef5906a4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로스(Los)_BIG MAD + Blue Lemonade]]></title>
+            <link>https://tv.naver.com/v/29192269</link>
+            <guid>https://tv.naver.com/v/29192269</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[3:37]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_261/n078o_1663141443906zYJa6_JPEG/aa2ebc47-33ff-11ed-8613-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로스(Los)_Make It Back Home]]></title>
+            <link>https://tv.naver.com/v/29192010</link>
+            <guid>https://tv.naver.com/v/29192010</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[2:49]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_142/2nVuq_1663140933564gydf3_JPEG/0e8de2bf-33ff-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 더 튜나스]]></title>
+            <link>https://tv.naver.com/v/29187035</link>
+            <guid>https://tv.naver.com/v/29187035</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[25:32]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_249/0v0aG_1663130678692wy2WG_JPEG/a8e3c4b2-33e5-11ed-a14d-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 더 바스타즈]]></title>
+            <link>https://tv.naver.com/v/29186999</link>
+            <guid>https://tv.naver.com/v/29186999</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[28:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_131/Xvruq_16631305827876MEFl_JPEG/d2985830-33e5-11ed-8892-505dac8c35ff_06.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 하퍼스]]></title>
+            <link>https://tv.naver.com/v/29186998</link>
+            <guid>https://tv.naver.com/v/29186998</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[23:14]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_73/R1EW4_1663130580629lEcCf_JPEG/c6d1f803-33e5-11ed-bbda-505dac8c37f3_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[네이버 온스테이지 로컬 라이브 보드] 장풍파랑 051 - 세이수미]]></title>
+            <link>https://tv.naver.com/v/29186997</link>
+            <guid>https://tv.naver.com/v/29186997</guid>
+            <pubDate>Thu, 15 Sep 2022 03:47:29 GMT</pubDate>
+            <content:encoded><![CDATA[44:17]]></content:encoded>
+            <enclosure url="https://phinf.pstatic.net/tvcast/20220914_283/Q99Xb_16631305782943Wfzn_JPEG/b4242bf8-33e5-11ed-8613-505dacfba98a_02.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김새녘_싫증]]></title>
             <link>https://tv.naver.com/v/29067483</link>
@@ -190,62 +246,6 @@
             <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
             <content:encoded><![CDATA[3:22]]></content:encoded>
             <enclosure url="https://phinf.pstatic.net/tvcast/20220727_161/kted0_1658885128738BpoKv_JPEG/d45674a8-0d4a-11ed-ba01-505dac8c3607_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[예빛_사랑할거야]]></title>
-            <link>https://tv.naver.com/v/28186709</link>
-            <guid>https://tv.naver.com/v/28186709</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:15]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220727_20/JbMbF_16588850425640mb8U_JPEG/a85f1ce8-0d4a-11ed-81b1-505dac8c3639_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Simply]]></title>
-            <link>https://tv.naver.com/v/28094347</link>
-            <guid>https://tv.naver.com/v/28094347</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:42]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220722_198/frkia_1658452633604y6O6P_JPEG/925919e1-095b-11ed-9fa8-505dacfba98a_07.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Swim]]></title>
-            <link>https://tv.naver.com/v/28056285</link>
-            <guid>https://tv.naver.com/v/28056285</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:29]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_200/DxBMb_1658299084662GJnr7_JPEG/3b700711-07f6-11ed-bb44-48df379ccacc_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[온스테이지 후원 라이브] 아도이 - Lemon]]></title>
-            <link>https://tv.naver.com/v/28056245</link>
-            <guid>https://tv.naver.com/v/28056245</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[3:44]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_40/b0BXV_1658299135638GO7Ex_JPEG/f8a2bd1e-07f5-11ed-89b9-d4f5ef5906a4_09.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAAL_양산도]]></title>
-            <link>https://tv.naver.com/v/28052946</link>
-            <guid>https://tv.naver.com/v/28052946</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[5:13]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_291/lz0cW_1658291783125ijEUS_JPEG/69a93229-07e3-11ed-9fa8-505dacfba98a_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAAL_한강밀]]></title>
-            <link>https://tv.naver.com/v/28052492</link>
-            <guid>https://tv.naver.com/v/28052492</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[7:35]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_293/nrj7K_165829087021489DTw_JPEG/4560222a-07e0-11ed-8863-48df379cc9e4_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TAAL_술비]]></title>
-            <link>https://tv.naver.com/v/28051977</link>
-            <guid>https://tv.naver.com/v/28051977</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[9:33]]></content:encoded>
-            <enclosure url="https://phinf.pstatic.net/tvcast/20220720_169/xT1J8_1658289521644Cq8Uq_JPEG/0f7695de-07dd-11ed-8e34-505dac8c3721_03.jpg?type=f194_109_blend" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
