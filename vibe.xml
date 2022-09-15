@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-09-15T06:36:53.637Z</updated>
+    <updated>2022-09-15T07:24:42.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THIS IS REAL, Los – 로스(Los)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13461</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13461"/>
+        <updated>2022-09-15T07:24:22.193Z</updated>
+        <content type="html"><![CDATA[- 정통 웨스트코스트 힙합을 들려주는 LA 출신 래퍼 로스를 소개합니다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[은은하게 빛나는 진중한 목소리, 김새녘]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13441</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13441"/>
+        <updated>2022-09-15T07:24:22.199Z</updated>
+        <content type="html"><![CDATA[‘싫증’으로 주목받는 신인으로 떠오른 싱어송라이터, 김새녘을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비공식적 무모함으로, 언오피셜보이(unofficialboyy)]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13421</id>
@@ -74,19 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13262"/>
         <updated>2022-07-14T03:16:45.326Z</updated>
         <content type="html"><![CDATA[‘Ares’로 세계 무대에서도 통한 테크노 듀오, 피에르 블랑쉐를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀러 오세요, 라드 뮤지엄에, RAD MUSEUM(라드 뮤지엄)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13241</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13241"/>
-        <updated>2022-07-07T03:15:26.682Z</updated>
-        <content type="html"><![CDATA[R&amp;B를 기반으로 대중 음악의 다양한 대안을 찾아 나서는 프로듀서, 라드 뮤지엄을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반박불가. 그리고 대체불가. Y2K92]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13221</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13221"/>
-        <updated>2022-06-30T03:07:35.851Z</updated>
-        <content type="html"><![CDATA[지금 한국에서 가장 주목해야 하는 언더그라운드 듀오, Y2K92를 소개합니다.]]></content>
     </entry>
 </feed>
