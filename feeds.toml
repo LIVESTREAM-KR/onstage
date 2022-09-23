@@ -1,3 +1,6 @@
+[default]
+timeout = 120
+
 [vibe_recent]
 title = "VIBE ─ 온스테이지"
 url = "https://vibe.naver.com/onstage/season/2"
