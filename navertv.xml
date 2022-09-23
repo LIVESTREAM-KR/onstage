@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.naver.com/onstage/clips</id>
-    <title>ONSTAGE (온스테이지)</title>
-    <updated>2022-09-23T19:13:08.854Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://tv.naver.com/onstage/favicon.ico</icon>
-</feed>
