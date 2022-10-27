@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-10-27T06:15:50.498Z</updated>
+    <updated>2022-10-27T07:10:32.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[싱어송라이터 역할은 발굴, 김푸름]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13561</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13561"/>
+        <updated>2022-10-27T07:10:30.545Z</updated>
+        <content type="html"><![CDATA[매장됐던 감수성을 끄집어내는 열여섯 살 김푸름을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랩의 멀티버스, 블라세]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13541</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13361"/>
         <updated>2022-10-19T16:23:01.215Z</updated>
         <content type="html"><![CDATA[작은 일상의 순간을 소중히 담아내는 싱어송라이터 지소쿠리를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말하지 않아도 언제나 청춘, 강승원]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13341</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13341"/>
-        <updated>2022-10-19T16:23:01.217Z</updated>
-        <content type="html"><![CDATA[음악감독·싱어송라이터 너머 가수 강승원을 소개합니다.]]></content>
     </entry>
 </feed>
