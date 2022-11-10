@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-11-10T12:20:22.127Z</updated>
+    <updated>2022-11-10T13:43:27.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-11-10T12:20:11.966Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13601</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13601"/>
+        <updated>2022-11-10T13:43:18.176Z</updated>
+        <content type="html"><![CDATA[싱어송라이터 강아솔과 함께 숲속 원테이크 콘서트를 열었습니다.]]></content>
     </entry>
 </feed>
