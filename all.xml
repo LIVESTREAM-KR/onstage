@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T18:17:59.452Z</updated>
+    <updated>2022-12-01T19:07:56.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[적막한 해변의 낮잠과 꿈, Tuesday Beach Club (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13661</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13661"/>
-        <updated>2022-12-01T12:18:33.733Z</updated>
-        <content type="html"><![CDATA[한적한 해변의 노래를 상상하는 밴드, Tuesday Beach Club을 소개합니다.]]></content>
+        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2022-12-01T19:07:48.055Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[자유와 사랑이 이끄는 곳으로, 김오키 (VIBE ─ 온스테이지)]]></title>
