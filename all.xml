@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-12T13:19:07.727Z</updated>
+    <updated>2022-12-12T14:08:20.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-12-12T13:18:59.126Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13681</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13681"/>
+        <updated>2022-12-12T14:08:12.020Z</updated>
+        <content type="html"><![CDATA[혼란한 시대, 악하고 강한 치킨 헤드의 펑크록 밴드, 럼킥스를 소개합니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[적막한 해변의 낮잠과 꿈, Tuesday Beach Club (VIBE ─ 온스테이지)]]></title>
