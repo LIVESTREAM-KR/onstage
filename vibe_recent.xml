@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-12-13T06:13:55.882Z</updated>
+    <updated>2022-12-13T07:08:50.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-12-13T05:08:32.245Z</updated>
+        <title type="html"><![CDATA[불온하고도 신성한 조선 펑크의 재림, 럼킥스]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13681</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13681"/>
+        <updated>2022-12-13T07:08:41.183Z</updated>
+        <content type="html"><![CDATA[혼란한 시대, 악하고 강한 치킨 헤드의 펑크록 밴드, 럼킥스를 소개합니다.]]></content>
     </entry>
 </feed>
