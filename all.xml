@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-16T03:09:45.512Z</updated>
+    <updated>2022-12-16T04:09:58.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2022-12-16T03:09:36.637Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13701</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13701"/>
+        <updated>2022-12-16T04:09:49.885Z</updated>
+        <content type="html"><![CDATA[음악과 이름 모두 달라진 부부 듀오, 선과영을 소개합니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[불온하고도 신성한 조선 펑크의 재림, 럼킥스 (VIBE ─ 온스테이지)]]></title>
