@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-12-28T16:10:58.328Z</updated>
+    <updated>2022-12-28T17:07:38.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[중요한 건 꺾이지 않는 블루스, 하헌진]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13721</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13721"/>
-        <updated>2022-12-28T16:10:49.362Z</updated>
-        <content type="html"><![CDATA[델타 블루스를 사랑하던 청년에서 사연 많은 블루스맨으로 성장한 싱어송라이터, 하헌진을 소개합니다.]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2022-12-28T17:07:30.272Z</updated>
     </entry>
 </feed>
