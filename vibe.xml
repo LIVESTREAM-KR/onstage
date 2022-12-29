@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2022-12-29T02:09:10.008Z</updated>
+    <updated>2022-12-29T03:09:48.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중요한 건 꺾이지 않는 블루스, 하헌진]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13721</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13721"/>
+        <updated>2022-12-29T03:09:47.464Z</updated>
+        <content type="html"><![CDATA[델타 블루스를 사랑하던 청년에서 사연 많은 블루스맨으로 성장한 싱어송라이터, 하헌진을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 Christmas ONSTAGE]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13702</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13521"/>
         <updated>2022-11-15T10:10:43.785Z</updated>
         <content type="html"><![CDATA[색소폰과 신시사이저가 만났을 때, 재즈 아티스트 남유선을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그곳엔 언제나 그가 있다]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13501</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13501"/>
-        <updated>2022-11-15T10:10:43.789Z</updated>
-        <content type="html"><![CDATA[온몸으로 노래하며 지금을 사는, 민중 엔터테이너 야마가타 트윅스터를 소개합니다.]]></content>
     </entry>
 </feed>
