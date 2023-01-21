@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-01-21T21:07:25.251Z</updated>
+    <updated>2023-01-21T22:07:54.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2023-01-21T08:10:36.966Z</updated>
+        <title type="html"><![CDATA[피아노 앞의 짝사랑 전문가]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13801</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13801"/>
+        <updated>2023-01-21T22:07:46.066Z</updated>
+        <content type="html"><![CDATA[해맑은 목소리로 삶과 사랑의 고민을 노래하는 싱어송라이터, 장들레를 소개합니다.]]></content>
     </entry>
 </feed>
