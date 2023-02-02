@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T23:09:47.777Z</updated>
+    <updated>2023-02-02T00:43:54.845Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[노래로 청춘을 써도 – 한로로 (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13821</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13821"/>
-        <updated>2023-02-01T23:09:37.998Z</updated>
-        <content type="html"><![CDATA[- 불안과 희망을 청춘의 색으로 그려내는 싱어송라이터 한로로를 소개합니다.]]></content>
+        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2023-02-02T00:43:46.407Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[피아노 앞의 짝사랑 전문가 (VIBE ─ 온스테이지)]]></title>
