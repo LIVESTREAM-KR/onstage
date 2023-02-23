@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-02-23T00:42:44.162Z</updated>
+    <updated>2023-02-23T02:16:25.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[완벽하게 완벽하지 않은 예술세계, 배현이]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13861</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13861"/>
+        <updated>2023-02-23T02:16:24.334Z</updated>
+        <content type="html"><![CDATA[다분히 의도적으로 하고 싶은 것만 하는 ‘쌉 인디’ 종합예술인 배현이를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[날 좀 내버려 둬, 힙노시스 테라피]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13842</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13681"/>
         <updated>2022-12-15T02:18:17.851Z</updated>
         <content type="html"><![CDATA[혼란한 시대, 악하고 강한 치킨 헤드의 펑크록 밴드, 럼킥스를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적막한 해변의 낮잠과 꿈, Tuesday Beach Club]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13661</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13661"/>
-        <updated>2022-12-08T02:15:30.761Z</updated>
-        <content type="html"><![CDATA[한적한 해변의 노래를 상상하는 밴드, Tuesday Beach Club을 소개합니다.]]></content>
     </entry>
 </feed>
