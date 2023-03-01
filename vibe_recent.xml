@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-03-01T02:29:07.874Z</updated>
+    <updated>2023-03-01T03:24:55.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2023-03-01T00:49:09.332Z</updated>
+        <title type="html"><![CDATA[록은 기교가 아닌 태도]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13862</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13862"/>
+        <updated>2023-03-01T03:24:46.441Z</updated>
+        <content type="html"><![CDATA[기타리스트가 쓰는 곡의 로킹함을 믿게 하는 매미를 소개합니다.]]></content>
     </entry>
 </feed>
