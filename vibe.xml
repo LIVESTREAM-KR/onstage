@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-03-02T06:12:54.683Z</updated>
+    <updated>2023-03-02T07:09:35.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[록은 기교가 아닌 태도]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13862</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13862"/>
+        <updated>2023-03-02T07:09:34.797Z</updated>
+        <content type="html"><![CDATA[기타리스트가 쓰는 곡의 로킹함을 믿게 하는 매미를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[완벽하게 완벽하지 않은 예술세계, 배현이]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13861</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13701"/>
         <updated>2022-12-19T06:11:34.020Z</updated>
         <content type="html"><![CDATA[음악과 이름 모두 달라진 부부 듀오, 선과영을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불온하고도 신성한 조선 펑크의 재림, 럼킥스]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13681</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13681"/>
-        <updated>2022-12-15T02:18:17.851Z</updated>
-        <content type="html"><![CDATA[혼란한 시대, 악하고 강한 치킨 헤드의 펑크록 밴드, 럼킥스를 소개합니다.]]></content>
     </entry>
 </feed>
