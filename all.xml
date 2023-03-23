@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-23T02:01:43.841Z</updated>
+    <updated>2023-03-23T03:09:10.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2023-03-23T02:01:36.769Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13866</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13866"/>
+        <updated>2023-03-23T03:09:03.091Z</updated>
+        <content type="html"><![CDATA[유유하게, 때로는 거칠게. 결을 아는 싱어송라이터 다운(Dvwn)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음악의 가지수만큼 다양한 패기의 재즈, Other Life (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13865</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13865"/>
+        <updated>2023-03-23T03:09:09.557Z</updated>
+        <content type="html"><![CDATA[재즈의 색다른 매력을 앞장서 발산하는 밴드, Other Life를 소개합니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼터너티브가 돌아온다, 아워 에이지 (VIBE ─ 온스테이지)]]></title>
@@ -86,12 +94,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13741"/>
         <updated>2023-01-05T02:11:56.945Z</updated>
         <content type="html"><![CDATA[멈추지 않는 유연한 동력의 전자음악가, 리비게쉬를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중요한 건 꺾이지 않는 블루스, 하헌진 (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13721</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13721"/>
-        <updated>2022-12-29T02:09:00.086Z</updated>
-        <content type="html"><![CDATA[델타 블루스를 사랑하던 청년에서 사연 많은 블루스맨으로 성장한 싱어송라이터, 하헌진을 소개합니다.]]></content>
     </entry>
 </feed>
