@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-03-30T05:08:40.622Z</updated>
+    <updated>2023-03-30T06:12:14.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가장 젊은 날의 기록]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13866</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13866"/>
+        <updated>2023-03-30T06:12:13.875Z</updated>
+        <content type="html"><![CDATA[유유하게, 때로는 거칠게. 결을 아는 싱어송라이터 다운(Dvwn)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악의 가지수만큼 다양한 패기의 재즈, Other Life]]></title>
         <id>https://vibe.naver.com/onstage/season/2/article/13865</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13761"/>
         <updated>2023-01-12T02:13:09.274Z</updated>
         <content type="html"><![CDATA[관심과 애정으로 맥락을 쌓는 프로듀서, 후쿠오를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIQUID ACID, 리비게쉬]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13741</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13741"/>
-        <updated>2023-01-05T02:11:56.945Z</updated>
-        <content type="html"><![CDATA[멈추지 않는 유연한 동력의 전자음악가, 리비게쉬를 소개합니다.]]></content>
     </entry>
 </feed>
