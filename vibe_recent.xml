@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-04-20T12:15:05.679Z</updated>
+    <updated>2023-04-20T13:12:12.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[세월과 세대를 뛰어넘는 아름다운 노래, Old But Gold]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13868</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13868"/>
-        <updated>2023-04-20T12:14:56.409Z</updated>
-        <content type="html"><![CDATA[온스테이지 큐레이션 시리즈 첫번째 by 이진수 기획위원]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
+        <updated>2023-04-20T13:12:04.807Z</updated>
     </entry>
 </feed>
