@@ -2,13 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-18T06:11:07.176Z</updated>
+    <updated>2023-05-18T07:08:26.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2023-05-18T03:09:03.487Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13871</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13871"/>
+        <updated>2023-05-18T07:08:18.225Z</updated>
+        <content type="html"><![CDATA[온스테이지 테마 기획 네 번째 by 김윤하 기획위원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전자음악 라이브 다시 보기 (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/season/2/article/13870</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13870"/>
+        <updated>2023-05-18T07:08:25.673Z</updated>
+        <content type="html"><![CDATA[온스테이지 테마 기획 세 번째 by 유지성 기획위원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부산스럽지 않게 부산을 지켜봐 온 묵묵함, 지연(地緣) 아닌 음연(音緣) (VIBE ─ 온스테이지)]]></title>
@@ -86,12 +94,5 @@
         <link href="https://vibe.naver.com/onstage/season/2/article/13841"/>
         <updated>2023-02-09T02:19:13.546Z</updated>
         <content type="html"><![CDATA[- 한국 재즈의 현재를 만들어가는 재즈 피아니스트이자 보컬리스트 마리아킴을 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노래로 청춘을 써도 – 한로로 (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/13821</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/13821"/>
-        <updated>2023-02-02T02:16:01.941Z</updated>
-        <content type="html"><![CDATA[- 불안과 희망을 청춘의 색으로 그려내는 싱어송라이터 한로로를 소개합니다.]]></content>
     </entry>
 </feed>
