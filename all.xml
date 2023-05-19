@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-19T15:08:24.689Z</updated>
+    <updated>2023-05-19T16:10:13.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2023-05-19T13:10:30.134Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13871</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13871"/>
+        <updated>2023-05-19T16:10:06.045Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[전자음악 라이브 다시 보기 (VIBE ─ 온스테이지)]]></title>
