@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-05-20T04:09:16.491Z</updated>
+    <updated>2023-05-20T05:07:51.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/season/2/article/undefined</id>
-        <link href="https://vibe.naver.com/onstage/season/2/article/undefined"/>
-        <updated>2023-05-20T04:09:09.396Z</updated>
+        <id>https://vibe.naver.com/onstage/season/2/article/13871</id>
+        <link href="https://vibe.naver.com/onstage/season/2/article/13871"/>
+        <updated>2023-05-20T05:07:43.535Z</updated>
+        <content type="html"><![CDATA[온스테이지 테마 기획 네 번째 by 김윤하 기획위원]]></content>
     </entry>
 </feed>
