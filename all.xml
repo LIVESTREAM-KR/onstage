@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-08T00:46:37.591Z</updated>
+    <updated>2023-06-08T02:24:01.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
         <id>https://vibe.naver.com/onstage/undefined</id>
         <link href="https://vibe.naver.com/onstage/undefined"/>
         <updated>2023-06-07T23:08:18.986Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전통과 동시대성, 정통과 변주 사이 (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/13872</id>
+        <link href="https://vibe.naver.com/onstage/13872"/>
+        <updated>2023-06-08T02:24:01.100Z</updated>
+        <content type="html"><![CDATA[온스테이지 테마 기획 다섯 번째 by 정병욱 기획위원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왔노라, 보았노라, 느꼈노라 올해 페스티벌에서 절대 놓치면 안 되는 음악가들 (VIBE ─ 온스테이지)]]></title>
@@ -86,12 +93,5 @@
         <link href="https://vibe.naver.com/onstage/13861"/>
         <updated>2023-06-01T08:10:52.811Z</updated>
         <content type="html"><![CDATA[다분히 의도적으로 하고 싶은 것만 하는 ‘쌉 인디’ 종합예술인 배현이를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날 좀 내버려 둬, 힙노시스 테라피 (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13842</id>
-        <link href="https://vibe.naver.com/onstage/13842"/>
-        <updated>2023-06-01T08:10:52.811Z</updated>
-        <content type="html"><![CDATA[넘어지지 않고 경계를 가로지르는 듀오, 힙노시스 테라피를 소개합니다.]]></content>
     </entry>
 </feed>
