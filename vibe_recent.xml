@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-06-14T20:08:46.743Z</updated>
+    <updated>2023-06-14T21:07:41.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-06-14T20:08:39.597Z</updated>
+        <title type="html"><![CDATA[익숙하고도 낯선 감각의 향연, So!YoON!]]></title>
+        <id>https://vibe.naver.com/onstage/13879</id>
+        <link href="https://vibe.naver.com/onstage/13879"/>
+        <updated>2023-06-14T21:07:34.446Z</updated>
+        <content type="html"><![CDATA[So!YoON!(황소윤)이기에 가능한 고백의 형식들]]></content>
     </entry>
 </feed>
