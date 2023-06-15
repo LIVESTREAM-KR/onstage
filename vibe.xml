@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-06-15T00:44:51.899Z</updated>
+    <updated>2023-06-15T02:09:15.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[익숙하고도 낯선 감각의 향연, So!YoON!]]></title>
+        <id>https://vibe.naver.com/onstage/13879</id>
+        <link href="https://vibe.naver.com/onstage/13879"/>
+        <updated>2023-06-15T02:09:14.932Z</updated>
+        <content type="html"><![CDATA[So!YoON!(황소윤)이기에 가능한 고백의 형식들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전통과 동시대성, 정통과 변주 사이]]></title>
         <id>https://vibe.naver.com/onstage/13872</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/13862"/>
         <updated>2023-06-01T08:10:52.810Z</updated>
         <content type="html"><![CDATA[기타리스트가 쓰는 곡의 로킹함을 믿게 하는 매미를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완벽하게 완벽하지 않은 예술세계, 배현이]]></title>
-        <id>https://vibe.naver.com/onstage/13861</id>
-        <link href="https://vibe.naver.com/onstage/13861"/>
-        <updated>2023-06-01T08:10:52.811Z</updated>
-        <content type="html"><![CDATA[다분히 의도적으로 하고 싶은 것만 하는 ‘쌉 인디’ 종합예술인 배현이를 소개합니다.]]></content>
     </entry>
 </feed>
