@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-06-22T00:48:40.721Z</updated>
+    <updated>2023-06-22T02:12:36.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내면의 글리치를 메우며 돋아나는 새 살, 장명선]]></title>
+        <id>https://vibe.naver.com/onstage/13880</id>
+        <link href="https://vibe.naver.com/onstage/13880"/>
+        <updated>2023-06-22T02:12:35.262Z</updated>
+        <content type="html"><![CDATA[외유내강의 전자음악가 장명선을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[익숙하고도 낯선 감각의 향연, So!YoON!]]></title>
         <id>https://vibe.naver.com/onstage/13879</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/13863"/>
         <updated>2023-06-01T08:10:52.809Z</updated>
         <content type="html"><![CDATA[삶의 순간을 간절한 시선으로 그려내는 R&amp;B 싱어송라이터 오션프롬더블루를 소개합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록은 기교가 아닌 태도]]></title>
-        <id>https://vibe.naver.com/onstage/13862</id>
-        <link href="https://vibe.naver.com/onstage/13862"/>
-        <updated>2023-06-01T08:10:52.810Z</updated>
-        <content type="html"><![CDATA[기타리스트가 쓰는 곡의 로킹함을 믿게 하는 매미를 소개합니다.]]></content>
     </entry>
 </feed>
