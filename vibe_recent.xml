@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-06-23T14:09:15.760Z</updated>
+    <updated>2023-06-23T15:10:02.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-06-23T11:08:30.928Z</updated>
+        <id>https://vibe.naver.com/onstage/13881</id>
+        <link href="https://vibe.naver.com/onstage/13881"/>
+        <updated>2023-06-23T15:09:54.206Z</updated>
+        <content type="html"><![CDATA[변칙 본능의 재미를 연주하는 봉제인간을 소개합니다]]></content>
     </entry>
 </feed>
