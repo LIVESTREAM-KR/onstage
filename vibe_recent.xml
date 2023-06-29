@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-06-28T23:11:15.340Z</updated>
+    <updated>2023-06-29T03:22:59.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-06-28T23:11:06.538Z</updated>
+        <id>https://vibe.naver.com/onstage/13884</id>
+        <link href="https://vibe.naver.com/onstage/13884"/>
+        <updated>2023-06-29T03:22:51.676Z</updated>
+        <content type="html"><![CDATA[PLAY#3 1990 vs 2020 PLAY#4 뮤지션 vs 제작사]]></content>
     </entry>
 </feed>
