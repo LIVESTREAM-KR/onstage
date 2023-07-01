@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-07-01T19:07:22.568Z</updated>
+    <updated>2023-07-01T20:09:34.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-07-01T13:13:50.491Z</updated>
+        <title type="html"><![CDATA[악을 물리치는 고아한 빛의 메탈, 아그네스]]></title>
+        <id>https://vibe.naver.com/onstage/13885</id>
+        <link href="https://vibe.naver.com/onstage/13885"/>
+        <updated>2023-07-01T20:09:24.830Z</updated>
+        <content type="html"><![CDATA[뜨겁게 제련한, 단단한 보석 같은 메탈 밴드 아그네스를 소개합니다.]]></content>
     </entry>
 </feed>
