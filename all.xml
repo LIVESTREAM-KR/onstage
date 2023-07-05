@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-05T20:10:54.816Z</updated>
+    <updated>2023-07-05T21:08:49.349Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13886</id>
-        <link href="https://vibe.naver.com/onstage/13886"/>
-        <updated>2023-07-05T19:08:18.971Z</updated>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-07-05T21:08:41.998Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[악을 물리치는 고아한 빛의 메탈, 아그네스 (VIBE ─ 온스테이지)]]></title>
