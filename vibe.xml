@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-07-11T00:44:27.239Z</updated>
+    <updated>2023-07-11T02:19:02.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가연성 사이키델릭 에너지, 우먼 휴먼]]></title>
+        <id>https://vibe.naver.com/onstage/13887</id>
+        <link href="https://vibe.naver.com/onstage/13887"/>
+        <updated>2023-07-11T02:19:01.818Z</updated>
+        <content type="html"><![CDATA[순도 가득한 응집력으로 무대를 흔드는 밴드, 우먼 휴먼을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[FORSTAGE] 바이닐(Vinyl) - PAUSE #TIME TO PLAY : 바이닐지식정보1]]></title>
         <id>https://vibe.naver.com/onstage/13886</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/13870"/>
         <updated>2023-06-01T08:10:52.798Z</updated>
         <content type="html"><![CDATA[온스테이지 테마 기획 세 번째 by 유지성 기획위원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산스럽지 않게 부산을 지켜봐 온 묵묵함, 지연(地緣) 아닌 음연(音緣)]]></title>
-        <id>https://vibe.naver.com/onstage/13869</id>
-        <link href="https://vibe.naver.com/onstage/13869"/>
-        <updated>2023-06-01T08:10:52.798Z</updated>
-        <content type="html"><![CDATA[온스테이지 테마 기획 두 번째 by 이재훈 기획위원]]></content>
     </entry>
 </feed>
