@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-12T18:12:05.854Z</updated>
+    <updated>2023-07-12T19:07:49.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13888</id>
-        <link href="https://vibe.naver.com/onstage/13888"/>
-        <updated>2023-07-12T17:09:14.548Z</updated>
-        <content type="html"><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악]]></content>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-07-12T19:07:41.785Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[가연성 사이키델릭 에너지, 우먼 휴먼 (VIBE ─ 온스테이지)]]></title>
