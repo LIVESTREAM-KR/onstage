@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-26T21:08:01.811Z</updated>
+    <updated>2023-07-26T22:08:00.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13891</id>
-        <link href="https://vibe.naver.com/onstage/13891"/>
-        <updated>2023-07-26T21:07:52.499Z</updated>
-        <content type="html"><![CDATA[진솔한 탱고 통역가, 반도네오니스트 연하늘을 소개합니다.]]></content>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-07-26T22:07:52.581Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[[FORSTAGE] 바이닐(Vinyl) - STOP #바이닐 리바이벌 : 바이닐 지식 정보 (VIBE ─ 온스테이지)]]></title>
