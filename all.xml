@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-01T08:11:21.640Z</updated>
+    <updated>2023-08-01T09:08:48.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[NOW AND FOREVER, 마이 앤트 메리 (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13892</id>
-        <link href="https://vibe.naver.com/onstage/13892"/>
-        <updated>2023-08-01T08:11:12.776Z</updated>
-        <content type="html"><![CDATA[뜨겁고 청량한 순간을 환기 시키는 모던 록 밴드 마이 앤트 메리를 소개합니다.]]></content>
+        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-08-01T09:08:40.351Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국에서 느끼는 아르헨티나 흙과 바람의 냄새, 연하늘 (VIBE ─ 온스테이지)]]></title>
