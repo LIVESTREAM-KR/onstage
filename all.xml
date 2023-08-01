@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-01T12:15:15.110Z</updated>
+    <updated>2023-08-01T13:11:45.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13892</id>
-        <link href="https://vibe.naver.com/onstage/13892"/>
-        <updated>2023-08-01T12:15:06.640Z</updated>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-08-01T13:11:36.845Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국에서 느끼는 아르헨티나 흙과 바람의 냄새, 연하늘 (VIBE ─ 온스테이지)]]></title>
