@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-08-10T02:01:44.392Z</updated>
+    <updated>2023-08-10T03:09:08.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우주 같은 적요에서 빛어낸 노래들, 카리나 네뷸라]]></title>
+        <id>https://vibe.naver.com/onstage/13893</id>
+        <link href="https://vibe.naver.com/onstage/13893"/>
+        <updated>2023-08-10T03:09:07.474Z</updated>
+        <content type="html"><![CDATA[4명의 재즈 디바가 뭉친 신비로운 성운 ‘카리나 네뷸라’를 소개합니다]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NOW AND FOREVER, 마이 앤트 메리]]></title>
         <id>https://vibe.naver.com/onstage/13892</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/13882"/>
         <updated>2023-06-27T02:27:11.257Z</updated>
         <content type="html"><![CDATA[[FORSTAGE] 바이닐 디깅의 시작. FORSTAGE가 함께합니다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빤한 정답이 아닌 한 땀 한 땀 공들인 질문, 봉제인간]]></title>
-        <id>https://vibe.naver.com/onstage/13881</id>
-        <link href="https://vibe.naver.com/onstage/13881"/>
-        <updated>2023-06-27T02:27:11.259Z</updated>
-        <content type="html"><![CDATA[변칙 본능의 재미를 연주하는 봉제인간을 소개합니다]]></content>
     </entry>
 </feed>
