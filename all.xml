@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-12T21:06:48.015Z</updated>
+    <updated>2023-08-12T22:07:23.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+        <title type="html"><![CDATA[켜켜이 쌓아올린 입체적 사운드, 밀릭 (VIBE ─ 온스테이지)]]></title>
         <id>https://vibe.naver.com/onstage/13894</id>
         <link href="https://vibe.naver.com/onstage/13894"/>
         <updated>2023-08-12T21:06:39.740Z</updated>
+        <content type="html"><![CDATA[질리지 않는 균형잡힌 감각의 밀릭을 소개합니다.]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우주 같은 적요에서 빛어낸 노래들, 카리나 네뷸라 (VIBE ─ 온스테이지)]]></title>
