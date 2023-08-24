@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-08-24T01:39:28.770Z</updated>
+    <updated>2023-08-24T02:13:11.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[믿음직한 나이테와 깊은 뿌리의 노래, 허정혁]]></title>
+        <id>https://vibe.naver.com/onstage/13895</id>
+        <link href="https://vibe.naver.com/onstage/13895"/>
+        <updated>2023-08-24T02:13:11.175Z</updated>
+        <content type="html"><![CDATA[들꽃 같은 노래를 부르는 싱어송라이터 허정혁을 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[켜켜이 쌓아올린 입체적 사운드, 밀릭]]></title>
         <id>https://vibe.naver.com/onstage/13894</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/13884"/>
         <updated>2023-06-29T08:21:46.804Z</updated>
         <content type="html"><![CDATA[PLAY#3 1990 vs 2020 PLAY#4 뮤지션 vs 제작사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FORSTAGE] 바이닐(Vinyl) – PLAY 티키타카 인터뷰]]></title>
-        <id>https://vibe.naver.com/onstage/13883</id>
-        <link href="https://vibe.naver.com/onstage/13883"/>
-        <updated>2023-06-28T02:25:19.956Z</updated>
-        <content type="html"><![CDATA[PLAY#1 레코드숍 vs 레코드숍, PLAY#2 컬렉터 vs 컬렉터]]></content>
     </entry>
 </feed>
