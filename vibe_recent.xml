@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-08-26T12:12:58.375Z</updated>
+    <updated>2023-08-26T13:08:23.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-08-26T11:06:08.750Z</updated>
+        <id>https://vibe.naver.com/onstage/13896</id>
+        <link href="https://vibe.naver.com/onstage/13896"/>
+        <updated>2023-08-26T13:08:14.656Z</updated>
+        <content type="html"><![CDATA[스스로 변환점을 만드는 래퍼, 미란이를 소개합니다.]]></content>
     </entry>
 </feed>
