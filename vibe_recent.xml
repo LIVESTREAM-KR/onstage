@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-09-05T17:08:39.418Z</updated>
+    <updated>2023-09-05T18:09:43.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[숨길 수 없이 빛나는 마음으로, 백아]]></title>
-        <id>https://vibe.naver.com/onstage/13897</id>
-        <link href="https://vibe.naver.com/onstage/13897"/>
-        <updated>2023-09-05T15:08:43.417Z</updated>
-        <content type="html"><![CDATA[유성우처럼 쏟아지는 백아의 세계로 초대합니다.]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-09-05T18:09:35.870Z</updated>
     </entry>
 </feed>
