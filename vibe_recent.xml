@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-09-10T09:07:31.278Z</updated>
+    <updated>2023-09-10T10:07:51.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-09-10T06:10:21.749Z</updated>
+        <id>https://vibe.naver.com/onstage/13898</id>
+        <link href="https://vibe.naver.com/onstage/13898"/>
+        <updated>2023-09-10T10:07:43.287Z</updated>
+        <content type="html"><![CDATA[전형성을 벗어난 보편성, 미역수염을 소개합니다.]]></content>
     </entry>
 </feed>
