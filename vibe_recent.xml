@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-09-16T14:07:14.388Z</updated>
+    <updated>2023-09-16T15:07:33.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -10,5 +10,6 @@
         <id>https://vibe.naver.com/onstage/13899</id>
         <link href="https://vibe.naver.com/onstage/13899"/>
         <updated>2023-09-16T12:12:26.584Z</updated>
+        <content type="html"><![CDATA[유연하게 긴장을 연출하는 싱어송라이터, 태버를 소개합니다.]]></content>
     </entry>
 </feed>
