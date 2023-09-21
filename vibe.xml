@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-09-21T01:41:30.358Z</updated>
+    <updated>2023-09-21T02:15:16.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[불완전한 완전함, 태버]]></title>
+        <id>https://vibe.naver.com/onstage/13899</id>
+        <link href="https://vibe.naver.com/onstage/13899"/>
+        <updated>2023-09-21T02:15:15.559Z</updated>
+        <content type="html"><![CDATA[유연하게 긴장을 연출하는 싱어송라이터, 태버를 소개합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무지막지한 연주로 허장성세를 밟다, 미역수염]]></title>
         <id>https://vibe.naver.com/onstage/13898</id>
@@ -81,12 +88,5 @@
         <link href="https://vibe.naver.com/onstage/13888"/>
         <updated>2023-07-13T03:23:00.162Z</updated>
         <content type="html"><![CDATA[[FORSTAGE] 바이닐(Vinyl) ∙ REPEAT – 바이닐로 만나는 90년대 숨은 음악]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가연성 사이키델릭 에너지, 우먼 휴먼]]></title>
-        <id>https://vibe.naver.com/onstage/13887</id>
-        <link href="https://vibe.naver.com/onstage/13887"/>
-        <updated>2023-07-11T02:19:01.818Z</updated>
-        <content type="html"><![CDATA[순도 가득한 응집력으로 무대를 흔드는 밴드, 우먼 휴먼을 소개합니다.]]></content>
     </entry>
 </feed>
