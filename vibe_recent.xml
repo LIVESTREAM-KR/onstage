@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-09-25T18:11:04.064Z</updated>
+    <updated>2023-09-25T19:07:17.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[한국 재즈의 New Generation 기수, 이수정]]></title>
-        <id>https://vibe.naver.com/onstage/13900</id>
-        <link href="https://vibe.naver.com/onstage/13900"/>
-        <updated>2023-09-25T18:10:55.961Z</updated>
-        <content type="html"><![CDATA[전통과 자유를 양손에 쥔 색소포니스트 이수정을 소개합니다.]]></content>
+        <title type="html"><![CDATA[]]></title>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-09-25T19:07:09.727Z</updated>
     </entry>
 </feed>
