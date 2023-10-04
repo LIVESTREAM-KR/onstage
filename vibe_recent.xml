@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-10-04T04:10:04.829Z</updated>
+    <updated>2023-10-04T05:08:23.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-10-04T02:18:12.187Z</updated>
+        <title type="html"><![CDATA[MAKE IT LAST FOREVER, 쏠]]></title>
+        <id>https://vibe.naver.com/onstage/13901</id>
+        <link href="https://vibe.naver.com/onstage/13901"/>
+        <updated>2023-10-04T05:08:14.699Z</updated>
+        <content type="html"><![CDATA[지금을 즐기며 뚝심 있게 나아가는 싱어송라이터, 쏠을 소개합니다.]]></content>
     </entry>
 </feed>
