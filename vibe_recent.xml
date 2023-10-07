@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-10-07T00:35:27.477Z</updated>
+    <updated>2023-10-07T01:41:57.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-10-06T23:08:01.747Z</updated>
+        <id>https://vibe.naver.com/onstage/13902</id>
+        <link href="https://vibe.naver.com/onstage/13902"/>
+        <updated>2023-10-07T01:41:49.557Z</updated>
+        <content type="html"><![CDATA[신선하고 불확실한 재즈를 그리는 피아니스트 최민석을 소개합니다.]]></content>
     </entry>
 </feed>
