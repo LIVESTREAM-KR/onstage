@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T03:09:34.180Z</updated>
+    <updated>2023-10-11T04:10:21.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[편입되지 않는 독창적 에너지, 최민석 (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/13902</id>
-        <link href="https://vibe.naver.com/onstage/13902"/>
-        <updated>2023-10-11T02:16:30.033Z</updated>
-        <content type="html"><![CDATA[신선하고 불확실한 재즈를 그리는 피아니스트 최민석을 소개합니다.]]></content>
+        <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-10-11T04:10:11.031Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[MAKE IT LAST FOREVER, 쏠 (VIBE ─ 온스테이지)]]></title>
