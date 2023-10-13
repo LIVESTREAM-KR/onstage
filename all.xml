@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIVESTREAM-KR.github.io/onstage/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-13T08:11:53.513Z</updated>
+    <updated>2023-10-13T09:09:04.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ (VIBE ─ 온스테이지)]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-10-13T06:11:45.787Z</updated>
+        <id>https://vibe.naver.com/onstage/13903</id>
+        <link href="https://vibe.naver.com/onstage/13903"/>
+        <updated>2023-10-13T09:08:57.261Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[편입되지 않는 독창적 에너지, 최민석 (VIBE ─ 온스테이지)]]></title>
