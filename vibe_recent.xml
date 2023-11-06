@@ -2,14 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-11-06T22:07:57.942Z</updated>
+    <updated>2023-11-06T23:08:03.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/13906</id>
-        <link href="https://vibe.naver.com/onstage/13906"/>
-        <updated>2023-11-06T21:08:03.357Z</updated>
-        <content type="html"><![CDATA[16년 만에 첫 솔로 앨범을 발표한 싱어송라이터 조웅을 소개합니다.]]></content>
+        <id>https://vibe.naver.com/onstage/undefined</id>
+        <link href="https://vibe.naver.com/onstage/undefined"/>
+        <updated>2023-11-06T23:07:58.133Z</updated>
     </entry>
 </feed>
