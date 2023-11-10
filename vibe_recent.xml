@@ -2,13 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/onstage/season/2</id>
     <title>VIBE ─ 온스테이지</title>
-    <updated>2023-11-10T20:08:52.431Z</updated>
+    <updated>2023-11-10T21:08:08.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[]]></title>
-        <id>https://vibe.naver.com/onstage/undefined</id>
-        <link href="https://vibe.naver.com/onstage/undefined"/>
-        <updated>2023-11-10T20:08:44.057Z</updated>
+        <title type="html"><![CDATA[슬픔에 절대 익숙해지지 않는 촉수, 퓨어킴]]></title>
+        <id>https://vibe.naver.com/onstage/13907</id>
+        <link href="https://vibe.naver.com/onstage/13907"/>
+        <updated>2023-11-10T21:07:59.535Z</updated>
+        <content type="html"><![CDATA[위로보다는 안심, 싱어송라이터 퓨어킴을 소개합니다.]]></content>
     </entry>
 </feed>
